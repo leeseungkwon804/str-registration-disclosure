@@ -1,0 +1,1001 @@
+country,city,publish_date,role,side,room_type,n_listings,pct_blank,pct_exempt,pct_pending,pct_number,pct_text_other
+Australia,Melbourne,2025-12-12,control_noneu,pre,Entire home/apt,19160,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2025-12-12,control_noneu,pre,Hotel room,55,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2025-12-12,control_noneu,pre,Private room,6780,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2025-12-12,control_noneu,pre,Shared room,208,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-03-21,control_noneu,pre,Entire home/apt,13185,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-03-21,control_noneu,pre,Hotel room,36,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-03-21,control_noneu,pre,Private room,3334,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-03-21,control_noneu,pre,Shared room,119,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-06-16,control_noneu,post,Entire home/apt,18829,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-06-16,control_noneu,post,Hotel room,52,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-06-16,control_noneu,post,Private room,6616,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-06-16,control_noneu,post,Shared room,231,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-09-16,control_noneu,post,Entire home/apt,18959,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-09-16,control_noneu,post,Hotel room,54,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-09-16,control_noneu,post,Private room,6475,100.0,0.0,0.0,0.0,0.0
+Australia,Melbourne,2026-09-16,control_noneu,post,Shared room,227,100.0,0.0,0.0,0.0,0.0
+Australia,Sydney,2025-12-12,control_noneu,pre,Entire home/apt,16403,4.231,18.899,0.0,76.864,0.006
+Australia,Sydney,2025-12-12,control_noneu,pre,Hotel room,71,2.817,97.183,0.0,0.0,0.0
+Australia,Sydney,2025-12-12,control_noneu,pre,Private room,3917,17.667,22.313,0.0,60.02,0.0
+Australia,Sydney,2025-12-12,control_noneu,pre,Shared room,45,2.222,60.0,0.0,37.778,0.0
+Australia,Sydney,2026-03-21,control_noneu,pre,Entire home/apt,10994,0.164,20.229,0.0,79.598,0.009
+Australia,Sydney,2026-03-21,control_noneu,pre,Hotel room,43,0.0,100.0,0.0,0.0,0.0
+Australia,Sydney,2026-03-21,control_noneu,pre,Private room,2498,0.24,27.422,0.0,72.338,0.0
+Australia,Sydney,2026-03-21,control_noneu,pre,Shared room,28,0.0,53.571,0.0,46.429,0.0
+Australia,Sydney,2026-06-16,control_noneu,post,Entire home/apt,16192,3.761,18.367,0.0,77.866,0.006
+Australia,Sydney,2026-06-16,control_noneu,post,Hotel room,56,3.571,96.429,0.0,0.0,0.0
+Australia,Sydney,2026-06-16,control_noneu,post,Private room,4283,15.363,23.512,0.0,61.125,0.0
+Australia,Sydney,2026-06-16,control_noneu,post,Shared room,42,0.0,76.19,0.0,23.81,0.0
+Australia,Sydney,2026-09-16,control_noneu,post,Entire home/apt,16445,3.497,18.267,0.0,78.23,0.006
+Australia,Sydney,2026-09-16,control_noneu,post,Hotel room,58,3.448,96.552,0.0,0.0,0.0
+Australia,Sydney,2026-09-16,control_noneu,post,Private room,4282,15.25,23.143,0.0,61.607,0.0
+Australia,Sydney,2026-09-16,control_noneu,post,Shared room,48,0.0,72.917,0.0,27.083,0.0
+Canada,Montreal,2025-12-22,control_noneu,pre,Entire home/apt,8244,49.309,0.0,0.0,50.655,0.036
+Canada,Montreal,2025-12-22,control_noneu,pre,Hotel room,42,0.0,0.0,0.0,100.0,0.0
+Canada,Montreal,2025-12-22,control_noneu,pre,Private room,1728,58.044,0.0,0.0,41.898,0.058
+Canada,Montreal,2025-12-22,control_noneu,pre,Shared room,27,7.407,0.0,0.0,92.593,0.0
+Canada,Montreal,2026-03-16,control_noneu,pre,Entire home/apt,8373,48.035,0.0,0.0,51.905,0.06
+Canada,Montreal,2026-03-16,control_noneu,pre,Hotel room,42,0.0,0.0,0.0,100.0,0.0
+Canada,Montreal,2026-03-16,control_noneu,pre,Private room,1761,58.149,0.0,0.0,41.794,0.057
+Canada,Montreal,2026-03-16,control_noneu,pre,Shared room,30,16.667,0.0,0.0,83.333,0.0
+Canada,Montreal,2026-06-15,control_noneu,post,Entire home/apt,8728,45.28,0.0,0.011,54.652,0.057
+Canada,Montreal,2026-06-15,control_noneu,post,Hotel room,53,0.0,0.0,0.0,100.0,0.0
+Canada,Montreal,2026-06-15,control_noneu,post,Private room,1845,56.802,0.0,0.0,43.144,0.054
+Canada,Montreal,2026-06-15,control_noneu,post,Shared room,30,13.333,0.0,0.0,86.667,0.0
+Canada,Montreal,2026-09-14,control_noneu,post,Entire home/apt,8790,46.212,0.0,0.0,53.732,0.057
+Canada,Montreal,2026-09-14,control_noneu,post,Hotel room,59,0.0,0.0,0.0,100.0,0.0
+Canada,Montreal,2026-09-14,control_noneu,post,Private room,1833,59.847,0.0,0.0,40.098,0.055
+Canada,Montreal,2026-09-14,control_noneu,post,Shared room,35,11.429,0.0,0.0,88.571,0.0
+Canada,Toronto,2025-12-12,control_noneu,pre,Entire home/apt,14294,50.979,0.497,0.0,48.524,0.0
+Canada,Toronto,2025-12-12,control_noneu,pre,Hotel room,23,82.609,13.043,0.0,4.348,0.0
+Canada,Toronto,2025-12-12,control_noneu,pre,Private room,7215,52.502,0.596,0.0,46.819,0.083
+Canada,Toronto,2025-12-12,control_noneu,pre,Shared room,70,74.286,1.429,0.0,24.286,0.0
+Canada,Toronto,2026-03-19,control_noneu,pre,Entire home/apt,10516,39.093,0.437,0.0,60.47,0.0
+Canada,Toronto,2026-03-19,control_noneu,pre,Hotel room,22,86.364,13.636,0.0,0.0,0.0
+Canada,Toronto,2026-03-19,control_noneu,pre,Private room,4922,41.386,0.488,0.0,58.005,0.122
+Canada,Toronto,2026-03-19,control_noneu,pre,Shared room,30,50.0,6.667,0.0,43.333,0.0
+Canada,Toronto,2026-06-15,control_noneu,post,Entire home/apt,15224,44.758,0.414,0.0,54.828,0.0
+Canada,Toronto,2026-06-15,control_noneu,post,Hotel room,58,94.828,5.172,0.0,0.0,0.0
+Canada,Toronto,2026-06-15,control_noneu,post,Private room,6894,47.897,0.551,0.0,51.465,0.087
+Canada,Toronto,2026-06-15,control_noneu,post,Shared room,22,59.091,9.091,0.0,31.818,0.0
+Canada,Toronto,2026-09-16,control_noneu,post,Entire home/apt,14965,45.112,0.414,0.0,54.474,0.0
+Canada,Toronto,2026-09-16,control_noneu,post,Hotel room,60,95.0,5.0,0.0,0.0,0.0
+Canada,Toronto,2026-09-16,control_noneu,post,Private room,6997,48.649,0.515,0.0,50.75,0.086
+Canada,Toronto,2026-09-16,control_noneu,post,Shared room,28,35.714,7.143,0.0,57.143,0.0
+Canada,Vancouver,2025-12-14,control_noneu,pre,Entire home/apt,4590,22.571,6.449,0.022,70.392,0.566
+Canada,Vancouver,2025-12-14,control_noneu,pre,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Canada,Vancouver,2025-12-14,control_noneu,pre,Private room,1115,24.753,16.054,0.0,59.103,0.09
+Canada,Vancouver,2025-12-14,control_noneu,pre,Shared room,18,5.556,61.111,0.0,33.333,0.0
+Canada,Vancouver,2026-03-21,control_noneu,pre,Entire home/apt,4651,19.974,7.181,0.022,72.286,0.538
+Canada,Vancouver,2026-03-21,control_noneu,pre,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Canada,Vancouver,2026-03-21,control_noneu,pre,Private room,1059,26.157,15.392,0.0,58.357,0.094
+Canada,Vancouver,2026-03-21,control_noneu,pre,Shared room,12,8.333,58.333,0.0,33.333,0.0
+Canada,Vancouver,2026-06-15,control_noneu,post,Entire home/apt,5322,16.347,6.952,0.019,76.343,0.338
+Canada,Vancouver,2026-06-15,control_noneu,post,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Canada,Vancouver,2026-06-15,control_noneu,post,Private room,1168,23.116,15.325,0.0,61.473,0.086
+Canada,Vancouver,2026-06-15,control_noneu,post,Shared room,16,6.25,56.25,0.0,37.5,0.0
+Canada,Vancouver,2026-09-17,control_noneu,post,Entire home/apt,5012,16.042,6.325,0.02,77.255,0.359
+Canada,Vancouver,2026-09-17,control_noneu,post,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Canada,Vancouver,2026-09-17,control_noneu,post,Private room,1109,26.33,12.534,0.0,61.046,0.09
+Canada,Vancouver,2026-09-17,control_noneu,post,Shared room,7,14.286,14.286,0.0,71.429,0.0
+New Zealand,New Zealand (nationwide),2026-03-17,control_noneu,pre,Entire home/apt,40389,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-03-17,control_noneu,pre,Hotel room,171,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-03-17,control_noneu,pre,Private room,8377,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-03-17,control_noneu,pre,Shared room,139,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-04-16,control_noneu,pre,Entire home/apt,40189,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-04-16,control_noneu,pre,Hotel room,172,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-04-16,control_noneu,pre,Private room,8447,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-04-16,control_noneu,pre,Shared room,143,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-05-23,control_noneu,post,Entire home/apt,40469,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-05-23,control_noneu,post,Hotel room,166,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-05-23,control_noneu,post,Private room,8533,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-05-23,control_noneu,post,Shared room,137,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-09-13,control_noneu,post,Entire home/apt,42506,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-09-13,control_noneu,post,Hotel room,165,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-09-13,control_noneu,post,Private room,8836,100.0,0.0,0.0,0.0,0.0
+New Zealand,New Zealand (nationwide),2026-09-13,control_noneu,post,Shared room,151,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2025-12-28,control_noneu,pre,Entire home/apt,2101,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2025-12-28,control_noneu,pre,Hotel room,6,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2025-12-28,control_noneu,pre,Private room,827,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2025-12-28,control_noneu,pre,Shared room,5,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-03-30,control_noneu,pre,Entire home/apt,1472,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-03-30,control_noneu,pre,Hotel room,2,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-03-30,control_noneu,pre,Private room,500,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-03-30,control_noneu,pre,Shared room,5,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-06-29,control_noneu,post,Entire home/apt,2156,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-06-29,control_noneu,post,Hotel room,7,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-06-29,control_noneu,post,Private room,855,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-06-29,control_noneu,post,Shared room,5,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-09-22,control_noneu,post,Entire home/apt,2113,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-09-22,control_noneu,post,Hotel room,7,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-09-22,control_noneu,post,Private room,807,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Bristol,2026-09-22,control_noneu,post,Shared room,5,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Edinburgh,2025-12-25,control_noneu,pre,Entire home/apt,3849,72.071,0.026,0.65,27.202,0.052
+United Kingdom,Edinburgh,2025-12-25,control_noneu,pre,Hotel room,28,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Edinburgh,2025-12-25,control_noneu,pre,Private room,1511,81.734,0.331,0.265,17.604,0.066
+United Kingdom,Edinburgh,2025-12-25,control_noneu,pre,Shared room,25,96.0,0.0,0.0,4.0,0.0
+United Kingdom,Edinburgh,2026-03-26,control_noneu,pre,Entire home/apt,3239,71.226,0.031,0.617,28.064,0.062
+United Kingdom,Edinburgh,2026-03-26,control_noneu,pre,Hotel room,12,91.667,0.0,0.0,8.333,0.0
+United Kingdom,Edinburgh,2026-03-26,control_noneu,pre,Private room,1047,80.707,0.096,0.191,19.007,0.0
+United Kingdom,Edinburgh,2026-03-26,control_noneu,pre,Shared room,20,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Edinburgh,2026-06-23,control_noneu,post,Entire home/apt,4445,67.289,0.022,0.562,32.058,0.067
+United Kingdom,Edinburgh,2026-06-23,control_noneu,post,Hotel room,26,96.154,0.0,0.0,3.846,0.0
+United Kingdom,Edinburgh,2026-06-23,control_noneu,post,Private room,1752,76.826,0.285,0.228,22.603,0.057
+United Kingdom,Edinburgh,2026-06-23,control_noneu,post,Shared room,21,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Edinburgh,2026-09-19,control_noneu,post,Entire home/apt,4451,67.109,0.022,0.472,32.33,0.067
+United Kingdom,Edinburgh,2026-09-19,control_noneu,post,Hotel room,20,95.0,0.0,0.0,5.0,0.0
+United Kingdom,Edinburgh,2026-09-19,control_noneu,post,Private room,1851,76.715,0.216,0.162,22.853,0.054
+United Kingdom,Edinburgh,2026-09-19,control_noneu,post,Shared room,20,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2025-12-28,control_noneu,pre,Entire home/apt,5163,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2025-12-28,control_noneu,pre,Hotel room,18,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2025-12-28,control_noneu,pre,Private room,2443,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2025-12-28,control_noneu,pre,Shared room,38,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-03-29,control_noneu,pre,Entire home/apt,4049,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-03-29,control_noneu,pre,Hotel room,19,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-03-29,control_noneu,pre,Private room,1754,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-03-29,control_noneu,pre,Shared room,33,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-06-28,control_noneu,post,Entire home/apt,4732,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-06-28,control_noneu,post,Hotel room,38,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-06-28,control_noneu,post,Private room,2146,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-06-28,control_noneu,post,Shared room,14,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-09-22,control_noneu,post,Entire home/apt,5276,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-09-22,control_noneu,post,Hotel room,20,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-09-22,control_noneu,post,Private room,2485,100.0,0.0,0.0,0.0,0.0
+United Kingdom,Greater Manchester,2026-09-22,control_noneu,post,Shared room,18,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2025-12-13,control_noneu,pre,Entire home/apt,62134,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2025-12-13,control_noneu,pre,Hotel room,170,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2025-12-13,control_noneu,pre,Private room,33148,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2025-12-13,control_noneu,pre,Shared room,236,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-03-21,control_noneu,pre,Entire home/apt,36832,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-03-21,control_noneu,pre,Hotel room,94,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-03-21,control_noneu,pre,Private room,16502,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-03-21,control_noneu,pre,Shared room,211,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-06-19,control_noneu,post,Entire home/apt,61377,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-06-19,control_noneu,post,Hotel room,180,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-06-19,control_noneu,post,Private room,30878,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-06-19,control_noneu,post,Shared room,203,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-09-17,control_noneu,post,Entire home/apt,61074,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-09-17,control_noneu,post,Hotel room,207,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-09-17,control_noneu,post,Private room,30471,100.0,0.0,0.0,0.0,0.0
+United Kingdom,London,2026-09-17,control_noneu,post,Shared room,202,100.0,0.0,0.0,0.0,0.0
+United States,Boston,2025-12-27,control_noneu,pre,Entire home/apt,2549,29.58,11.259,0.0,59.16,0.0
+United States,Boston,2025-12-27,control_noneu,pre,Hotel room,49,0.0,100.0,0.0,0.0,0.0
+United States,Boston,2025-12-27,control_noneu,pre,Private room,1105,35.747,14.932,0.0,49.321,0.0
+United States,Boston,2025-12-27,control_noneu,pre,Shared room,3,0.0,0.0,0.0,100.0,0.0
+United States,Boston,2026-03-28,control_noneu,pre,Entire home/apt,1438,0.487,7.093,0.0,92.42,0.0
+United States,Boston,2026-03-28,control_noneu,pre,Hotel room,24,0.0,100.0,0.0,0.0,0.0
+United States,Boston,2026-03-28,control_noneu,pre,Private room,416,5.048,10.817,0.0,84.135,0.0
+United States,Boston,2026-03-28,control_noneu,pre,Shared room,3,0.0,0.0,0.0,100.0,0.0
+United States,Boston,2026-06-15,control_noneu,post,Entire home/apt,3003,27.14,9.99,0.0,62.671,0.2
+United States,Boston,2026-06-15,control_noneu,post,Hotel room,95,0.0,98.947,0.0,1.053,0.0
+United States,Boston,2026-06-15,control_noneu,post,Private room,1276,32.367,14.263,0.0,53.37,0.0
+United States,Boston,2026-06-15,control_noneu,post,Shared room,4,0.0,0.0,0.0,100.0,0.0
+United States,Boston,2026-09-19,control_noneu,post,Entire home/apt,3000,26.067,9.633,0.0,64.2,0.1
+United States,Boston,2026-09-19,control_noneu,post,Hotel room,85,0.0,98.824,0.0,1.176,0.0
+United States,Boston,2026-09-19,control_noneu,post,Private room,1278,33.646,13.459,0.0,52.895,0.0
+United States,Boston,2026-09-19,control_noneu,post,Shared room,5,0.0,0.0,0.0,100.0,0.0
+United States,Los Angeles,2025-12-04,control_noneu,pre,Entire home/apt,33580,69.675,6.957,0.003,23.359,0.006
+United States,Los Angeles,2025-12-04,control_noneu,pre,Hotel room,302,32.45,67.55,0.0,0.0,0.0
+United States,Los Angeles,2025-12-04,control_noneu,pre,Private room,11404,78.639,9.321,0.0,12.04,0.0
+United States,Los Angeles,2025-12-04,control_noneu,pre,Shared room,299,86.288,7.692,0.0,6.02,0.0
+United States,Los Angeles,2026-03-16,control_noneu,pre,Entire home/apt,33676,69.085,7.124,0.003,23.785,0.003
+United States,Los Angeles,2026-03-16,control_noneu,pre,Hotel room,267,34.082,65.918,0.0,0.0,0.0
+United States,Los Angeles,2026-03-16,control_noneu,pre,Private room,11754,79.045,9.095,0.0,11.86,0.0
+United States,Los Angeles,2026-03-16,control_noneu,pre,Shared room,391,88.235,6.65,0.0,5.115,0.0
+United States,Los Angeles,2026-06-15,control_noneu,post,Entire home/apt,32454,67.958,7.623,0.003,24.41,0.006
+United States,Los Angeles,2026-06-15,control_noneu,post,Hotel room,415,26.506,73.494,0.0,0.0,0.0
+United States,Los Angeles,2026-06-15,control_noneu,post,Private room,10590,76.827,10.123,0.0,13.05,0.0
+United States,Los Angeles,2026-06-15,control_noneu,post,Shared room,292,88.356,5.479,0.0,6.164,0.0
+United States,Los Angeles,2026-09-14,control_noneu,post,Entire home/apt,32303,67.712,7.844,0.003,24.437,0.003
+United States,Los Angeles,2026-09-14,control_noneu,post,Hotel room,412,26.942,73.058,0.0,0.0,0.0
+United States,Los Angeles,2026-09-14,control_noneu,post,Private room,10755,77.499,9.828,0.0,12.673,0.0
+United States,Los Angeles,2026-09-14,control_noneu,post,Shared room,311,90.354,5.145,0.0,4.502,0.0
+United States,New York City,2025-12-04,control_noneu,pre,Entire home/apt,19452,91.62,5.593,0.0,2.786,0.0
+United States,New York City,2025-12-04,control_noneu,pre,Hotel room,331,3.625,96.375,0.0,0.0,0.0
+United States,New York City,2025-12-04,control_noneu,pre,Private room,16201,81.267,7.962,0.0,10.771,0.0
+United States,New York City,2025-12-04,control_noneu,pre,Shared room,277,84.116,0.361,0.0,15.523,0.0
+United States,New York City,2026-03-16,control_noneu,pre,Entire home/apt,19348,91.456,6.032,0.0,2.512,0.0
+United States,New York City,2026-03-16,control_noneu,pre,Hotel room,336,3.571,96.429,0.0,0.0,0.0
+United States,New York City,2026-03-16,control_noneu,pre,Private room,16031,81.311,7.679,0.0,11.01,0.0
+United States,New York City,2026-03-16,control_noneu,pre,Shared room,264,80.303,0.379,0.0,19.318,0.0
+United States,New York City,2026-06-14,control_noneu,post,Entire home/apt,16808,89.737,7.068,0.0,3.195,0.0
+United States,New York City,2026-06-14,control_noneu,post,Hotel room,520,2.115,97.885,0.0,0.0,0.0
+United States,New York City,2026-06-14,control_noneu,post,Private room,12713,76.323,9.895,0.0,13.781,0.0
+United States,New York City,2026-06-14,control_noneu,post,Shared room,218,80.734,0.459,0.0,18.807,0.0
+United States,New York City,2026-09-14,control_noneu,post,Entire home/apt,16410,90.518,7.203,0.0,2.279,0.0
+United States,New York City,2026-09-14,control_noneu,post,Hotel room,463,2.376,97.624,0.0,0.0,0.0
+United States,New York City,2026-09-14,control_noneu,post,Private room,12853,76.068,9.663,0.0,14.269,0.0
+United States,New York City,2026-09-14,control_noneu,post,Shared room,192,77.604,0.521,0.0,21.875,0.0
+United States,San Francisco,2025-12-04,control_noneu,pre,Entire home/apt,4669,39.901,13.086,2.42,42.043,2.549
+United States,San Francisco,2025-12-04,control_noneu,pre,Hotel room,233,1.717,84.12,0.0,1.288,12.876
+United States,San Francisco,2025-12-04,control_noneu,pre,Private room,2599,29.55,25.741,1.116,38.669,4.925
+United States,San Francisco,2025-12-04,control_noneu,pre,Shared room,34,5.882,44.118,0.0,32.353,17.647
+United States,San Francisco,2026-03-16,control_noneu,pre,Entire home/apt,4657,39.575,14.172,2.405,41.314,2.534
+United States,San Francisco,2026-03-16,control_noneu,pre,Hotel room,218,2.294,88.532,0.0,1.376,7.798
+United States,San Francisco,2026-03-16,control_noneu,pre,Private room,2616,34.595,21.254,0.956,38.341,4.855
+United States,San Francisco,2026-03-16,control_noneu,pre,Shared room,37,5.405,37.838,0.0,40.541,16.216
+United States,San Francisco,2026-06-14,control_noneu,post,Entire home/apt,4477,37.771,14.742,2.39,42.417,2.68
+United States,San Francisco,2026-06-14,control_noneu,post,Hotel room,243,0.0,86.008,0.0,1.235,12.757
+United States,San Francisco,2026-06-14,control_noneu,post,Private room,2579,30.206,25.669,0.931,38.503,4.692
+United States,San Francisco,2026-06-14,control_noneu,post,Shared room,33,6.061,42.424,0.0,33.333,18.182
+United States,San Francisco,2026-09-14,control_noneu,post,Entire home/apt,4408,37.704,15.54,2.269,41.856,2.632
+United States,San Francisco,2026-09-14,control_noneu,post,Hotel room,173,0.0,86.705,0.0,1.734,11.561
+United States,San Francisco,2026-09-14,control_noneu,post,Private room,2783,33.597,25.296,0.791,35.789,4.527
+United States,San Francisco,2026-09-14,control_noneu,post,Shared room,41,4.878,56.098,0.0,24.39,14.634
+Norway,Oslo,2025-12-30,eea_noneu,pre,Entire home/apt,7389,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2025-12-30,eea_noneu,pre,Private room,1007,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2025-12-30,eea_noneu,pre,Shared room,47,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-03-31,eea_noneu,pre,Entire home/apt,6985,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-03-31,eea_noneu,pre,Private room,893,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-03-31,eea_noneu,pre,Shared room,23,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-06-30,eea_noneu,post,Entire home/apt,11929,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-06-30,eea_noneu,post,Private room,1398,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-06-30,eea_noneu,post,Shared room,64,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-09-25,eea_noneu,post,Entire home/apt,11651,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-09-25,eea_noneu,post,Private room,1368,100.0,0.0,0.0,0.0,0.0
+Norway,Oslo,2026-09-25,eea_noneu,post,Shared room,70,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2025-12-29,eea_noneu,pre,Entire home/apt,1936,99.845,0.052,0.0,0.103,0.0
+Switzerland,Geneva,2025-12-29,eea_noneu,pre,Hotel room,2,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2025-12-29,eea_noneu,pre,Private room,816,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2025-12-29,eea_noneu,pre,Shared room,10,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-03-30,eea_noneu,pre,Entire home/apt,1152,99.826,0.0,0.0,0.174,0.0
+Switzerland,Geneva,2026-03-30,eea_noneu,pre,Hotel room,2,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-03-30,eea_noneu,pre,Private room,523,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-03-30,eea_noneu,pre,Shared room,7,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-06-29,eea_noneu,post,Entire home/apt,1827,99.891,0.055,0.0,0.055,0.0
+Switzerland,Geneva,2026-06-29,eea_noneu,post,Hotel room,2,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-06-29,eea_noneu,post,Private room,755,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-06-29,eea_noneu,post,Shared room,9,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-09-23,eea_noneu,post,Entire home/apt,1778,99.831,0.056,0.0,0.112,0.0
+Switzerland,Geneva,2026-09-23,eea_noneu,post,Hotel room,2,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-09-23,eea_noneu,post,Private room,749,100.0,0.0,0.0,0.0,0.0
+Switzerland,Geneva,2026-09-23,eea_noneu,post,Shared room,9,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-03-16,eea_noneu,pre,Entire home/apt,3961,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-03-16,eea_noneu,pre,Hotel room,12,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-03-16,eea_noneu,pre,Private room,1490,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-03-16,eea_noneu,pre,Shared room,17,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-04-14,eea_noneu,pre,Entire home/apt,3920,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-04-14,eea_noneu,pre,Hotel room,12,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-04-14,eea_noneu,pre,Private room,1471,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-04-14,eea_noneu,pre,Shared room,18,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-05-23,eea_noneu,post,Entire home/apt,3827,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-05-23,eea_noneu,post,Hotel room,12,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-05-23,eea_noneu,post,Private room,1392,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-05-23,eea_noneu,post,Shared room,18,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-10-05,eea_noneu,post,Entire home/apt,3801,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-10-05,eea_noneu,post,Hotel room,10,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-10-05,eea_noneu,post,Private room,1409,100.0,0.0,0.0,0.0,0.0
+Switzerland,Vaud,2026-10-05,eea_noneu,post,Shared room,15,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2025-12-29,eea_noneu,pre,Entire home/apt,2148,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2025-12-29,eea_noneu,pre,Hotel room,3,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2025-12-29,eea_noneu,pre,Private room,596,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2025-12-29,eea_noneu,pre,Shared room,9,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-03-30,eea_noneu,pre,Entire home/apt,1438,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-03-30,eea_noneu,pre,Hotel room,4,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-03-30,eea_noneu,pre,Private room,378,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-03-30,eea_noneu,pre,Shared room,8,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-06-30,eea_noneu,post,Entire home/apt,2556,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-06-30,eea_noneu,post,Hotel room,4,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-06-30,eea_noneu,post,Private room,740,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-06-30,eea_noneu,post,Shared room,8,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-09-25,eea_noneu,post,Entire home/apt,2415,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-09-25,eea_noneu,post,Hotel room,4,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-09-25,eea_noneu,post,Private room,749,100.0,0.0,0.0,0.0,0.0
+Switzerland,Zurich,2026-09-25,eea_noneu,post,Shared room,6,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2025-12-16,treat_eu,pre,Entire home/apt,11596,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2025-12-16,treat_eu,pre,Hotel room,37,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2025-12-16,treat_eu,pre,Private room,2470,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2025-12-16,treat_eu,pre,Shared room,63,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-03-24,treat_eu,pre,Entire home/apt,6843,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-03-24,treat_eu,pre,Hotel room,20,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-03-24,treat_eu,pre,Private room,813,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-03-24,treat_eu,pre,Shared room,58,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-06-20,treat_eu,post,Entire home/apt,11079,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-06-20,treat_eu,post,Hotel room,25,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-06-20,treat_eu,post,Private room,2130,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-06-20,treat_eu,post,Shared room,49,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-09-17,treat_eu,post,Entire home/apt,10794,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-09-17,treat_eu,post,Hotel room,23,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-09-17,treat_eu,post,Private room,2122,100.0,0.0,0.0,0.0,0.0
+Austria,Vienna,2026-09-17,treat_eu,post,Shared room,43,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2025-12-29,treat_eu,pre,Entire home/apt,2022,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2025-12-29,treat_eu,pre,Hotel room,9,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2025-12-29,treat_eu,pre,Private room,434,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2025-12-29,treat_eu,pre,Shared room,2,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-03-30,treat_eu,pre,Entire home/apt,1600,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-03-30,treat_eu,pre,Hotel room,7,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-03-30,treat_eu,pre,Private room,239,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-03-30,treat_eu,pre,Shared room,2,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-06-29,treat_eu,post,Entire home/apt,2103,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-06-29,treat_eu,post,Hotel room,9,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-06-29,treat_eu,post,Private room,421,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-06-29,treat_eu,post,Shared room,2,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-09-23,treat_eu,post,Entire home/apt,2062,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-09-23,treat_eu,post,Hotel room,9,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-09-23,treat_eu,post,Private room,391,100.0,0.0,0.0,0.0,0.0
+Belgium,Antwerp,2026-09-23,treat_eu,post,Shared room,1,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2025-12-27,treat_eu,pre,Entire home/apt,4324,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2025-12-27,treat_eu,pre,Hotel room,16,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2025-12-27,treat_eu,pre,Private room,1517,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2025-12-27,treat_eu,pre,Shared room,16,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-03-29,treat_eu,pre,Entire home/apt,2725,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-03-29,treat_eu,pre,Hotel room,13,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-03-29,treat_eu,pre,Private room,982,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-03-29,treat_eu,pre,Shared room,17,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-06-27,treat_eu,post,Entire home/apt,3688,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-06-27,treat_eu,post,Hotel room,22,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-06-27,treat_eu,post,Private room,1349,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-06-27,treat_eu,post,Shared room,19,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-09-20,treat_eu,post,Entire home/apt,3509,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-09-20,treat_eu,post,Hotel room,22,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-09-20,treat_eu,post,Private room,1291,100.0,0.0,0.0,0.0,0.0
+Belgium,Brussels,2026-09-20,treat_eu,post,Shared room,28,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2025-12-28,treat_eu,pre,Entire home/apt,865,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2025-12-28,treat_eu,pre,Private room,339,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2025-12-28,treat_eu,pre,Shared room,4,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-03-30,treat_eu,pre,Entire home/apt,691,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-03-30,treat_eu,pre,Hotel room,6,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-03-30,treat_eu,pre,Private room,262,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-03-30,treat_eu,pre,Shared room,3,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-06-29,treat_eu,post,Entire home/apt,982,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-06-29,treat_eu,post,Hotel room,7,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-06-29,treat_eu,post,Private room,391,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-06-29,treat_eu,post,Shared room,3,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-09-22,treat_eu,post,Entire home/apt,966,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-09-22,treat_eu,post,Hotel room,6,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-09-22,treat_eu,post,Private room,392,100.0,0.0,0.0,0.0,0.0
+Belgium,Ghent,2026-09-22,treat_eu,post,Shared room,3,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2025-12-27,treat_eu,pre,Entire home/apt,9452,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2025-12-27,treat_eu,pre,Hotel room,93,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2025-12-27,treat_eu,pre,Private room,1719,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2025-12-27,treat_eu,pre,Shared room,83,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-03-29,treat_eu,pre,Entire home/apt,7851,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-03-29,treat_eu,pre,Hotel room,60,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-03-29,treat_eu,pre,Private room,1090,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-03-29,treat_eu,pre,Shared room,77,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-06-27,treat_eu,post,Entire home/apt,9671,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-06-27,treat_eu,post,Hotel room,77,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-06-27,treat_eu,post,Private room,1785,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-06-27,treat_eu,post,Shared room,82,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-09-20,treat_eu,post,Entire home/apt,9865,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-09-20,treat_eu,post,Hotel room,77,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-09-20,treat_eu,post,Private room,1782,100.0,0.0,0.0,0.0,0.0
+Czech Republic,Prague,2026-09-20,treat_eu,post,Shared room,80,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2025-12-30,treat_eu,pre,Entire home/apt,11804,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2025-12-30,treat_eu,pre,Hotel room,5,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2025-12-30,treat_eu,pre,Private room,1101,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2025-12-30,treat_eu,pre,Shared room,16,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-03-30,treat_eu,pre,Entire home/apt,10102,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-03-30,treat_eu,pre,Hotel room,4,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-03-30,treat_eu,pre,Private room,843,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-03-30,treat_eu,pre,Shared room,16,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-06-30,treat_eu,post,Entire home/apt,21368,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-06-30,treat_eu,post,Private room,1756,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-06-30,treat_eu,post,Shared room,20,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-09-25,treat_eu,post,Entire home/apt,21088,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-09-25,treat_eu,post,Private room,1738,100.0,0.0,0.0,0.0,0.0
+Denmark,Copenhagen,2026-09-25,treat_eu,post,Shared room,19,100.0,0.0,0.0,0.0,0.0
+France,Bordeaux,2025-12-22,treat_eu,pre,Entire home/apt,9421,51.82,5.36,0.0,42.671,0.149
+France,Bordeaux,2025-12-22,treat_eu,pre,Hotel room,15,53.333,6.667,0.0,40.0,0.0
+France,Bordeaux,2025-12-22,treat_eu,pre,Private room,2692,92.571,1.597,0.0,5.758,0.074
+France,Bordeaux,2025-12-22,treat_eu,pre,Shared room,52,92.308,1.923,0.0,5.769,0.0
+France,Bordeaux,2026-03-25,treat_eu,pre,Entire home/apt,5388,49.833,1.782,0.0,48.163,0.223
+France,Bordeaux,2026-03-25,treat_eu,pre,Hotel room,4,50.0,0.0,0.0,50.0,0.0
+France,Bordeaux,2026-03-25,treat_eu,pre,Private room,1408,92.685,0.852,0.0,6.392,0.071
+France,Bordeaux,2026-03-25,treat_eu,pre,Shared room,22,90.909,0.0,0.0,9.091,0.0
+France,Bordeaux,2026-06-22,treat_eu,post,Entire home/apt,9522,51.323,5.146,0.0,43.342,0.189
+France,Bordeaux,2026-06-22,treat_eu,post,Hotel room,15,53.333,6.667,0.0,40.0,0.0
+France,Bordeaux,2026-06-22,treat_eu,post,Private room,2651,92.946,1.697,0.0,5.281,0.075
+France,Bordeaux,2026-06-22,treat_eu,post,Shared room,29,93.103,3.448,0.0,3.448,0.0
+France,Bordeaux,2026-09-17,treat_eu,post,Entire home/apt,9332,51.811,5.186,0.0,42.788,0.214
+France,Bordeaux,2026-09-17,treat_eu,post,Hotel room,13,46.154,7.692,0.0,46.154,0.0
+France,Bordeaux,2026-09-17,treat_eu,post,Private room,2690,93.197,1.673,0.0,5.13,0.0
+France,Bordeaux,2026-09-17,treat_eu,post,Shared room,28,85.714,3.571,0.0,10.714,0.0
+France,Lyon,2025-12-22,treat_eu,pre,Entire home/apt,7778,23.721,9.244,0.0,67.022,0.013
+France,Lyon,2025-12-22,treat_eu,pre,Hotel room,16,81.25,0.0,0.0,18.75,0.0
+France,Lyon,2025-12-22,treat_eu,pre,Private room,1984,95.363,0.302,0.0,4.335,0.0
+France,Lyon,2025-12-22,treat_eu,pre,Shared room,22,90.909,4.545,0.0,4.545,0.0
+France,Lyon,2026-03-25,treat_eu,pre,Entire home/apt,3731,1.983,8.282,0.0,89.708,0.027
+France,Lyon,2026-03-25,treat_eu,pre,Hotel room,16,93.75,0.0,0.0,6.25,0.0
+France,Lyon,2026-03-25,treat_eu,pre,Private room,644,91.615,1.708,0.0,6.677,0.0
+France,Lyon,2026-03-25,treat_eu,pre,Shared room,12,91.667,0.0,0.0,8.333,0.0
+France,Lyon,2026-06-22,treat_eu,post,Entire home/apt,7476,21.255,9.952,0.0,68.78,0.013
+France,Lyon,2026-06-22,treat_eu,post,Hotel room,17,11.765,82.353,0.0,5.882,0.0
+France,Lyon,2026-06-22,treat_eu,post,Private room,1796,94.599,1.002,0.0,4.399,0.0
+France,Lyon,2026-06-22,treat_eu,post,Shared room,28,96.429,0.0,0.0,3.571,0.0
+France,Lyon,2026-09-17,treat_eu,post,Entire home/apt,7335,22.754,9.911,0.0,67.321,0.014
+France,Lyon,2026-09-17,treat_eu,post,Hotel room,27,59.259,33.333,0.0,7.407,0.0
+France,Lyon,2026-09-17,treat_eu,post,Private room,1809,94.693,1.161,0.0,4.146,0.0
+France,Lyon,2026-09-17,treat_eu,post,Shared room,30,96.667,0.0,0.0,3.333,0.0
+France,Paris,2025-12-13,treat_eu,pre,Entire home/apt,72338,12.502,14.042,0.0,73.455,0.0
+France,Paris,2025-12-13,treat_eu,pre,Hotel room,632,78.639,15.032,0.0,6.329,0.0
+France,Paris,2025-12-13,treat_eu,pre,Private room,8919,86.736,2.814,0.0,10.45,0.0
+France,Paris,2025-12-13,treat_eu,pre,Shared room,156,88.462,0.641,0.0,10.897,0.0
+France,Paris,2026-03-21,treat_eu,pre,Entire home/apt,33653,1.524,5.31,0.0,93.166,0.0
+France,Paris,2026-03-21,treat_eu,pre,Hotel room,269,61.71,25.651,0.0,12.639,0.0
+France,Paris,2026-03-21,treat_eu,pre,Private room,4053,86.504,2.615,0.0,10.881,0.0
+France,Paris,2026-03-21,treat_eu,pre,Shared room,100,92.0,1.0,0.0,7.0,0.0
+France,Paris,2026-06-16,treat_eu,post,Entire home/apt,69265,10.346,13.344,0.0,76.31,0.0
+France,Paris,2026-06-16,treat_eu,post,Hotel room,410,68.293,22.439,0.0,9.268,0.0
+France,Paris,2026-06-16,treat_eu,post,Private room,7858,84.894,4.25,0.0,10.855,0.0
+France,Paris,2026-06-16,treat_eu,post,Shared room,146,86.301,2.055,0.0,11.644,0.0
+France,Paris,2026-09-16,treat_eu,post,Entire home/apt,68333,12.091,13.082,0.0,74.828,0.0
+France,Paris,2026-09-16,treat_eu,post,Hotel room,386,67.098,23.057,0.0,9.845,0.0
+France,Paris,2026-09-16,treat_eu,post,Private room,8280,86.063,3.635,0.0,10.29,0.012
+France,Paris,2026-09-16,treat_eu,post,Shared room,150,88.0,0.0,0.0,12.0,0.0
+France,Pays Basque,2025-12-25,treat_eu,pre,Entire home/apt,9994,17.551,3.572,0.01,78.797,0.07
+France,Pays Basque,2025-12-25,treat_eu,pre,Hotel room,23,39.13,60.87,0.0,0.0,0.0
+France,Pays Basque,2025-12-25,treat_eu,pre,Private room,1263,91.528,1.979,0.0,6.097,0.396
+France,Pays Basque,2025-12-25,treat_eu,pre,Shared room,31,96.774,0.0,0.0,3.226,0.0
+France,Pays Basque,2026-03-26,treat_eu,pre,Entire home/apt,10198,18.072,3.285,0.01,78.564,0.069
+France,Pays Basque,2026-03-26,treat_eu,pre,Hotel room,26,38.462,61.538,0.0,0.0,0.0
+France,Pays Basque,2026-03-26,treat_eu,pre,Private room,1262,91.284,1.902,0.0,6.418,0.396
+France,Pays Basque,2026-03-26,treat_eu,pre,Shared room,33,96.97,0.0,0.0,3.03,0.0
+France,Pays Basque,2026-06-23,treat_eu,post,Entire home/apt,10732,17.909,3.149,0.009,78.876,0.056
+France,Pays Basque,2026-06-23,treat_eu,post,Hotel room,26,34.615,65.385,0.0,0.0,0.0
+France,Pays Basque,2026-06-23,treat_eu,post,Private room,1288,91.071,2.329,0.0,6.211,0.388
+France,Pays Basque,2026-06-23,treat_eu,post,Shared room,35,97.143,0.0,0.0,2.857,0.0
+France,Pays Basque,2026-09-19,treat_eu,post,Entire home/apt,10396,19.777,3.194,0.01,76.972,0.048
+France,Pays Basque,2026-09-19,treat_eu,post,Hotel room,19,47.368,52.632,0.0,0.0,0.0
+France,Pays Basque,2026-09-19,treat_eu,post,Private room,1335,91.386,2.097,0.0,6.292,0.225
+France,Pays Basque,2026-09-19,treat_eu,post,Shared room,35,94.286,0.0,0.0,5.714,0.0
+Germany,Berlin,2025-12-27,treat_eu,pre,Entire home/apt,9869,34.188,0.0,0.0,65.792,0.02
+Germany,Berlin,2025-12-27,treat_eu,pre,Hotel room,107,1.869,0.0,0.0,98.131,0.0
+Germany,Berlin,2025-12-27,treat_eu,pre,Private room,4402,39.073,0.0,0.0,60.881,0.045
+Germany,Berlin,2025-12-27,treat_eu,pre,Shared room,92,2.174,0.0,0.0,97.826,0.0
+Germany,Berlin,2026-03-28,treat_eu,pre,Entire home/apt,4258,0.54,0.0,0.0,99.436,0.023
+Germany,Berlin,2026-03-28,treat_eu,pre,Hotel room,59,0.0,0.0,0.0,100.0,0.0
+Germany,Berlin,2026-03-28,treat_eu,pre,Private room,1469,1.021,0.0,0.0,98.979,0.0
+Germany,Berlin,2026-03-28,treat_eu,pre,Shared room,70,2.857,0.0,0.0,97.143,0.0
+Germany,Berlin,2026-06-26,treat_eu,post,Entire home/apt,8846,30.002,0.0,0.0,69.986,0.011
+Germany,Berlin,2026-06-26,treat_eu,post,Hotel room,89,1.124,0.0,0.0,98.876,0.0
+Germany,Berlin,2026-06-26,treat_eu,post,Private room,3754,34.79,0.0,0.0,65.184,0.027
+Germany,Berlin,2026-06-26,treat_eu,post,Shared room,87,6.897,0.0,0.0,93.103,0.0
+Germany,Berlin,2026-09-19,treat_eu,post,Entire home/apt,8446,30.63,0.675,0.0,68.695,0.0
+Germany,Berlin,2026-09-19,treat_eu,post,Hotel room,56,10.714,0.0,0.0,89.286,0.0
+Germany,Berlin,2026-09-19,treat_eu,post,Private room,3788,37.988,0.475,0.0,61.536,0.0
+Germany,Berlin,2026-09-19,treat_eu,post,Shared room,86,9.302,0.0,0.0,90.698,0.0
+Germany,Munich,2025-12-29,treat_eu,pre,Entire home/apt,3179,99.465,0.0,0.0,0.535,0.0
+Germany,Munich,2025-12-29,treat_eu,pre,Hotel room,13,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2025-12-29,treat_eu,pre,Private room,1543,99.222,0.0,0.0,0.778,0.0
+Germany,Munich,2025-12-29,treat_eu,pre,Shared room,22,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-03-30,treat_eu,pre,Entire home/apt,2359,99.279,0.0,0.0,0.721,0.0
+Germany,Munich,2026-03-30,treat_eu,pre,Hotel room,27,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-03-30,treat_eu,pre,Private room,1172,98.976,0.0,0.0,1.024,0.0
+Germany,Munich,2026-03-30,treat_eu,pre,Shared room,11,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-06-29,treat_eu,post,Entire home/apt,4586,99.542,0.0,0.0,0.458,0.0
+Germany,Munich,2026-06-29,treat_eu,post,Hotel room,54,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-06-29,treat_eu,post,Private room,2200,99.364,0.0,0.0,0.636,0.0
+Germany,Munich,2026-06-29,treat_eu,post,Shared room,25,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-09-23,treat_eu,post,Entire home/apt,4988,99.619,0.0,0.0,0.381,0.0
+Germany,Munich,2026-09-23,treat_eu,post,Hotel room,54,100.0,0.0,0.0,0.0,0.0
+Germany,Munich,2026-09-23,treat_eu,post,Private room,2432,99.137,0.0,0.0,0.74,0.123
+Germany,Munich,2026-09-23,treat_eu,post,Shared room,19,100.0,0.0,0.0,0.0,0.0
+Greece,Athens,2025-12-28,treat_eu,pre,Entire home/apt,13713,1.13,0.591,0.0,98.279,0.0
+Greece,Athens,2025-12-28,treat_eu,pre,Hotel room,62,6.452,0.0,0.0,93.548,0.0
+Greece,Athens,2025-12-28,treat_eu,pre,Private room,1024,3.125,2.734,0.0,94.141,0.0
+Greece,Athens,2025-12-28,treat_eu,pre,Shared room,43,4.651,6.977,0.0,88.372,0.0
+Greece,Athens,2026-03-30,treat_eu,pre,Entire home/apt,12411,0.951,0.532,0.0,98.517,0.0
+Greece,Athens,2026-03-30,treat_eu,pre,Hotel room,74,0.0,27.027,0.0,72.973,0.0
+Greece,Athens,2026-03-30,treat_eu,pre,Private room,781,1.665,3.457,0.0,94.878,0.0
+Greece,Athens,2026-03-30,treat_eu,pre,Shared room,38,5.263,2.632,0.0,92.105,0.0
+Greece,Athens,2026-06-28,treat_eu,post,Entire home/apt,13304,3.465,0.616,0.0,95.919,0.0
+Greece,Athens,2026-06-28,treat_eu,post,Hotel room,94,2.128,27.66,0.0,70.213,0.0
+Greece,Athens,2026-06-28,treat_eu,post,Private room,909,6.051,3.96,0.0,89.989,0.0
+Greece,Athens,2026-06-28,treat_eu,post,Shared room,30,10.0,6.667,0.0,83.333,0.0
+Greece,Athens,2026-09-22,treat_eu,post,Entire home/apt,14031,3.157,0.634,0.0,96.208,0.0
+Greece,Athens,2026-09-22,treat_eu,post,Hotel room,108,0.0,33.333,0.0,66.667,0.0
+Greece,Athens,2026-09-22,treat_eu,post,Private room,967,6.825,3.413,0.0,89.762,0.0
+Greece,Athens,2026-09-22,treat_eu,post,Shared room,28,7.143,7.143,0.0,85.714,0.0
+Greece,Crete,2025-12-29,treat_eu,pre,Entire home/apt,23544,1.703,0.871,0.0,97.426,0.0
+Greece,Crete,2025-12-29,treat_eu,pre,Hotel room,217,10.138,8.295,0.0,81.567,0.0
+Greece,Crete,2025-12-29,treat_eu,pre,Private room,2443,3.889,4.298,0.0,91.813,0.0
+Greece,Crete,2025-12-29,treat_eu,pre,Shared room,21,0.0,9.524,0.0,90.476,0.0
+Greece,Crete,2026-03-30,treat_eu,pre,Entire home/apt,21358,1.199,0.927,0.0,97.874,0.0
+Greece,Crete,2026-03-30,treat_eu,pre,Hotel room,124,6.452,11.29,0.0,82.258,0.0
+Greece,Crete,2026-03-30,treat_eu,pre,Private room,1709,1.521,5.91,0.0,92.569,0.0
+Greece,Crete,2026-03-30,treat_eu,pre,Shared room,14,0.0,14.286,0.0,85.714,0.0
+Greece,Crete,2026-06-29,treat_eu,post,Entire home/apt,24815,4.147,0.866,0.0,94.987,0.0
+Greece,Crete,2026-06-29,treat_eu,post,Hotel room,181,7.182,7.735,0.0,85.083,0.0
+Greece,Crete,2026-06-29,treat_eu,post,Private room,2319,6.037,4.14,0.0,89.823,0.0
+Greece,Crete,2026-06-29,treat_eu,post,Shared room,18,5.556,11.111,0.0,83.333,0.0
+Greece,Crete,2026-09-25,treat_eu,post,Entire home/apt,24885,3.343,0.764,0.0,95.893,0.0
+Greece,Crete,2026-09-25,treat_eu,post,Hotel room,170,7.647,6.471,0.0,85.882,0.0
+Greece,Crete,2026-09-25,treat_eu,post,Private room,2298,4.83,3.525,0.0,91.645,0.0
+Greece,Crete,2026-09-25,treat_eu,post,Shared room,28,3.571,7.143,0.0,89.286,0.0
+Greece,South Aegean,2025-12-27,treat_eu,pre,Entire home/apt,29487,1.95,0.753,0.0,97.297,0.0
+Greece,South Aegean,2025-12-27,treat_eu,pre,Hotel room,438,17.123,3.425,0.0,79.452,0.0
+Greece,South Aegean,2025-12-27,treat_eu,pre,Private room,4894,4.679,2.248,0.0,93.073,0.0
+Greece,South Aegean,2025-12-27,treat_eu,pre,Shared room,15,0.0,0.0,0.0,100.0,0.0
+Greece,South Aegean,2026-03-29,treat_eu,pre,Entire home/apt,26689,1.428,0.779,0.0,97.793,0.0
+Greece,South Aegean,2026-03-29,treat_eu,pre,Hotel room,251,15.538,1.594,0.0,82.869,0.0
+Greece,South Aegean,2026-03-29,treat_eu,pre,Private room,3393,2.682,1.65,0.0,95.668,0.0
+Greece,South Aegean,2026-03-29,treat_eu,pre,Shared room,16,0.0,0.0,0.0,100.0,0.0
+Greece,South Aegean,2026-06-28,treat_eu,post,Entire home/apt,31118,4.171,0.81,0.0,95.019,0.0
+Greece,South Aegean,2026-06-28,treat_eu,post,Hotel room,404,21.287,2.475,0.0,76.238,0.0
+Greece,South Aegean,2026-06-28,treat_eu,post,Private room,5140,6.226,1.907,0.0,91.868,0.0
+Greece,South Aegean,2026-06-28,treat_eu,post,Shared room,18,11.111,0.0,0.0,88.889,0.0
+Greece,South Aegean,2026-09-20,treat_eu,post,Entire home/apt,31146,4.049,0.697,0.0,95.255,0.0
+Greece,South Aegean,2026-09-20,treat_eu,post,Hotel room,387,18.863,2.326,0.0,78.811,0.0
+Greece,South Aegean,2026-09-20,treat_eu,post,Private room,5090,6.071,1.788,0.0,92.141,0.0
+Greece,South Aegean,2026-09-20,treat_eu,post,Shared room,21,0.0,0.0,0.0,100.0,0.0
+Greece,Thessaloniki,2025-12-28,treat_eu,pre,Entire home/apt,4555,0.483,0.659,0.0,98.858,0.0
+Greece,Thessaloniki,2025-12-28,treat_eu,pre,Private room,133,0.0,3.008,0.0,96.992,0.0
+Greece,Thessaloniki,2025-12-28,treat_eu,pre,Shared room,2,0.0,0.0,0.0,100.0,0.0
+Greece,Thessaloniki,2026-03-30,treat_eu,pre,Entire home/apt,4238,0.59,0.661,0.0,98.749,0.0
+Greece,Thessaloniki,2026-03-30,treat_eu,pre,Private room,117,0.0,2.564,0.0,97.436,0.0
+Greece,Thessaloniki,2026-03-30,treat_eu,pre,Shared room,1,0.0,0.0,0.0,100.0,0.0
+Greece,Thessaloniki,2026-06-29,treat_eu,post,Entire home/apt,4814,2.742,0.748,0.0,96.51,0.0
+Greece,Thessaloniki,2026-06-29,treat_eu,post,Private room,148,4.73,2.703,0.0,92.568,0.0
+Greece,Thessaloniki,2026-06-29,treat_eu,post,Shared room,3,33.333,0.0,0.0,66.667,0.0
+Greece,Thessaloniki,2026-09-22,treat_eu,post,Entire home/apt,4812,2.12,0.686,0.0,97.195,0.0
+Greece,Thessaloniki,2026-09-22,treat_eu,post,Private room,145,2.069,2.759,0.0,95.172,0.0
+Greece,Thessaloniki,2026-09-22,treat_eu,post,Shared room,4,0.0,0.0,0.0,100.0,0.0
+Hungary,Budapest,2025-12-28,treat_eu,pre,Entire home/apt,9985,6.35,0.0,0.0,93.65,0.0
+Hungary,Budapest,2025-12-28,treat_eu,pre,Hotel room,4,0.0,0.0,0.0,100.0,0.0
+Hungary,Budapest,2025-12-28,treat_eu,pre,Private room,844,6.872,0.0,0.0,93.128,0.0
+Hungary,Budapest,2025-12-28,treat_eu,pre,Shared room,39,5.128,0.0,0.0,94.872,0.0
+Hungary,Budapest,2026-03-29,treat_eu,pre,Entire home/apt,8719,5.127,0.0,0.0,94.873,0.0
+Hungary,Budapest,2026-03-29,treat_eu,pre,Hotel room,13,0.0,0.0,0.0,100.0,0.0
+Hungary,Budapest,2026-03-29,treat_eu,pre,Private room,744,4.839,0.0,0.0,95.161,0.0
+Hungary,Budapest,2026-03-29,treat_eu,pre,Shared room,34,8.824,0.0,0.0,91.176,0.0
+Hungary,Budapest,2026-06-28,treat_eu,post,Entire home/apt,10438,7.511,0.0,0.0,92.489,0.0
+Hungary,Budapest,2026-06-28,treat_eu,post,Hotel room,13,0.0,0.0,0.0,100.0,0.0
+Hungary,Budapest,2026-06-28,treat_eu,post,Private room,960,9.896,0.0,0.0,90.104,0.0
+Hungary,Budapest,2026-06-28,treat_eu,post,Shared room,43,6.977,0.0,0.0,93.023,0.0
+Hungary,Budapest,2026-09-21,treat_eu,post,Entire home/apt,10147,7.411,0.0,0.0,92.589,0.0
+Hungary,Budapest,2026-09-21,treat_eu,post,Hotel room,13,0.0,0.0,0.0,100.0,0.0
+Hungary,Budapest,2026-09-21,treat_eu,post,Private room,1035,14.879,0.0,0.0,85.121,0.0
+Hungary,Budapest,2026-09-21,treat_eu,post,Shared room,45,4.444,0.0,0.0,95.556,0.0
+Ireland,Dublin,2025-12-16,treat_eu,pre,Entire home/apt,3922,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2025-12-16,treat_eu,pre,Hotel room,16,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2025-12-16,treat_eu,pre,Private room,2802,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2025-12-16,treat_eu,pre,Shared room,94,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-03-25,treat_eu,pre,Entire home/apt,2328,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-03-25,treat_eu,pre,Hotel room,4,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-03-25,treat_eu,pre,Private room,1686,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-03-25,treat_eu,pre,Shared room,68,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-06-21,treat_eu,post,Entire home/apt,4019,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-06-21,treat_eu,post,Hotel room,16,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-06-21,treat_eu,post,Private room,2863,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-06-21,treat_eu,post,Shared room,68,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-09-17,treat_eu,post,Entire home/apt,3884,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-09-17,treat_eu,post,Hotel room,12,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-09-17,treat_eu,post,Private room,2784,100.0,0.0,0.0,0.0,0.0
+Ireland,Dublin,2026-09-17,treat_eu,post,Shared room,68,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2025-12-14,treat_eu,pre,Entire home/apt,21711,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2025-12-14,treat_eu,pre,Hotel room,106,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2025-12-14,treat_eu,pre,Private room,10260,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2025-12-14,treat_eu,pre,Shared room,143,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-03-21,treat_eu,pre,Entire home/apt,18362,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-03-21,treat_eu,pre,Hotel room,40,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-03-21,treat_eu,pre,Private room,7448,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-03-21,treat_eu,pre,Shared room,122,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-06-21,treat_eu,post,Entire home/apt,22332,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-06-21,treat_eu,post,Hotel room,54,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-06-21,treat_eu,post,Private room,9935,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-06-21,treat_eu,post,Shared room,113,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-09-17,treat_eu,post,Entire home/apt,22412,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-09-17,treat_eu,post,Hotel room,48,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-09-17,treat_eu,post,Private room,9819,100.0,0.0,0.0,0.0,0.0
+Ireland,Ireland (nationwide),2026-09-17,treat_eu,post,Shared room,111,100.0,0.0,0.0,0.0,0.0
+Italy,Bergamo,2025-12-31,treat_eu,pre,Entire home/apt,2941,5.95,0.34,1.258,92.452,0.0
+Italy,Bergamo,2025-12-31,treat_eu,pre,Hotel room,17,47.059,0.0,0.0,52.941,0.0
+Italy,Bergamo,2025-12-31,treat_eu,pre,Private room,563,35.169,0.533,1.243,63.055,0.0
+Italy,Bergamo,2025-12-31,treat_eu,pre,Shared room,3,66.667,0.0,0.0,33.333,0.0
+Italy,Bergamo,2026-03-31,treat_eu,pre,Entire home/apt,2841,0.176,0.141,0.528,99.155,0.0
+Italy,Bergamo,2026-03-31,treat_eu,pre,Hotel room,13,30.769,0.0,0.0,69.231,0.0
+Italy,Bergamo,2026-03-31,treat_eu,pre,Private room,501,30.938,0.0,0.0,69.062,0.0
+Italy,Bergamo,2026-03-31,treat_eu,pre,Shared room,1,0.0,0.0,0.0,100.0,0.0
+Italy,Bergamo,2026-06-30,treat_eu,post,Entire home/apt,3504,7.392,0.171,1.027,91.41,0.0
+Italy,Bergamo,2026-06-30,treat_eu,post,Hotel room,26,53.846,0.0,0.0,46.154,0.0
+Italy,Bergamo,2026-06-30,treat_eu,post,Private room,703,34.282,0.0,0.853,64.865,0.0
+Italy,Bergamo,2026-06-30,treat_eu,post,Shared room,4,50.0,0.0,0.0,50.0,0.0
+Italy,Bergamo,2026-09-25,treat_eu,post,Entire home/apt,3559,6.238,0.112,0.871,92.779,0.0
+Italy,Bergamo,2026-09-25,treat_eu,post,Hotel room,12,0.0,0.0,0.0,100.0,0.0
+Italy,Bergamo,2026-09-25,treat_eu,post,Private room,721,36.338,0.0,0.832,62.829,0.0
+Italy,Bergamo,2026-09-25,treat_eu,post,Shared room,2,0.0,0.0,0.0,100.0,0.0
+Italy,Bologna,2026-03-27,treat_eu,pre,Entire home/apt,3099,0.032,0.129,0.742,99.096,0.0
+Italy,Bologna,2026-03-27,treat_eu,pre,Hotel room,4,75.0,0.0,0.0,25.0,0.0
+Italy,Bologna,2026-03-27,treat_eu,pre,Private room,625,22.08,1.44,0.48,76.0,0.0
+Italy,Bologna,2026-03-27,treat_eu,pre,Shared room,8,0.0,0.0,0.0,100.0,0.0
+Italy,Bologna,2026-06-26,treat_eu,post,Entire home/apt,3901,6.511,0.103,0.82,92.566,0.0
+Italy,Bologna,2026-06-26,treat_eu,post,Hotel room,6,83.333,0.0,0.0,16.667,0.0
+Italy,Bologna,2026-06-26,treat_eu,post,Private room,1024,33.496,1.27,1.758,63.477,0.0
+Italy,Bologna,2026-06-26,treat_eu,post,Shared room,17,17.647,5.882,23.529,52.941,0.0
+Italy,Bologna,2026-09-19,treat_eu,post,Entire home/apt,3997,8.757,0.075,0.976,90.193,0.0
+Italy,Bologna,2026-09-19,treat_eu,post,Hotel room,2,50.0,0.0,0.0,50.0,0.0
+Italy,Bologna,2026-09-19,treat_eu,post,Private room,1079,36.608,1.297,1.205,60.89,0.0
+Italy,Bologna,2026-09-19,treat_eu,post,Shared room,16,25.0,6.25,25.0,43.75,0.0
+Italy,Florence,2025-12-26,treat_eu,pre,Entire home/apt,11201,4.0,0.08,0.875,95.045,0.0
+Italy,Florence,2025-12-26,treat_eu,pre,Hotel room,53,20.755,0.0,0.0,79.245,0.0
+Italy,Florence,2025-12-26,treat_eu,pre,Private room,2062,29.001,0.63,0.339,70.029,0.0
+Italy,Florence,2025-12-26,treat_eu,pre,Shared room,11,0.0,0.0,0.0,100.0,0.0
+Italy,Florence,2026-03-27,treat_eu,pre,Entire home/apt,9242,0.151,0.087,0.13,99.632,0.0
+Italy,Florence,2026-03-27,treat_eu,pre,Hotel room,46,15.217,17.391,0.0,67.391,0.0
+Italy,Florence,2026-03-27,treat_eu,pre,Private room,1408,22.017,0.568,0.071,77.344,0.0
+Italy,Florence,2026-03-27,treat_eu,pre,Shared room,13,0.0,0.0,0.0,100.0,0.0
+Italy,Florence,2026-06-26,treat_eu,post,Entire home/apt,11229,4.088,0.08,0.819,95.013,0.0
+Italy,Florence,2026-06-26,treat_eu,post,Hotel room,54,20.37,14.815,0.0,64.815,0.0
+Italy,Florence,2026-06-26,treat_eu,post,Private room,2177,31.144,0.505,0.459,67.892,0.0
+Italy,Florence,2026-06-26,treat_eu,post,Shared room,12,0.0,0.0,0.0,100.0,0.0
+Italy,Florence,2026-09-19,treat_eu,post,Entire home/apt,11271,6.086,0.071,0.683,93.159,0.0
+Italy,Florence,2026-09-19,treat_eu,post,Hotel room,44,4.545,18.182,0.0,77.273,0.0
+Italy,Florence,2026-09-19,treat_eu,post,Private room,2244,34.269,0.535,0.49,64.706,0.0
+Italy,Florence,2026-09-19,treat_eu,post,Shared room,12,0.0,0.0,0.0,100.0,0.0
+Italy,Milan,2025-12-26,treat_eu,pre,Entire home/apt,21226,10.501,0.382,2.982,86.135,0.0
+Italy,Milan,2025-12-26,treat_eu,pre,Hotel room,27,18.519,0.0,0.0,81.481,0.0
+Italy,Milan,2025-12-26,treat_eu,pre,Private room,2787,36.957,0.718,2.404,59.921,0.0
+Italy,Milan,2025-12-26,treat_eu,pre,Shared room,67,23.881,1.493,0.0,74.627,0.0
+Italy,Milan,2026-03-27,treat_eu,pre,Entire home/apt,17294,0.22,0.231,2.111,97.438,0.0
+Italy,Milan,2026-03-27,treat_eu,pre,Hotel room,15,0.0,0.0,0.0,100.0,0.0
+Italy,Milan,2026-03-27,treat_eu,pre,Private room,1476,7.453,0.813,1.084,90.65,0.0
+Italy,Milan,2026-03-27,treat_eu,pre,Shared room,50,18.0,2.0,2.0,78.0,0.0
+Italy,Milan,2026-06-25,treat_eu,post,Entire home/apt,22820,10.136,0.342,2.147,87.375,0.0
+Italy,Milan,2026-06-25,treat_eu,post,Hotel room,36,13.889,0.0,0.0,86.111,0.0
+Italy,Milan,2026-06-25,treat_eu,post,Private room,2831,32.356,0.812,2.261,64.571,0.0
+Italy,Milan,2026-06-25,treat_eu,post,Shared room,63,26.984,0.0,3.175,69.841,0.0
+Italy,Milan,2026-09-19,treat_eu,post,Entire home/apt,22309,12.237,0.345,1.91,85.508,0.0
+Italy,Milan,2026-09-19,treat_eu,post,Hotel room,24,4.167,0.0,0.0,95.833,0.0
+Italy,Milan,2026-09-19,treat_eu,post,Private room,2948,37.687,0.814,2.001,59.498,0.0
+Italy,Milan,2026-09-19,treat_eu,post,Shared room,57,15.789,1.754,1.754,80.702,0.0
+Italy,Naples,2025-12-26,treat_eu,pre,Entire home/apt,6941,9.97,0.879,2.262,86.889,0.0
+Italy,Naples,2025-12-26,treat_eu,pre,Hotel room,112,70.536,0.0,0.0,29.464,0.0
+Italy,Naples,2025-12-26,treat_eu,pre,Private room,4155,46.233,0.241,1.877,51.649,0.0
+Italy,Naples,2025-12-26,treat_eu,pre,Shared room,65,44.615,0.0,0.0,55.385,0.0
+Italy,Naples,2026-03-27,treat_eu,pre,Entire home/apt,5520,0.308,1.087,0.634,97.971,0.0
+Italy,Naples,2026-03-27,treat_eu,pre,Hotel room,45,71.111,0.0,0.0,28.889,0.0
+Italy,Naples,2026-03-27,treat_eu,pre,Private room,2981,42.066,0.134,0.503,57.296,0.0
+Italy,Naples,2026-03-27,treat_eu,pre,Shared room,64,43.75,0.0,0.0,56.25,0.0
+Italy,Naples,2026-06-25,treat_eu,post,Entire home/apt,6908,8.743,0.753,1.882,88.622,0.0
+Italy,Naples,2026-06-25,treat_eu,post,Hotel room,98,67.347,10.204,0.0,22.449,0.0
+Italy,Naples,2026-06-25,treat_eu,post,Private room,4506,46.671,0.133,1.376,51.82,0.0
+Italy,Naples,2026-06-25,treat_eu,post,Shared room,63,42.857,0.0,0.0,57.143,0.0
+Italy,Naples,2026-09-19,treat_eu,post,Entire home/apt,6927,9.788,0.707,1.978,87.527,0.0
+Italy,Naples,2026-09-19,treat_eu,post,Hotel room,44,29.545,22.727,0.0,47.727,0.0
+Italy,Naples,2026-09-19,treat_eu,post,Private room,4741,49.715,0.127,0.97,49.188,0.0
+Italy,Naples,2026-09-19,treat_eu,post,Shared room,25,8.0,0.0,0.0,92.0,0.0
+Italy,Puglia,2025-12-31,treat_eu,pre,Entire home/apt,33478,10.523,0.149,0.845,88.482,0.0
+Italy,Puglia,2025-12-31,treat_eu,pre,Hotel room,145,64.138,0.0,0.69,35.172,0.0
+Italy,Puglia,2025-12-31,treat_eu,pre,Private room,7025,48.968,0.199,0.541,50.292,0.0
+Italy,Puglia,2025-12-31,treat_eu,pre,Shared room,16,18.75,0.0,0.0,81.25,0.0
+Italy,Puglia,2026-03-31,treat_eu,pre,Entire home/apt,30984,0.355,0.161,0.316,99.167,0.0
+Italy,Puglia,2026-03-31,treat_eu,pre,Hotel room,120,56.667,0.0,0.0,43.333,0.0
+Italy,Puglia,2026-03-31,treat_eu,pre,Private room,6028,42.12,0.166,0.116,57.598,0.0
+Italy,Puglia,2026-03-31,treat_eu,pre,Shared room,19,21.053,0.0,0.0,78.947,0.0
+Italy,Puglia,2026-06-30,treat_eu,post,Entire home/apt,39509,10.696,0.157,0.742,88.405,0.0
+Italy,Puglia,2026-06-30,treat_eu,post,Hotel room,195,66.667,0.0,0.513,32.821,0.0
+Italy,Puglia,2026-06-30,treat_eu,post,Private room,8954,47.387,0.19,0.424,51.999,0.0
+Italy,Puglia,2026-06-30,treat_eu,post,Shared room,25,16.0,0.0,0.0,84.0,0.0
+Italy,Puglia,2026-09-25,treat_eu,post,Entire home/apt,39099,10.589,0.161,0.731,88.519,0.0
+Italy,Puglia,2026-09-25,treat_eu,post,Hotel room,89,20.225,0.0,1.124,78.652,0.0
+Italy,Puglia,2026-09-25,treat_eu,post,Private room,9182,47.8,0.207,0.37,51.623,0.0
+Italy,Puglia,2026-09-25,treat_eu,post,Shared room,19,0.0,0.0,0.0,100.0,0.0
+Italy,Rome,2025-12-16,treat_eu,pre,Entire home/apt,27888,5.838,0.176,0.828,93.158,0.0
+Italy,Rome,2025-12-16,treat_eu,pre,Hotel room,360,50.278,0.0,0.0,49.722,0.0
+Italy,Rome,2025-12-16,treat_eu,pre,Private room,8807,32.463,0.204,0.874,66.458,0.0
+Italy,Rome,2025-12-16,treat_eu,pre,Shared room,107,9.346,0.0,0.0,90.654,0.0
+Italy,Rome,2026-03-24,treat_eu,pre,Entire home/apt,23561,0.144,0.136,0.238,99.482,0.0
+Italy,Rome,2026-03-24,treat_eu,pre,Hotel room,151,37.748,0.0,0.0,62.252,0.0
+Italy,Rome,2026-03-24,treat_eu,pre,Private room,6260,24.01,0.192,0.144,75.655,0.0
+Italy,Rome,2026-03-24,treat_eu,pre,Shared room,91,1.099,0.0,0.0,98.901,0.0
+Italy,Rome,2026-06-20,treat_eu,post,Entire home/apt,27797,5.314,0.137,0.77,93.78,0.0
+Italy,Rome,2026-06-20,treat_eu,post,Hotel room,303,44.224,0.0,0.0,55.776,0.0
+Italy,Rome,2026-06-20,treat_eu,post,Private room,8885,31.379,0.191,0.743,67.687,0.0
+Italy,Rome,2026-06-20,treat_eu,post,Shared room,99,14.141,0.0,0.0,85.859,0.0
+Italy,Rome,2026-09-17,treat_eu,post,Entire home/apt,27886,6.943,0.14,0.602,92.315,0.0
+Italy,Rome,2026-09-17,treat_eu,post,Hotel room,200,20.0,0.0,0.0,80.0,0.0
+Italy,Rome,2026-09-17,treat_eu,post,Private room,9266,35.409,0.194,0.734,63.663,0.0
+Italy,Rome,2026-09-17,treat_eu,post,Shared room,99,15.152,0.0,0.0,84.848,0.0
+Italy,Sicily,2025-12-30,treat_eu,pre,Entire home/apt,40199,12.931,0.408,1.597,85.064,0.0
+Italy,Sicily,2025-12-30,treat_eu,pre,Hotel room,158,58.861,0.0,0.0,41.139,0.0
+Italy,Sicily,2025-12-30,treat_eu,pre,Private room,9367,42.949,0.278,0.961,55.813,0.0
+Italy,Sicily,2025-12-30,treat_eu,pre,Shared room,62,3.226,1.613,1.613,93.548,0.0
+Italy,Sicily,2026-03-31,treat_eu,pre,Entire home/apt,34772,0.313,0.472,0.569,98.645,0.0
+Italy,Sicily,2026-03-31,treat_eu,pre,Hotel room,120,55.833,0.0,0.0,44.167,0.0
+Italy,Sicily,2026-03-31,treat_eu,pre,Private room,7549,34.852,0.252,0.159,64.737,0.0
+Italy,Sicily,2026-03-31,treat_eu,pre,Shared room,61,3.279,3.279,0.0,93.443,0.0
+Italy,Sicily,2026-06-30,treat_eu,post,Entire home/apt,45363,13.63,0.39,1.508,84.472,0.0
+Italy,Sicily,2026-06-30,treat_eu,post,Hotel room,207,65.217,0.0,0.0,34.783,0.0
+Italy,Sicily,2026-06-30,treat_eu,post,Private room,11233,42.286,0.276,1.166,56.272,0.0
+Italy,Sicily,2026-06-30,treat_eu,post,Shared room,70,5.714,4.286,1.429,88.571,0.0
+Italy,Sicily,2026-09-25,treat_eu,post,Entire home/apt,45151,13.907,0.436,1.393,84.264,0.0
+Italy,Sicily,2026-09-25,treat_eu,post,Hotel room,110,36.364,0.0,0.0,63.636,0.0
+Italy,Sicily,2026-09-25,treat_eu,post,Private room,11455,42.471,0.262,0.908,56.36,0.0
+Italy,Sicily,2026-09-25,treat_eu,post,Shared room,67,8.955,4.478,1.493,85.075,0.0
+Italy,Trentino,2025-12-31,treat_eu,pre,Entire home/apt,7167,2.888,0.028,0.572,96.512,0.0
+Italy,Trentino,2025-12-31,treat_eu,pre,Hotel room,17,76.471,0.0,0.0,23.529,0.0
+Italy,Trentino,2025-12-31,treat_eu,pre,Private room,983,34.181,0.102,0.0,65.717,0.0
+Italy,Trentino,2025-12-31,treat_eu,pre,Shared room,7,0.0,0.0,0.0,100.0,0.0
+Italy,Trentino,2026-03-31,treat_eu,pre,Entire home/apt,7070,0.17,0.028,0.057,99.745,0.0
+Italy,Trentino,2026-03-31,treat_eu,pre,Hotel room,10,60.0,0.0,0.0,40.0,0.0
+Italy,Trentino,2026-03-31,treat_eu,pre,Private room,920,32.935,0.109,0.0,66.957,0.0
+Italy,Trentino,2026-03-31,treat_eu,pre,Shared room,7,0.0,0.0,0.0,100.0,0.0
+Italy,Trentino,2026-06-30,treat_eu,post,Entire home/apt,8736,4.842,0.034,0.378,94.746,0.0
+Italy,Trentino,2026-06-30,treat_eu,post,Hotel room,16,81.25,0.0,0.0,18.75,0.0
+Italy,Trentino,2026-06-30,treat_eu,post,Private room,1325,36.302,0.302,0.151,63.245,0.0
+Italy,Trentino,2026-06-30,treat_eu,post,Shared room,7,0.0,0.0,0.0,100.0,0.0
+Italy,Trentino,2026-09-28,treat_eu,post,Entire home/apt,8854,3.919,0.034,0.35,95.697,0.0
+Italy,Trentino,2026-09-28,treat_eu,post,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Italy,Trentino,2026-09-28,treat_eu,post,Private room,1374,36.972,0.291,0.218,62.518,0.0
+Italy,Trentino,2026-09-28,treat_eu,post,Shared room,6,0.0,0.0,0.0,100.0,0.0
+Italy,Venice,2025-12-11,treat_eu,pre,Entire home/apt,6679,3.653,0.105,0.195,96.047,0.0
+Italy,Venice,2025-12-11,treat_eu,pre,Hotel room,86,54.651,0.0,0.0,45.349,0.0
+Italy,Venice,2025-12-11,treat_eu,pre,Private room,1825,18.466,0.384,0.329,80.822,0.0
+Italy,Venice,2025-12-11,treat_eu,pre,Shared room,15,0.0,0.0,0.0,100.0,0.0
+Italy,Venice,2026-03-19,treat_eu,pre,Entire home/apt,6320,1.693,0.111,0.174,98.022,0.0
+Italy,Venice,2026-03-19,treat_eu,pre,Hotel room,49,46.939,0.0,0.0,53.061,0.0
+Italy,Venice,2026-03-19,treat_eu,pre,Private room,1482,14.575,0.337,0.27,84.818,0.0
+Italy,Venice,2026-03-19,treat_eu,pre,Shared room,14,0.0,0.0,0.0,100.0,0.0
+Italy,Venice,2026-06-15,treat_eu,post,Entire home/apt,6785,2.609,0.088,0.192,97.111,0.0
+Italy,Venice,2026-06-15,treat_eu,post,Hotel room,71,52.113,0.0,0.0,47.887,0.0
+Italy,Venice,2026-06-15,treat_eu,post,Private room,1898,16.544,0.211,0.211,83.035,0.0
+Italy,Venice,2026-06-15,treat_eu,post,Shared room,12,0.0,0.0,0.0,100.0,0.0
+Italy,Venice,2026-09-16,treat_eu,post,Entire home/apt,6826,4.585,0.088,0.22,95.107,0.0
+Italy,Venice,2026-09-16,treat_eu,post,Hotel room,36,19.444,0.0,0.0,80.556,0.0
+Italy,Venice,2026-09-16,treat_eu,post,Private room,1970,21.066,0.254,0.203,78.477,0.0
+Italy,Venice,2026-09-16,treat_eu,post,Shared room,12,0.0,0.0,0.0,100.0,0.0
+Latvia,Riga,2025-12-30,treat_eu,pre,Entire home/apt,2553,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2025-12-30,treat_eu,pre,Private room,169,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2025-12-30,treat_eu,pre,Shared room,14,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-03-31,treat_eu,pre,Entire home/apt,2464,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-03-31,treat_eu,pre,Hotel room,1,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-03-31,treat_eu,pre,Private room,149,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-03-31,treat_eu,pre,Shared room,14,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-06-30,treat_eu,post,Entire home/apt,3193,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-06-30,treat_eu,post,Hotel room,1,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-06-30,treat_eu,post,Private room,264,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-06-30,treat_eu,post,Shared room,13,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-09-25,treat_eu,post,Entire home/apt,3173,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-09-25,treat_eu,post,Hotel room,1,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-09-25,treat_eu,post,Private room,243,100.0,0.0,0.0,0.0,0.0
+Latvia,Riga,2026-09-25,treat_eu,post,Shared room,3,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2025-12-28,treat_eu,pre,Entire home/apt,8900,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2025-12-28,treat_eu,pre,Hotel room,40,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2025-12-28,treat_eu,pre,Private room,2690,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2025-12-28,treat_eu,pre,Shared room,204,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-03-30,treat_eu,pre,Entire home/apt,8880,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-03-30,treat_eu,pre,Hotel room,63,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-03-30,treat_eu,pre,Private room,2515,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-03-30,treat_eu,pre,Shared room,188,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-06-28,treat_eu,post,Entire home/apt,9952,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-06-28,treat_eu,post,Hotel room,68,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-06-28,treat_eu,post,Private room,2915,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-06-28,treat_eu,post,Shared room,220,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-09-21,treat_eu,post,Entire home/apt,10042,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-09-21,treat_eu,post,Hotel room,70,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-09-21,treat_eu,post,Private room,2958,100.0,0.0,0.0,0.0,0.0
+Malta,Malta (nationwide),2026-09-21,treat_eu,post,Shared room,186,100.0,0.0,0.0,0.0,0.0
+Portugal,Lisbon,2025-12-25,treat_eu,pre,Entire home/apt,18783,4.541,16.925,0.005,78.134,0.394
+Portugal,Lisbon,2025-12-25,treat_eu,pre,Hotel room,192,9.896,9.375,0.0,80.729,0.0
+Portugal,Lisbon,2025-12-25,treat_eu,pre,Private room,6148,4.766,27.489,0.0,67.697,0.049
+Portugal,Lisbon,2025-12-25,treat_eu,pre,Shared room,154,3.896,3.247,0.0,92.857,0.0
+Portugal,Lisbon,2026-03-26,treat_eu,pre,Entire home/apt,18464,4.679,15.154,0.005,79.777,0.385
+Portugal,Lisbon,2026-03-26,treat_eu,pre,Hotel room,175,9.714,5.714,0.0,84.571,0.0
+Portugal,Lisbon,2026-03-26,treat_eu,pre,Private room,6154,5.33,27.153,0.0,67.485,0.032
+Portugal,Lisbon,2026-03-26,treat_eu,pre,Shared room,157,3.185,8.917,0.0,87.898,0.0
+Portugal,Lisbon,2026-06-23,treat_eu,post,Entire home/apt,18444,4.213,15.647,0.005,79.717,0.417
+Portugal,Lisbon,2026-06-23,treat_eu,post,Hotel room,153,3.268,33.987,0.0,62.745,0.0
+Portugal,Lisbon,2026-06-23,treat_eu,post,Private room,6131,4.143,29.033,0.0,66.792,0.033
+Portugal,Lisbon,2026-06-23,treat_eu,post,Shared room,148,4.054,10.811,0.0,85.135,0.0
+Portugal,Lisbon,2026-09-19,treat_eu,post,Entire home/apt,18658,6.587,15.189,0.005,77.8,0.418
+Portugal,Lisbon,2026-09-19,treat_eu,post,Hotel room,152,6.579,34.868,0.0,58.553,0.0
+Portugal,Lisbon,2026-09-19,treat_eu,post,Private room,6065,8.129,26.892,0.0,64.963,0.016
+Portugal,Lisbon,2026-09-19,treat_eu,post,Shared room,145,6.897,12.414,0.0,80.69,0.0
+Portugal,Porto,2025-12-25,treat_eu,pre,Entire home/apt,12444,1.615,7.698,0.008,90.67,0.008
+Portugal,Porto,2025-12-25,treat_eu,pre,Hotel room,73,1.37,13.699,0.0,84.932,0.0
+Portugal,Porto,2025-12-25,treat_eu,pre,Private room,2356,3.523,18.548,0.0,77.929,0.0
+Portugal,Porto,2025-12-25,treat_eu,pre,Shared room,126,1.587,14.286,0.0,84.127,0.0
+Portugal,Porto,2026-03-26,treat_eu,pre,Entire home/apt,12654,1.746,7.247,0.008,90.991,0.008
+Portugal,Porto,2026-03-26,treat_eu,pre,Hotel room,102,0.0,31.373,0.0,68.627,0.0
+Portugal,Porto,2026-03-26,treat_eu,pre,Private room,2374,3.749,18.071,0.0,78.18,0.0
+Portugal,Porto,2026-03-26,treat_eu,pre,Shared room,116,1.724,8.621,0.0,89.655,0.0
+Portugal,Porto,2026-06-23,treat_eu,post,Entire home/apt,12800,1.406,7.445,0.008,91.141,0.0
+Portugal,Porto,2026-06-23,treat_eu,post,Hotel room,79,0.0,45.57,0.0,54.43,0.0
+Portugal,Porto,2026-06-23,treat_eu,post,Private room,2268,2.778,18.695,0.0,78.527,0.0
+Portugal,Porto,2026-06-23,treat_eu,post,Shared room,131,0.763,16.794,0.0,82.443,0.0
+Portugal,Porto,2026-09-19,treat_eu,post,Entire home/apt,12997,4.447,7.379,0.0,88.174,0.0
+Portugal,Porto,2026-09-19,treat_eu,post,Hotel room,79,0.0,45.57,0.0,54.43,0.0
+Portugal,Porto,2026-09-19,treat_eu,post,Private room,2351,8.55,16.886,0.0,74.564,0.0
+Portugal,Porto,2026-09-19,treat_eu,post,Shared room,124,5.645,12.097,0.0,82.258,0.0
+Spain,Barcelona,2025-12-14,treat_eu,pre,Entire home/apt,11745,26.445,0.962,0.0,72.593,0.0
+Spain,Barcelona,2025-12-14,treat_eu,pre,Hotel room,102,1.961,20.588,0.0,77.451,0.0
+Spain,Barcelona,2025-12-14,treat_eu,pre,Private room,6216,65.042,6.934,0.0,28.024,0.0
+Spain,Barcelona,2025-12-14,treat_eu,pre,Shared room,114,10.526,39.474,0.0,50.0,0.0
+Spain,Barcelona,2026-03-21,treat_eu,pre,Entire home/apt,10629,14.987,9.615,0.0,75.397,0.0
+Spain,Barcelona,2026-03-21,treat_eu,pre,Hotel room,73,0.0,39.726,0.0,60.274,0.0
+Spain,Barcelona,2026-03-21,treat_eu,pre,Private room,5293,57.567,17.91,0.0,24.523,0.0
+Spain,Barcelona,2026-03-21,treat_eu,pre,Shared room,112,5.357,58.929,0.0,35.714,0.0
+Spain,Barcelona,2026-06-24,treat_eu,post,Entire home/apt,10844,10.504,21.376,0.0,68.121,0.0
+Spain,Barcelona,2026-06-24,treat_eu,post,Hotel room,68,0.0,47.059,0.0,52.941,0.0
+Spain,Barcelona,2026-06-24,treat_eu,post,Private room,4262,44.463,34.866,0.0,20.671,0.0
+Spain,Barcelona,2026-06-24,treat_eu,post,Shared room,119,7.563,73.95,0.0,18.487,0.0
+Spain,Barcelona,2026-09-17,treat_eu,post,Entire home/apt,10602,31.72,17.572,0.0,50.707,0.0
+Spain,Barcelona,2026-09-17,treat_eu,post,Hotel room,79,6.329,43.038,0.0,50.633,0.0
+Spain,Barcelona,2026-09-17,treat_eu,post,Private room,4430,47.223,32.867,0.0,19.91,0.0
+Spain,Barcelona,2026-09-17,treat_eu,post,Shared room,125,4.8,70.4,0.0,24.8,0.0
+Spain,Euskadi,2025-12-31,treat_eu,pre,Entire home/apt,4026,5.489,10.109,0.025,84.352,0.025
+Spain,Euskadi,2025-12-31,treat_eu,pre,Hotel room,37,35.135,2.703,0.0,48.649,13.514
+Spain,Euskadi,2025-12-31,treat_eu,pre,Private room,1354,39.365,22.009,0.0,37.297,1.329
+Spain,Euskadi,2025-12-31,treat_eu,pre,Shared room,43,27.907,0.0,0.0,72.093,0.0
+Spain,Euskadi,2026-03-31,treat_eu,pre,Entire home/apt,3852,3.219,12.591,0.026,84.164,0.0
+Spain,Euskadi,2026-03-31,treat_eu,pre,Hotel room,48,8.333,50.0,0.0,41.667,0.0
+Spain,Euskadi,2026-03-31,treat_eu,pre,Private room,1170,29.573,30.427,0.0,39.915,0.085
+Spain,Euskadi,2026-03-31,treat_eu,pre,Shared room,41,7.317,29.268,0.0,63.415,0.0
+Spain,Euskadi,2026-06-30,treat_eu,post,Entire home/apt,4555,6.367,14.38,0.022,79.232,0.0
+Spain,Euskadi,2026-06-30,treat_eu,post,Hotel room,61,13.115,68.852,0.0,18.033,0.0
+Spain,Euskadi,2026-06-30,treat_eu,post,Private room,1587,27.284,32.766,0.0,39.13,0.819
+Spain,Euskadi,2026-06-30,treat_eu,post,Shared room,45,15.556,33.333,0.0,51.111,0.0
+Spain,Euskadi,2026-09-25,treat_eu,post,Entire home/apt,4534,14.248,10.124,0.022,75.607,0.0
+Spain,Euskadi,2026-09-25,treat_eu,post,Hotel room,51,3.922,86.275,0.0,9.804,0.0
+Spain,Euskadi,2026-09-25,treat_eu,post,Private room,1618,28.801,32.262,0.0,38.133,0.803
+Spain,Euskadi,2026-09-25,treat_eu,post,Shared room,45,13.333,33.333,0.0,53.333,0.0
+Spain,Girona,2025-12-31,treat_eu,pre,Entire home/apt,16069,5.165,1.699,0.0,93.136,0.0
+Spain,Girona,2025-12-31,treat_eu,pre,Hotel room,16,25.0,0.0,0.0,75.0,0.0
+Spain,Girona,2025-12-31,treat_eu,pre,Private room,979,19.51,22.472,0.0,58.018,0.0
+Spain,Girona,2025-12-31,treat_eu,pre,Shared room,5,60.0,0.0,0.0,40.0,0.0
+Spain,Girona,2026-03-31,treat_eu,pre,Entire home/apt,16103,2.006,3.912,0.0,94.082,0.0
+Spain,Girona,2026-03-31,treat_eu,pre,Hotel room,10,10.0,10.0,0.0,80.0,0.0
+Spain,Girona,2026-03-31,treat_eu,pre,Private room,714,10.364,31.513,0.0,58.123,0.0
+Spain,Girona,2026-03-31,treat_eu,pre,Shared room,7,28.571,42.857,0.0,28.571,0.0
+Spain,Girona,2026-06-30,treat_eu,post,Entire home/apt,20086,4.715,5.382,0.0,89.903,0.0
+Spain,Girona,2026-06-30,treat_eu,post,Hotel room,18,16.667,55.556,0.0,27.778,0.0
+Spain,Girona,2026-06-30,treat_eu,post,Private room,1140,16.053,36.404,0.0,47.544,0.0
+Spain,Girona,2026-06-30,treat_eu,post,Shared room,13,7.692,46.154,0.0,46.154,0.0
+Spain,Girona,2026-09-25,treat_eu,post,Entire home/apt,19316,13.165,4.939,0.0,81.896,0.0
+Spain,Girona,2026-09-25,treat_eu,post,Hotel room,17,0.0,64.706,0.0,35.294,0.0
+Spain,Girona,2026-09-25,treat_eu,post,Private room,1119,11.618,34.674,0.0,53.709,0.0
+Spain,Girona,2026-09-25,treat_eu,post,Shared room,18,5.556,38.889,0.0,55.556,0.0
+Spain,Madrid,2025-12-14,treat_eu,pre,Entire home/apt,16565,45.681,4.021,0.03,48.566,1.702
+Spain,Madrid,2025-12-14,treat_eu,pre,Hotel room,60,65.0,31.667,0.0,3.333,0.0
+Spain,Madrid,2025-12-14,treat_eu,pre,Private room,7826,78.393,5.188,0.0,16.343,0.077
+Spain,Madrid,2025-12-14,treat_eu,pre,Shared room,165,65.455,23.636,0.0,10.909,0.0
+Spain,Madrid,2026-03-24,treat_eu,pre,Entire home/apt,15650,36.895,5.738,0.026,56.837,0.505
+Spain,Madrid,2026-03-24,treat_eu,pre,Hotel room,56,67.857,28.571,0.0,3.571,0.0
+Spain,Madrid,2026-03-24,treat_eu,pre,Private room,7162,72.145,8.084,0.0,19.715,0.056
+Spain,Madrid,2026-03-24,treat_eu,pre,Shared room,134,57.463,32.09,0.0,10.448,0.0
+Spain,Madrid,2026-06-20,treat_eu,post,Entire home/apt,15899,25.995,47.431,0.019,26.278,0.277
+Spain,Madrid,2026-06-20,treat_eu,post,Hotel room,39,48.718,46.154,0.0,5.128,0.0
+Spain,Madrid,2026-06-20,treat_eu,post,Private room,6611,58.1,30.827,0.0,11.027,0.045
+Spain,Madrid,2026-06-20,treat_eu,post,Shared room,159,39.623,55.346,0.0,5.031,0.0
+Spain,Madrid,2026-09-17,treat_eu,post,Entire home/apt,16182,42.757,38.03,0.019,19.046,0.148
+Spain,Madrid,2026-09-17,treat_eu,post,Hotel room,39,56.41,41.026,0.0,2.564,0.0
+Spain,Madrid,2026-09-17,treat_eu,post,Private room,6735,58.099,30.572,0.0,11.284,0.045
+Spain,Madrid,2026-09-17,treat_eu,post,Shared room,153,39.869,53.595,0.0,6.536,0.0
+Spain,Malaga,2025-12-31,treat_eu,pre,Entire home/apt,7878,8.073,5.128,0.0,86.799,0.0
+Spain,Malaga,2025-12-31,treat_eu,pre,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Spain,Malaga,2025-12-31,treat_eu,pre,Private room,902,38.581,2.106,0.0,59.313,0.0
+Spain,Malaga,2025-12-31,treat_eu,pre,Shared room,28,42.857,57.143,0.0,0.0,0.0
+Spain,Malaga,2026-03-31,treat_eu,pre,Entire home/apt,7358,3.004,7.611,0.0,89.386,0.0
+Spain,Malaga,2026-03-31,treat_eu,pre,Hotel room,3,0.0,0.0,0.0,100.0,0.0
+Spain,Malaga,2026-03-31,treat_eu,pre,Private room,705,20.0,7.801,0.0,72.199,0.0
+Spain,Malaga,2026-03-31,treat_eu,pre,Shared room,32,34.375,65.625,0.0,0.0,0.0
+Spain,Malaga,2026-06-30,treat_eu,post,Entire home/apt,8481,5.589,8.324,0.0,86.087,0.0
+Spain,Malaga,2026-06-30,treat_eu,post,Hotel room,4,25.0,0.0,0.0,75.0,0.0
+Spain,Malaga,2026-06-30,treat_eu,post,Private room,1044,20.69,12.261,0.0,67.05,0.0
+Spain,Malaga,2026-06-30,treat_eu,post,Shared room,39,20.513,64.103,0.0,15.385,0.0
+Spain,Malaga,2026-09-28,treat_eu,post,Entire home/apt,8431,23.805,4.685,0.0,71.51,0.0
+Spain,Malaga,2026-09-28,treat_eu,post,Hotel room,4,0.0,0.0,0.0,100.0,0.0
+Spain,Malaga,2026-09-28,treat_eu,post,Private room,1026,20.078,10.331,0.0,69.591,0.0
+Spain,Malaga,2026-09-28,treat_eu,post,Shared room,44,15.909,59.091,0.0,25.0,0.0
+Spain,Mallorca,2025-12-25,treat_eu,pre,Entire home/apt,12313,0.138,3.192,0.0,96.67,0.0
+Spain,Mallorca,2025-12-25,treat_eu,pre,Hotel room,44,0.0,13.636,0.0,86.364,0.0
+Spain,Mallorca,2025-12-25,treat_eu,pre,Private room,570,0.526,33.509,0.0,65.965,0.0
+Spain,Mallorca,2026-03-26,treat_eu,pre,Entire home/apt,11948,0.109,3.9,0.0,95.932,0.059
+Spain,Mallorca,2026-03-26,treat_eu,pre,Hotel room,24,0.0,75.0,0.0,25.0,0.0
+Spain,Mallorca,2026-03-26,treat_eu,pre,Private room,506,0.198,54.348,0.0,44.466,0.988
+Spain,Mallorca,2026-06-23,treat_eu,post,Entire home/apt,14053,0.363,7.877,0.0,91.667,0.093
+Spain,Mallorca,2026-06-23,treat_eu,post,Hotel room,40,0.0,65.0,0.0,35.0,0.0
+Spain,Mallorca,2026-06-23,treat_eu,post,Private room,724,1.657,64.917,0.0,32.735,0.691
+Spain,Mallorca,2026-09-19,treat_eu,post,Entire home/apt,13941,6.305,6.994,0.0,86.644,0.057
+Spain,Mallorca,2026-09-19,treat_eu,post,Hotel room,37,2.703,67.568,0.0,29.73,0.0
+Spain,Mallorca,2026-09-19,treat_eu,post,Private room,923,18.202,52.763,0.0,28.602,0.433
+Spain,Menorca,2025-12-31,treat_eu,pre,Entire home/apt,2672,0.15,5.539,0.0,94.311,0.0
+Spain,Menorca,2025-12-31,treat_eu,pre,Hotel room,5,0.0,60.0,0.0,40.0,0.0
+Spain,Menorca,2025-12-31,treat_eu,pre,Private room,71,0.0,66.197,0.0,33.803,0.0
+Spain,Menorca,2026-03-31,treat_eu,pre,Entire home/apt,2952,0.339,7.927,0.0,91.734,0.0
+Spain,Menorca,2026-03-31,treat_eu,pre,Hotel room,7,0.0,85.714,0.0,14.286,0.0
+Spain,Menorca,2026-03-31,treat_eu,pre,Private room,89,0.0,73.034,0.0,26.966,0.0
+Spain,Menorca,2026-06-30,treat_eu,post,Entire home/apt,3486,4.188,10.011,0.0,85.8,0.0
+Spain,Menorca,2026-06-30,treat_eu,post,Hotel room,11,9.091,81.818,0.0,9.091,0.0
+Spain,Menorca,2026-06-30,treat_eu,post,Private room,123,4.878,72.358,0.0,22.764,0.0
+Spain,Menorca,2026-09-28,treat_eu,post,Entire home/apt,3496,5.092,9.096,0.0,85.812,0.0
+Spain,Menorca,2026-09-28,treat_eu,post,Hotel room,11,0.0,90.909,0.0,9.091,0.0
+Spain,Menorca,2026-09-28,treat_eu,post,Private room,118,2.542,71.186,0.0,26.271,0.0
+Spain,Sevilla,2025-12-30,treat_eu,pre,Entire home/apt,6669,6.328,9.357,0.0,84.315,0.0
+Spain,Sevilla,2025-12-30,treat_eu,pre,Hotel room,16,6.25,37.5,0.0,56.25,0.0
+Spain,Sevilla,2025-12-30,treat_eu,pre,Private room,970,30.103,12.474,0.0,57.423,0.0
+Spain,Sevilla,2025-12-30,treat_eu,pre,Shared room,19,10.526,68.421,0.0,21.053,0.0
+Spain,Sevilla,2026-03-31,treat_eu,pre,Entire home/apt,6285,2.275,12.506,0.0,85.219,0.0
+Spain,Sevilla,2026-03-31,treat_eu,pre,Hotel room,13,7.692,69.231,0.0,23.077,0.0
+Spain,Sevilla,2026-03-31,treat_eu,pre,Private room,772,18.653,15.803,0.0,65.544,0.0
+Spain,Sevilla,2026-03-31,treat_eu,pre,Shared room,23,4.348,73.913,0.0,21.739,0.0
+Spain,Sevilla,2026-06-30,treat_eu,post,Entire home/apt,7111,4.936,13.585,0.0,81.479,0.0
+Spain,Sevilla,2026-06-30,treat_eu,post,Hotel room,17,5.882,76.471,0.0,17.647,0.0
+Spain,Sevilla,2026-06-30,treat_eu,post,Private room,1092,15.11,24.451,0.0,60.44,0.0
+Spain,Sevilla,2026-06-30,treat_eu,post,Shared room,25,8.0,64.0,0.0,28.0,0.0
+Spain,Sevilla,2026-09-25,treat_eu,post,Entire home/apt,7224,25.678,6.52,0.0,67.802,0.0
+Spain,Sevilla,2026-09-25,treat_eu,post,Hotel room,17,5.882,76.471,0.0,17.647,0.0
+Spain,Sevilla,2026-09-25,treat_eu,post,Private room,1109,16.772,22.813,0.0,60.415,0.0
+Spain,Sevilla,2026-09-25,treat_eu,post,Shared room,25,4.0,68.0,0.0,28.0,0.0
+Spain,Valencia,2025-12-27,treat_eu,pre,Entire home/apt,5828,19.115,5.611,0.0,75.223,0.051
+Spain,Valencia,2025-12-27,treat_eu,pre,Hotel room,12,75.0,0.0,0.0,25.0,0.0
+Spain,Valencia,2025-12-27,treat_eu,pre,Private room,1851,73.312,7.239,0.0,19.449,0.0
+Spain,Valencia,2025-12-27,treat_eu,pre,Shared room,11,27.273,36.364,0.0,36.364,0.0
+Spain,Valencia,2026-03-28,treat_eu,pre,Entire home/apt,3886,10.293,6.433,0.0,83.273,0.0
+Spain,Valencia,2026-03-28,treat_eu,pre,Hotel room,12,25.0,58.333,0.0,16.667,0.0
+Spain,Valencia,2026-03-28,treat_eu,pre,Private room,1017,70.501,10.914,0.0,18.584,0.0
+Spain,Valencia,2026-03-28,treat_eu,pre,Shared room,15,13.333,46.667,0.0,40.0,0.0
+Spain,Valencia,2026-06-26,treat_eu,post,Entire home/apt,6138,9.482,28.152,0.0,62.349,0.016
+Spain,Valencia,2026-06-26,treat_eu,post,Hotel room,13,30.769,53.846,0.0,15.385,0.0
+Spain,Valencia,2026-06-26,treat_eu,post,Private room,1681,54.253,31.231,0.0,14.515,0.0
+Spain,Valencia,2026-06-26,treat_eu,post,Shared room,19,21.053,47.368,0.0,31.579,0.0
+Spain,Valencia,2026-09-20,treat_eu,post,Entire home/apt,6257,31.501,23.238,0.0,45.229,0.032
+Spain,Valencia,2026-09-20,treat_eu,post,Hotel room,13,38.462,46.154,0.0,15.385,0.0
+Spain,Valencia,2026-09-20,treat_eu,post,Private room,1682,52.081,32.996,0.0,14.923,0.0
+Spain,Valencia,2026-09-20,treat_eu,post,Shared room,16,25.0,56.25,0.0,18.75,0.0
+Sweden,Stockholm,2025-12-30,treat_eu,pre,Entire home/apt,2558,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2025-12-30,treat_eu,pre,Hotel room,1,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2025-12-30,treat_eu,pre,Private room,585,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2025-12-30,treat_eu,pre,Shared room,29,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-03-31,treat_eu,pre,Entire home/apt,2079,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-03-31,treat_eu,pre,Hotel room,1,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-03-31,treat_eu,pre,Private room,461,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-03-31,treat_eu,pre,Shared room,25,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-06-30,treat_eu,post,Entire home/apt,3981,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-06-30,treat_eu,post,Hotel room,3,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-06-30,treat_eu,post,Private room,794,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-06-30,treat_eu,post,Shared room,28,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-09-25,treat_eu,post,Entire home/apt,3760,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-09-25,treat_eu,post,Hotel room,3,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-09-25,treat_eu,post,Private room,787,100.0,0.0,0.0,0.0,0.0
+Sweden,Stockholm,2026-09-25,treat_eu,post,Shared room,24,100.0,0.0,0.0,0.0,0.0
+The Netherlands,Amsterdam,2025-12-12,treat_eu,pre,Entire home/apt,8827,1.224,3.013,0.0,95.763,0.0
+The Netherlands,Amsterdam,2025-12-12,treat_eu,pre,Hotel room,42,0.0,69.048,0.0,30.952,0.0
+The Netherlands,Amsterdam,2025-12-12,treat_eu,pre,Private room,1931,0.259,28.845,0.0,70.896,0.0
+The Netherlands,Amsterdam,2025-12-12,treat_eu,pre,Shared room,35,0.0,94.286,0.0,5.714,0.0
+The Netherlands,Amsterdam,2026-03-19,treat_eu,pre,Entire home/apt,4897,1.327,4.574,0.0,94.098,0.0
+The Netherlands,Amsterdam,2026-03-19,treat_eu,pre,Hotel room,33,0.0,63.636,0.0,36.364,0.0
+The Netherlands,Amsterdam,2026-03-19,treat_eu,pre,Private room,1539,12.93,17.999,0.0,69.071,0.0
+The Netherlands,Amsterdam,2026-03-19,treat_eu,pre,Shared room,34,0.0,97.059,0.0,2.941,0.0
+The Netherlands,Amsterdam,2026-06-15,treat_eu,post,Entire home/apt,8489,0.813,2.91,0.0,96.278,0.0
+The Netherlands,Amsterdam,2026-06-15,treat_eu,post,Hotel room,26,0.0,73.077,0.0,26.923,0.0
+The Netherlands,Amsterdam,2026-06-15,treat_eu,post,Private room,1833,8.402,19.04,0.0,72.559,0.0
+The Netherlands,Amsterdam,2026-06-15,treat_eu,post,Shared room,21,0.0,95.238,0.0,4.762,0.0
+The Netherlands,Amsterdam,2026-09-16,treat_eu,post,Entire home/apt,8579,1.271,2.798,0.0,95.932,0.0
+The Netherlands,Amsterdam,2026-09-16,treat_eu,post,Hotel room,24,0.0,79.167,0.0,20.833,0.0
+The Netherlands,Amsterdam,2026-09-16,treat_eu,post,Private room,1987,17.866,16.507,0.0,65.627,0.0
+The Netherlands,Amsterdam,2026-09-16,treat_eu,post,Shared room,22,9.091,81.818,0.0,9.091,0.0
+The Netherlands,Rotterdam,2025-12-28,treat_eu,pre,Entire home/apt,986,4.26,8.316,0.0,87.424,0.0
+The Netherlands,Rotterdam,2025-12-28,treat_eu,pre,Hotel room,27,0.0,100.0,0.0,0.0,0.0
+The Netherlands,Rotterdam,2025-12-28,treat_eu,pre,Private room,331,0.604,36.858,0.0,62.538,0.0
+The Netherlands,Rotterdam,2025-12-28,treat_eu,pre,Shared room,9,0.0,77.778,0.0,22.222,0.0
+The Netherlands,Rotterdam,2026-03-29,treat_eu,pre,Entire home/apt,528,5.871,12.879,0.0,81.25,0.0
+The Netherlands,Rotterdam,2026-03-29,treat_eu,pre,Hotel room,8,0.0,100.0,0.0,0.0,0.0
+The Netherlands,Rotterdam,2026-03-29,treat_eu,pre,Private room,197,0.508,40.609,0.0,58.883,0.0
+The Netherlands,Rotterdam,2026-03-29,treat_eu,pre,Shared room,9,0.0,77.778,0.0,22.222,0.0
+The Netherlands,Rotterdam,2026-06-28,treat_eu,post,Entire home/apt,1000,5.5,8.7,0.0,85.8,0.0
+The Netherlands,Rotterdam,2026-06-28,treat_eu,post,Hotel room,32,0.0,100.0,0.0,0.0,0.0
+The Netherlands,Rotterdam,2026-06-28,treat_eu,post,Private room,316,10.443,29.43,0.0,60.127,0.0
+The Netherlands,Rotterdam,2026-06-28,treat_eu,post,Shared room,9,11.111,66.667,0.0,22.222,0.0
+The Netherlands,Rotterdam,2026-09-21,treat_eu,post,Entire home/apt,1014,6.41,10.158,0.0,83.432,0.0
+The Netherlands,Rotterdam,2026-09-21,treat_eu,post,Hotel room,31,0.0,100.0,0.0,0.0,0.0
+The Netherlands,Rotterdam,2026-09-21,treat_eu,post,Private room,339,15.929,28.909,0.0,55.162,0.0
+The Netherlands,Rotterdam,2026-09-21,treat_eu,post,Shared room,11,0.0,81.818,0.0,18.182,0.0
+The Netherlands,The Hague,2025-12-28,treat_eu,pre,Entire home/apt,815,1.963,30.307,0.0,67.73,0.0
+The Netherlands,The Hague,2025-12-28,treat_eu,pre,Hotel room,4,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2025-12-28,treat_eu,pre,Private room,158,1.899,37.342,0.0,60.759,0.0
+The Netherlands,The Hague,2025-12-28,treat_eu,pre,Shared room,2,0.0,50.0,0.0,50.0,0.0
+The Netherlands,The Hague,2026-03-29,treat_eu,pre,Entire home/apt,775,1.419,30.71,0.0,67.871,0.0
+The Netherlands,The Hague,2026-03-29,treat_eu,pre,Hotel room,4,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2026-03-29,treat_eu,pre,Private room,148,2.703,42.568,0.0,54.73,0.0
+The Netherlands,The Hague,2026-03-29,treat_eu,pre,Shared room,1,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2026-06-28,treat_eu,post,Entire home/apt,1246,4.093,21.108,0.0,74.799,0.0
+The Netherlands,The Hague,2026-06-28,treat_eu,post,Hotel room,20,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2026-06-28,treat_eu,post,Private room,225,8.0,37.778,0.0,54.222,0.0
+The Netherlands,The Hague,2026-06-28,treat_eu,post,Shared room,1,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2026-09-21,treat_eu,post,Entire home/apt,1207,2.568,22.37,0.0,75.062,0.0
+The Netherlands,The Hague,2026-09-21,treat_eu,post,Hotel room,20,0.0,100.0,0.0,0.0,0.0
+The Netherlands,The Hague,2026-09-21,treat_eu,post,Private room,214,14.486,29.907,0.0,55.607,0.0
+The Netherlands,The Hague,2026-09-21,treat_eu,post,Shared room,1,0.0,100.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+Treated group,DiD 2025-12 → 2026-06 (pp),Cluster SE,95% CI,Wild-boot p,Randomization p,DiD incl. 2026-09 (pp),Wild-boot p (incl. 09),Treated cities,Control cities
+Spain — procedure annulled,-7.9,2.5,-12.8 to -3.0,<0.001,<0.001,-15.8,<0.001,9,14
+France — already in force,-0.3,1.2,-2.7 to 2.1,0.723,0.800,-1.8,0.077,4,14
+EU already in force,-2.1,1.0,-4.1 to -0.2,0.002,0.001,-2.8,<0.001,22,14
+EU status unverified,-1.3,1.2,-3.6 to 1.1,0.155,0.171,-1.4,0.080,7,14
+"PLACEBO: EU no-scheme (AT, IE) vs non-EU",-1.9,—,—,0.062,—,—,—,—,—
+"PLACEBO: non-EU split, fake date",1.3,—,—,0.281,—,—,—,—,—
+"PLACEBO: Spain, both periods post (06→09)",-7.9,—,—,<0.001,—,—,—,—,—
+"PLACEBO: France, both periods post (06→09)",-1.5,—,—,0.005,—,—,—,—,—

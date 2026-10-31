@@ -1,0 +1,20 @@
+country,city,regime,publish_date,n_listings,pct_number,pct_blank,pct_exempt
+United Kingdom,Edinburgh,noneu,2025-09-21,4936,23.8452,75.4052,0.1216
+United Kingdom,Edinburgh,noneu,2025-12-25,5413,24.2749,75.0231,0.1108
+United Kingdom,Edinburgh,noneu,2026-03-26,4318,25.6832,73.7147,0.0463
+United Kingdom,Edinburgh,noneu,2026-06-23,6244,29.18,70.1954,0.0961
+United Kingdom,Edinburgh,noneu,2026-09-19,6342,29.3756,70.1041,0.0788
+New Zealand,New Zealand (nationwide),noneu,2025-11-07,48624,0.0,100.0,0.0
+New Zealand,New Zealand (nationwide),noneu,2026-03-17,49076,0.0,100.0,0.0
+New Zealand,New Zealand (nationwide),noneu,2026-04-16,48951,0.0,100.0,0.0
+New Zealand,New Zealand (nationwide),noneu,2026-05-23,49305,0.0,100.0,0.0
+New Zealand,New Zealand (nationwide),noneu,2026-09-13,51658,0.0,100.0,0.0
+Switzerland,Vaud,eea,2025-07-04,5714,0.0,100.0,0.0
+Switzerland,Vaud,eea,2025-08-03,5743,0.0,100.0,0.0
+Switzerland,Vaud,eea,2025-09-06,5584,0.0,100.0,0.0
+Switzerland,Vaud,eea,2025-10-05,5514,0.0,100.0,0.0
+Switzerland,Vaud,eea,2025-11-01,5486,0.0,100.0,0.0
+Switzerland,Vaud,eea,2026-03-16,5480,0.0,100.0,0.0
+Switzerland,Vaud,eea,2026-04-14,5421,0.0,100.0,0.0
+Switzerland,Vaud,eea,2026-05-23,5249,0.0,100.0,0.0
+Switzerland,Vaud,eea,2026-10-05,5235,0.0,100.0,0.0

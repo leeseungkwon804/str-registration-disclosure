@@ -1,0 +1,256 @@
+role,group,country,city,publish_date,side,n_listings,src_file,n_blank,pct_blank,n_exempt,pct_exempt,n_pending,pct_pending,n_number,pct_number,n_text_other,pct_text_other,pct_multi,pct_entire,pct_has_br,mean_tokens_if_number,n_multi,pct_number_multi,n_single,pct_number_single
+control_noneu,nonEU,Australia,Melbourne,2025-12-12,pre,26203,data/raw/Australia__Melbourne__2025-12-12.csv.gz,26203,100.0,0,0.0,0,0.0,0,0.0,0,0.0,54.799,73.121,0.0,,14359,0.0,11844,0.0
+control_noneu,nonEU,Australia,Melbourne,2026-03-21,pre,16674,data/raw/Australia__Melbourne__2026-03-21.csv.gz,16674,100.0,0,0.0,0,0.0,0,0.0,0,0.0,62.277,79.075,0.0,,10384,0.0,6290,0.0
+control_noneu,nonEU,Australia,Melbourne,2026-06-16,post,25728,data/raw/Australia__Melbourne__2026-06-16.csv.gz,25728,100.0,0,0.0,0,0.0,0,0.0,0,0.0,55.756,73.185,0.0,,14345,0.0,11383,0.0
+control_noneu,nonEU,Australia,Melbourne,2026-09-16,post,25715,data/raw/Australia__Melbourne__2026-09-16.csv.gz,25715,100.0,0,0.0,0,0.0,0,0.0,0,0.0,56.348,73.727,0.0,,14490,0.0,11225,0.0
+control_noneu,nonEU,Australia,Sydney,2025-12-12,pre,20436,data/raw/Australia__Sydney__2025-12-12.csv.gz,1389,6.797,4070,19.916,0,0.0,14976,73.282,1,0.005,62.478,80.265,0.0,1.0,12768,70.551,7668,77.83
+control_noneu,nonEU,Australia,Sydney,2026-03-21,pre,13563,data/raw/Australia__Sydney__2026-03-21.csv.gz,24,0.177,2967,21.876,0,0.0,10571,77.94,1,0.007,65.052,81.059,0.0,1.0,8823,72.288,4740,88.46
+control_noneu,nonEU,Australia,Sydney,2026-06-16,post,20573,data/raw/Australia__Sydney__2026-06-16.csv.gz,1269,6.168,4067,19.769,0,0.0,15236,74.058,1,0.005,62.849,78.705,0.0,1.0,12930,71.191,7643,78.909
+control_noneu,nonEU,Australia,Sydney,2026-09-16,post,20833,data/raw/Australia__Sydney__2026-09-16.csv.gz,1230,5.904,4086,19.613,0,0.0,15516,74.478,1,0.005,63.356,78.937,0.0,1.0,13199,71.672,7634,79.329
+control_noneu,nonEU,Canada,Montreal,2025-12-22,pre,10041,data/raw/Canada__Montreal__2025-12-22.csv.gz,5070,50.493,0,0.0,0,0.0,4967,49.467,4,0.04,73.937,82.103,49.507,3.872,7424,53.866,2617,36.989
+control_noneu,nonEU,Canada,Montreal,2026-03-16,pre,10206,data/raw/Canada__Montreal__2026-03-16.csv.gz,5051,49.49,0,0.0,0,0.0,5149,50.451,6,0.059,74.897,82.04,50.51,3.867,7644,55.076,2562,36.651
+control_noneu,nonEU,Canada,Montreal,2026-06-15,post,10656,data/raw/Canada__Montreal__2026-06-15.csv.gz,5004,46.959,0,0.0,1,0.009,5645,52.975,6,0.056,76.248,81.907,53.041,3.872,8125,57.711,2531,37.772
+control_noneu,nonEU,Canada,Montreal,2026-09-14,post,10717,data/raw/Canada__Montreal__2026-09-14.csv.gz,5163,48.176,0,0.0,0,0.0,5548,51.768,6,0.056,76.43,82.019,51.824,3.875,8191,56.489,2526,36.461
+control_noneu,nonEU,Canada,Toronto,2025-12-12,pre,21602,data/raw/Canada__Toronto__2025-12-12.csv.gz,11146,51.597,118,0.546,0,0.0,10332,47.829,6,0.028,46.065,66.17,0.0,1.0,9951,40.599,11651,54.004
+control_noneu,nonEU,Canada,Toronto,2026-03-19,pre,15490,data/raw/Canada__Toronto__2026-03-19.csv.gz,6182,39.91,75,0.484,0,0.0,9227,59.567,6,0.039,44.706,67.889,0.0,1.0,6925,44.477,8565,71.769
+control_noneu,nonEU,Canada,Toronto,2026-06-15,post,22198,data/raw/Canada__Toronto__2026-06-15.csv.gz,10184,45.878,106,0.478,0,0.0,11902,53.617,6,0.027,45.554,68.583,0.0,1.0,10112,42.494,12086,62.924
+control_noneu,nonEU,Canada,Toronto,2026-09-16,post,22050,data/raw/Canada__Toronto__2026-09-16.csv.gz,10222,46.358,103,0.467,0,0.0,11719,53.147,6,0.027,46.794,67.868,0.0,1.0,10318,42.121,11732,62.845
+control_noneu,nonEU,Canada,Vancouver,2025-12-14,pre,5726,data/raw/Canada__Vancouver__2025-12-14.csv.gz,1313,22.93,486,8.488,1,0.017,3899,68.093,27,0.472,44.307,80.161,63.255,1.831,2537,53.646,3189,79.586
+control_noneu,nonEU,Canada,Vancouver,2026-03-21,pre,5725,data/raw/Canada__Vancouver__2026-03-21.csv.gz,1207,21.083,504,8.803,1,0.017,3987,69.642,26,0.454,42.131,81.24,66.201,1.848,2412,54.643,3313,80.561
+control_noneu,nonEU,Canada,Vancouver,2026-06-15,post,6509,data/raw/Canada__Vancouver__2026-06-15.csv.gz,1141,17.53,558,8.573,1,0.015,4790,73.59,19,0.292,41.573,81.764,73.13,1.891,2706,59.867,3803,83.355
+control_noneu,nonEU,Canada,Vancouver,2026-09-17,post,6131,data/raw/Canada__Vancouver__2026-09-17.csv.gz,1097,17.893,457,7.454,1,0.016,4557,74.327,19,0.31,38.803,81.748,72.451,1.889,2379,58.596,3752,84.302
+control_noneu,nonEU,New Zealand,New Zealand (nationwide),2026-03-17,pre,49076,data/raw/New_Zealand__New_Zealand_nationwide__2026-03-17.csv.gz,49076,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.659,82.299,0.0,,25843,0.0,23233,0.0
+control_noneu,nonEU,New Zealand,New Zealand (nationwide),2026-04-16,pre,48951,data/raw/New_Zealand__New_Zealand_nationwide__2026-04-16.csv.gz,48951,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.532,82.1,0.0,,25715,0.0,23236,0.0
+control_noneu,nonEU,New Zealand,New Zealand (nationwide),2026-05-23,post,49305,data/raw/New_Zealand__New_Zealand_nationwide__2026-05-23.csv.gz,49305,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.654,82.079,0.0,,25961,0.0,23344,0.0
+control_noneu,nonEU,New Zealand,New Zealand (nationwide),2026-09-13,post,51658,data/raw/New_Zealand__New_Zealand_nationwide__2026-09-13.csv.gz,51658,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.059,82.283,0.0,,27409,0.0,24249,0.0
+control_noneu,nonEU,United Kingdom,Bristol,2025-12-28,pre,2939,data/raw/United_Kingdom__Bristol__2025-12-28.csv.gz,2939,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.807,71.487,0.0,,1552,0.0,1387,0.0
+control_noneu,nonEU,United Kingdom,Bristol,2026-03-30,pre,1979,data/raw/United_Kingdom__Bristol__2026-03-30.csv.gz,1979,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.613,74.381,0.0,,1061,0.0,918,0.0
+control_noneu,nonEU,United Kingdom,Bristol,2026-06-29,post,3023,data/raw/United_Kingdom__Bristol__2026-06-29.csv.gz,3023,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.291,71.32,0.0,,1611,0.0,1412,0.0
+control_noneu,nonEU,United Kingdom,Bristol,2026-09-22,post,2932,data/raw/United_Kingdom__Bristol__2026-09-22.csv.gz,2932,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.217,72.067,0.0,,1531,0.0,1401,0.0
+control_noneu,nonEU,United Kingdom,Edinburgh,2025-12-25,pre,5413,data/raw/United_Kingdom__Edinburgh__2025-12-25.csv.gz,4061,75.023,6,0.111,29,0.536,1314,24.275,3,0.055,49.935,71.107,0.0,1.043,2703,23.122,2710,25.424
+control_noneu,nonEU,United Kingdom,Edinburgh,2026-03-26,pre,4318,data/raw/United_Kingdom__Edinburgh__2026-03-26.csv.gz,3183,73.715,2,0.046,22,0.509,1109,25.683,2,0.046,50.95,75.012,0.0,1.045,2200,26.591,2118,24.74
+control_noneu,nonEU,United Kingdom,Edinburgh,2026-06-23,post,6244,data/raw/United_Kingdom__Edinburgh__2026-06-23.csv.gz,4383,70.195,6,0.096,29,0.464,1822,29.18,4,0.064,54.308,71.188,0.0,1.033,3391,28.015,2853,30.564
+control_noneu,nonEU,United Kingdom,Edinburgh,2026-09-19,post,6342,data/raw/United_Kingdom__Edinburgh__2026-09-19.csv.gz,4446,70.104,5,0.079,24,0.378,1863,29.376,4,0.063,54.1,70.183,0.0,1.028,3431,28.447,2911,30.471
+control_noneu,nonEU,United Kingdom,Greater Manchester,2025-12-28,pre,7662,data/raw/United_Kingdom__Greater_Manchester__2025-12-28.csv.gz,7662,100.0,0,0.0,0,0.0,0,0.0,0,0.0,67.176,67.384,0.0,,5147,0.0,2515,0.0
+control_noneu,nonEU,United Kingdom,Greater Manchester,2026-03-29,pre,5855,data/raw/United_Kingdom__Greater_Manchester__2026-03-29.csv.gz,5855,100.0,0,0.0,0,0.0,0,0.0,0,0.0,64.372,69.155,0.0,,3769,0.0,2086,0.0
+control_noneu,nonEU,United Kingdom,Greater Manchester,2026-06-28,post,6930,data/raw/United_Kingdom__Greater_Manchester__2026-06-28.csv.gz,6930,100.0,0,0.0,0,0.0,0,0.0,0,0.0,66.652,68.283,0.0,,4619,0.0,2311,0.0
+control_noneu,nonEU,United Kingdom,Greater Manchester,2026-09-22,post,7799,data/raw/United_Kingdom__Greater_Manchester__2026-09-22.csv.gz,7799,100.0,0,0.0,0,0.0,0,0.0,0,0.0,67.509,67.65,0.0,,5265,0.0,2534,0.0
+control_noneu,nonEU,United Kingdom,London,2025-12-13,pre,95688,data/raw/United_Kingdom__London__2025-12-13.csv.gz,95688,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.251,64.934,0.0,,50955,0.0,44733,0.0
+control_noneu,nonEU,United Kingdom,London,2026-03-21,pre,53639,data/raw/United_Kingdom__London__2026-03-21.csv.gz,53639,100.0,0,0.0,0,0.0,0,0.0,0,0.0,62.154,68.666,0.0,,33339,0.0,20300,0.0
+control_noneu,nonEU,United Kingdom,London,2026-06-19,post,92638,data/raw/United_Kingdom__London__2026-06-19.csv.gz,92638,100.0,0,0.0,0,0.0,0,0.0,0,0.0,54.996,66.255,0.0,,50947,0.0,41691,0.0
+control_noneu,nonEU,United Kingdom,London,2026-09-17,post,91954,data/raw/United_Kingdom__London__2026-09-17.csv.gz,91954,100.0,0,0.0,0,0.0,0,0.0,0,0.0,55.452,66.418,0.0,,50990,0.0,40964,0.0
+control_noneu,nonEU,United States,Boston,2025-12-27,pre,3706,data/raw/United_States__Boston__2025-12-27.csv.gz,1149,31.004,501,13.519,0,0.0,2056,55.478,0,0.0,80.599,68.78,0.0,1.0,2987,50.887,719,74.548
+control_noneu,nonEU,United States,Boston,2026-03-28,pre,1881,data/raw/United_States__Boston__2026-03-28.csv.gz,28,1.489,171,9.091,0,0.0,1682,89.421,0,0.0,73.737,76.449,0.0,1.0,1387,87.022,494,96.154
+control_noneu,nonEU,United States,Boston,2026-06-15,post,4378,data/raw/United_States__Boston__2026-06-15.csv.gz,1228,28.049,576,13.157,0,0.0,2568,58.657,6,0.137,78.94,68.593,0.0,1.0,3456,55.15,922,71.8
+control_noneu,nonEU,United States,Boston,2026-09-19,post,4368,data/raw/United_States__Boston__2026-09-19.csv.gz,1212,27.747,545,12.477,0,0.0,2608,59.707,3,0.069,79.487,68.681,0.0,1.0,3472,56.509,896,72.098
+control_noneu,nonEU,United States,Los Angeles,2025-12-04,pre,45585,data/raw/United_States__Los_Angeles__2025-12-04.csv.gz,32721,71.78,3626,7.954,1,0.002,9235,20.259,2,0.004,62.378,73.665,0.0,1.0,28435,16.645,17150,26.251
+control_noneu,nonEU,United States,Los Angeles,2026-03-16,pre,46088,data/raw/United_States__Los_Angeles__2026-03-16.csv.gz,32992,71.585,3670,7.963,1,0.002,9424,20.448,1,0.002,62.12,73.069,0.0,1.0,28630,16.657,17458,26.664
+control_noneu,nonEU,United States,Los Angeles,2026-06-15,post,43751,data/raw/United_States__Los_Angeles__2026-06-15.csv.gz,30559,69.848,3867,8.839,1,0.002,9322,21.307,2,0.005,65.059,74.179,0.0,1.0,28464,16.797,15287,29.705
+control_noneu,nonEU,United States,Los Angeles,2026-09-14,post,43781,data/raw/United_States__Los_Angeles__2026-09-14.csv.gz,30600,69.893,3908,8.926,1,0.002,9271,21.176,1,0.002,65.38,73.783,0.0,1.0,28624,16.535,15157,29.94
+control_noneu,nonEU,United States,New York City,2025-12-04,pre,36261,data/raw/United_States__New_York_City__2025-12-04.csv.gz,31233,86.134,2698,7.441,0,0.0,2330,6.426,0,0.0,50.481,53.644,0.0,1.0,18305,4.583,17956,8.304
+control_noneu,nonEU,United States,New York City,2026-03-16,pre,35979,data/raw/United_States__New_York_City__2026-03-16.csv.gz,30954,86.034,2723,7.568,0,0.0,2302,6.398,0,0.0,50.271,53.776,0.0,1.0,18087,4.484,17892,8.333
+control_noneu,nonEU,United States,New York City,2026-06-14,post,30259,data/raw/United_States__New_York_City__2026-06-14.csv.gz,24973,82.531,2956,9.769,0,0.0,2330,7.7,0,0.0,56.132,55.547,0.0,1.0,16985,4.828,13274,11.376
+control_noneu,nonEU,United States,New York City,2026-09-14,post,29918,data/raw/United_States__New_York_City__2026-09-14.csv.gz,24791,82.863,2877,9.616,0,0.0,2250,7.521,0,0.0,56.715,54.85,0.0,1.0,16968,4.744,12950,11.158
+control_noneu,nonEU,United States,San Francisco,2025-12-04,pre,7535,data/raw/United_States__San_Francisco__2025-12-04.csv.gz,2637,34.997,1491,19.788,142,1.885,2982,39.575,283,3.756,64.021,61.964,0.0,1.0,4824,29.934,2711,56.732
+control_noneu,nonEU,United States,San Francisco,2026-03-16,pre,7528,data/raw/United_States__San_Francisco__2026-03-16.csv.gz,2755,36.597,1423,18.903,137,1.82,2945,39.121,268,3.56,63.961,61.862,0.0,1.0,4815,29.346,2713,56.469
+control_noneu,nonEU,United States,San Francisco,2026-06-14,post,7332,data/raw/United_States__San_Francisco__2026-06-14.csv.gz,2472,33.715,1545,21.072,131,1.787,2906,39.634,278,3.792,65.207,61.061,0.0,1.0,4781,29.094,2551,59.388
+control_noneu,nonEU,United States,San Francisco,2026-09-14,post,7405,data/raw/United_States__San_Francisco__2026-09-14.csv.gz,2599,35.098,1562,21.094,122,1.648,2854,38.542,268,3.619,65.78,59.527,0.0,1.0,4871,27.982,2534,58.84
+eea_noneu,EEA_nonEU,Norway,Oslo,2025-12-30,pre,8443,data/raw/Norway__Oslo__2025-12-30.csv.gz,8443,100.0,0,0.0,0,0.0,0,0.0,0,0.0,18.583,87.516,0.0,,1569,0.0,6874,0.0
+eea_noneu,EEA_nonEU,Norway,Oslo,2026-03-31,pre,7901,data/raw/Norway__Oslo__2026-03-31.csv.gz,7901,100.0,0,0.0,0,0.0,0,0.0,0,0.0,17.934,88.407,0.0,,1417,0.0,6484,0.0
+eea_noneu,EEA_nonEU,Norway,Oslo,2026-06-30,post,13391,data/raw/Norway__Oslo__2026-06-30.csv.gz,13391,100.0,0,0.0,0,0.0,0,0.0,0,0.0,19.237,89.082,0.0,,2576,0.0,10815,0.0
+eea_noneu,EEA_nonEU,Norway,Oslo,2026-09-25,post,13089,data/raw/Norway__Oslo__2026-09-25.csv.gz,13089,100.0,0,0.0,0,0.0,0,0.0,0,0.0,18.58,89.014,0.0,,2432,0.0,10657,0.0
+eea_noneu,EEA_nonEU,Switzerland,Geneva,2025-12-29,pre,2764,data/raw/Switzerland__Geneva__2025-12-29.csv.gz,2761,99.891,1,0.036,0,0.0,2,0.072,0,0.0,47.287,70.043,0.0,1.0,1307,0.0,1457,0.137
+eea_noneu,EEA_nonEU,Switzerland,Geneva,2026-03-30,pre,1684,data/raw/Switzerland__Geneva__2026-03-30.csv.gz,1682,99.881,0,0.0,0,0.0,2,0.119,0,0.0,47.922,68.409,0.0,1.0,807,0.0,877,0.228
+eea_noneu,EEA_nonEU,Switzerland,Geneva,2026-06-29,post,2593,data/raw/Switzerland__Geneva__2026-06-29.csv.gz,2591,99.923,1,0.039,0,0.0,1,0.039,0,0.0,46.008,70.459,0.0,1.0,1193,0.0,1400,0.071
+eea_noneu,EEA_nonEU,Switzerland,Geneva,2026-09-23,post,2538,data/raw/Switzerland__Geneva__2026-09-23.csv.gz,2535,99.882,1,0.039,0,0.0,2,0.079,0,0.0,46.73,70.055,0.0,1.0,1186,0.0,1352,0.148
+eea_noneu,EEA_nonEU,Switzerland,Vaud,2026-03-16,pre,5480,data/raw/Switzerland__Vaud__2026-03-16.csv.gz,5480,100.0,0,0.0,0,0.0,0,0.0,0,0.0,41.442,72.281,0.0,,2271,0.0,3209,0.0
+eea_noneu,EEA_nonEU,Switzerland,Vaud,2026-04-14,pre,5421,data/raw/Switzerland__Vaud__2026-04-14.csv.gz,5421,100.0,0,0.0,0,0.0,0,0.0,0,0.0,41.487,72.311,0.0,,2249,0.0,3172,0.0
+eea_noneu,EEA_nonEU,Switzerland,Vaud,2026-05-23,post,5249,data/raw/Switzerland__Vaud__2026-05-23.csv.gz,5249,100.0,0,0.0,0,0.0,0,0.0,0,0.0,42.599,72.909,0.0,,2236,0.0,3013,0.0
+eea_noneu,EEA_nonEU,Switzerland,Vaud,2026-10-05,post,5235,data/raw/Switzerland__Vaud__2026-10-05.csv.gz,5235,100.0,0,0.0,0,0.0,0,0.0,0,0.0,42.827,72.607,0.0,,2242,0.0,2993,0.0
+eea_noneu,EEA_nonEU,Switzerland,Zurich,2025-12-29,pre,2756,data/raw/Switzerland__Zurich__2025-12-29.csv.gz,2756,100.0,0,0.0,0,0.0,0,0.0,0,0.0,63.752,77.939,0.0,,1757,0.0,999,0.0
+eea_noneu,EEA_nonEU,Switzerland,Zurich,2026-03-30,pre,1828,data/raw/Switzerland__Zurich__2026-03-30.csv.gz,1828,100.0,0,0.0,0,0.0,0,0.0,0,0.0,60.941,78.665,0.0,,1114,0.0,714,0.0
+eea_noneu,EEA_nonEU,Switzerland,Zurich,2026-06-30,post,3308,data/raw/Switzerland__Zurich__2026-06-30.csv.gz,3308,100.0,0,0.0,0,0.0,0,0.0,0,0.0,57.557,77.267,0.0,,1904,0.0,1404,0.0
+eea_noneu,EEA_nonEU,Switzerland,Zurich,2026-09-25,post,3174,data/raw/Switzerland__Zurich__2026-09-25.csv.gz,3174,100.0,0,0.0,0,0.0,0,0.0,0,0.0,57.656,76.087,0.0,,1830,0.0,1344,0.0
+treat_eu,EU,Austria,Vienna,2025-12-16,pre,14166,data/raw/Austria__Vienna__2025-12-16.csv.gz,14166,100.0,0,0.0,0,0.0,0,0.0,0,0.0,64.768,81.858,0.0,,9175,0.0,4991,0.0
+treat_eu,EU,Austria,Vienna,2026-03-24,pre,7734,data/raw/Austria__Vienna__2026-03-24.csv.gz,7734,100.0,0,0.0,0,0.0,0,0.0,0,0.0,73.584,88.479,0.0,,5691,0.0,2043,0.0
+treat_eu,EU,Austria,Vienna,2026-06-20,post,13283,data/raw/Austria__Vienna__2026-06-20.csv.gz,13283,100.0,0,0.0,0,0.0,0,0.0,0,0.0,66.95,83.407,0.0,,8893,0.0,4390,0.0
+treat_eu,EU,Austria,Vienna,2026-09-17,post,12982,data/raw/Austria__Vienna__2026-09-17.csv.gz,12982,100.0,0,0.0,0,0.0,0,0.0,0,0.0,67.47,83.146,0.0,,8759,0.0,4223,0.0
+treat_eu,EU,Belgium,Antwerp,2025-12-29,pre,2467,data/raw/Belgium__Antwerp__2025-12-29.csv.gz,2467,100.0,0,0.0,0,0.0,0,0.0,0,0.0,59.546,81.962,0.0,,1469,0.0,998,0.0
+treat_eu,EU,Belgium,Antwerp,2026-03-30,pre,1848,data/raw/Belgium__Antwerp__2026-03-30.csv.gz,1848,100.0,0,0.0,0,0.0,0,0.0,0,0.0,63.258,86.58,0.0,,1169,0.0,679,0.0
+treat_eu,EU,Belgium,Antwerp,2026-06-29,post,2535,data/raw/Belgium__Antwerp__2026-06-29.csv.gz,2535,100.0,0,0.0,0,0.0,0,0.0,0,0.0,61.065,82.959,0.0,,1548,0.0,987,0.0
+treat_eu,EU,Belgium,Antwerp,2026-09-23,post,2463,data/raw/Belgium__Antwerp__2026-09-23.csv.gz,2463,100.0,0,0.0,0,0.0,0,0.0,0,0.0,61.064,83.719,0.0,,1504,0.0,959,0.0
+treat_eu,EU,Belgium,Brussels,2025-12-27,pre,5873,data/raw/Belgium__Brussels__2025-12-27.csv.gz,5873,100.0,0,0.0,0,0.0,0,0.0,0,0.0,51.286,73.625,0.0,,3012,0.0,2861,0.0
+treat_eu,EU,Belgium,Brussels,2026-03-29,pre,3737,data/raw/Belgium__Brussels__2026-03-29.csv.gz,3737,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.037,72.919,0.0,,1982,0.0,1755,0.0
+treat_eu,EU,Belgium,Brussels,2026-06-27,post,5078,data/raw/Belgium__Brussels__2026-06-27.csv.gz,5078,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.289,72.627,0.0,,2706,0.0,2372,0.0
+treat_eu,EU,Belgium,Brussels,2026-09-20,post,4850,data/raw/Belgium__Brussels__2026-09-20.csv.gz,4850,100.0,0,0.0,0,0.0,0,0.0,0,0.0,52.742,72.351,0.0,,2558,0.0,2292,0.0
+treat_eu,EU,Belgium,Ghent,2025-12-28,pre,1208,data/raw/Belgium__Ghent__2025-12-28.csv.gz,1208,100.0,0,0.0,0,0.0,0,0.0,0,0.0,46.109,71.606,0.0,,557,0.0,651,0.0
+treat_eu,EU,Belgium,Ghent,2026-03-30,pre,962,data/raw/Belgium__Ghent__2026-03-30.csv.gz,962,100.0,0,0.0,0,0.0,0,0.0,0,0.0,47.505,71.83,0.0,,457,0.0,505,0.0
+treat_eu,EU,Belgium,Ghent,2026-06-29,post,1383,data/raw/Belgium__Ghent__2026-06-29.csv.gz,1383,100.0,0,0.0,0,0.0,0,0.0,0,0.0,51.844,71.005,0.0,,717,0.0,666,0.0
+treat_eu,EU,Belgium,Ghent,2026-09-22,post,1367,data/raw/Belgium__Ghent__2026-09-22.csv.gz,1367,100.0,0,0.0,0,0.0,0,0.0,0,0.0,51.865,70.666,0.0,,709,0.0,658,0.0
+treat_eu,EU,Czech Republic,Prague,2025-12-27,pre,11347,data/raw/Czech_Republic__Prague__2025-12-27.csv.gz,11347,100.0,0,0.0,0,0.0,0,0.0,0,0.0,79.334,83.3,0.0,,9002,0.0,2345,0.0
+treat_eu,EU,Czech Republic,Prague,2026-03-29,pre,9078,data/raw/Czech_Republic__Prague__2026-03-29.csv.gz,9078,100.0,0,0.0,0,0.0,0,0.0,0,0.0,79.698,86.484,0.0,,7235,0.0,1843,0.0
+treat_eu,EU,Czech Republic,Prague,2026-06-27,post,11615,data/raw/Czech_Republic__Prague__2026-06-27.csv.gz,11615,100.0,0,0.0,0,0.0,0,0.0,0,0.0,80.25,83.263,0.0,,9321,0.0,2294,0.0
+treat_eu,EU,Czech Republic,Prague,2026-09-20,post,11804,data/raw/Czech_Republic__Prague__2026-09-20.csv.gz,11804,100.0,0,0.0,0,0.0,0,0.0,0,0.0,80.668,83.573,0.0,,9522,0.0,2282,0.0
+treat_eu,EU,Denmark,Copenhagen,2025-12-30,pre,12926,data/raw/Denmark__Copenhagen__2025-12-30.csv.gz,12926,100.0,0,0.0,0,0.0,0,0.0,0,0.0,14.274,91.32,0.0,,1845,0.0,11081,0.0
+treat_eu,EU,Denmark,Copenhagen,2026-03-30,pre,10965,data/raw/Denmark__Copenhagen__2026-03-30.csv.gz,10965,100.0,0,0.0,0,0.0,0,0.0,0,0.0,12.175,92.13,0.0,,1335,0.0,9630,0.0
+treat_eu,EU,Denmark,Copenhagen,2026-06-30,post,23144,data/raw/Denmark__Copenhagen__2026-06-30.csv.gz,23144,100.0,0,0.0,0,0.0,0,0.0,0,0.0,13.256,92.326,0.0,,3068,0.0,20076,0.0
+treat_eu,EU,Denmark,Copenhagen,2026-09-25,post,22845,data/raw/Denmark__Copenhagen__2026-09-25.csv.gz,22845,100.0,0,0.0,0,0.0,0,0.0,0,0.0,12.935,92.309,0.0,,2955,0.0,19890,0.0
+treat_eu,EU,France,Bordeaux,2025-12-22,pre,12180,data/raw/France__Bordeaux__2025-12-22.csv.gz,7430,61.002,550,4.516,0,0.0,4184,34.351,16,0.131,31.215,77.348,0.0,1.001,3802,33.403,8378,34.782
+treat_eu,EU,France,Bordeaux,2026-03-25,pre,6822,data/raw/France__Bordeaux__2026-03-25.csv.gz,4012,58.81,108,1.583,0,0.0,2689,39.417,13,0.191,35.869,78.98,0.0,1.002,2447,39.926,4375,39.131
+treat_eu,EU,France,Bordeaux,2026-06-22,post,12217,data/raw/France__Bordeaux__2026-06-22.csv.gz,7386,60.457,537,4.396,0,0.0,4274,34.984,20,0.164,34.256,77.941,0.0,1.001,4185,33.787,8032,35.608
+treat_eu,EU,France,Bordeaux,2026-09-17,post,12063,data/raw/France__Bordeaux__2026-09-17.csv.gz,7372,61.112,531,4.402,0,0.0,4140,34.32,20,0.166,34.37,77.361,0.0,1.001,4146,31.886,7917,35.594
+treat_eu,EU,France,Lyon,2025-12-22,pre,9800,data/raw/France__Lyon__2025-12-22.csv.gz,3770,38.469,726,7.408,0,0.0,5303,54.112,1,0.01,30.02,79.367,0.0,1.0,2942,58.362,6858,52.289
+treat_eu,EU,France,Lyon,2026-03-25,pre,4403,data/raw/France__Lyon__2026-03-25.csv.gz,690,15.671,320,7.268,0,0.0,3392,77.038,1,0.023,45.037,84.738,0.0,1.0,1983,73.575,2420,79.876
+treat_eu,EU,France,Lyon,2026-06-22,post,9317,data/raw/France__Lyon__2026-06-22.csv.gz,3317,35.602,776,8.329,0,0.0,5223,56.059,1,0.011,35.086,80.24,0.0,1.0,3269,61.028,6048,53.373
+treat_eu,EU,France,Lyon,2026-09-17,post,9201,data/raw/France__Lyon__2026-09-17.csv.gz,3427,37.246,757,8.227,0,0.0,5016,54.516,1,0.011,36.029,79.72,0.0,1.0,3315,56.863,5886,53.194
+treat_eu,EU,France,Paris,2025-12-13,pre,82045,data/raw/France__Paris__2025-12-13.csv.gz,17415,21.226,10505,12.804,0,0.0,54125,65.97,0,0.0,34.139,88.169,0.0,1.0,28009,56.207,54036,71.03
+treat_eu,EU,France,Paris,2026-03-21,pre,38075,data/raw/France__Paris__2026-03-21.csv.gz,4277,11.233,1963,5.156,0,0.0,31835,83.611,0,0.0,38.506,88.386,0.0,1.0,14661,76.209,23414,88.246
+treat_eu,EU,France,Paris,2026-06-16,post,77679,data/raw/France__Paris__2026-06-16.csv.gz,14243,18.336,9672,12.451,0,0.0,53764,69.213,0,0.0,35.678,89.168,0.0,1.0,27714,58.938,49965,74.912
+treat_eu,EU,France,Paris,2026-09-16,post,77149,data/raw/France__Paris__2026-09-16.csv.gz,15779,20.453,9329,12.092,0,0.0,52040,67.454,1,0.001,36.087,88.573,0.0,1.0,27841,55.727,49308,74.075
+treat_eu,EU,France,Pays Basque,2025-12-25,pre,11311,data/raw/France__Pays_Basque__2025-12-25.csv.gz,2949,26.072,396,3.501,1,0.009,7953,70.312,12,0.106,30.811,88.356,0.009,1.0,3485,55.438,7826,76.936
+treat_eu,EU,France,Pays Basque,2026-03-26,pre,11519,data/raw/France__Pays_Basque__2026-03-26.csv.gz,3037,26.365,375,3.255,1,0.009,8094,70.267,12,0.104,32.485,88.532,0.017,1.0,3742,56.975,7777,76.662
+treat_eu,EU,France,Pays Basque,2026-06-23,post,12081,data/raw/France__Pays_Basque__2026-06-23.csv.gz,3138,25.975,385,3.187,1,0.008,8546,70.739,11,0.091,32.373,88.834,0.017,1.001,3911,58.425,8170,76.634
+treat_eu,EU,France,Pays Basque,2026-09-19,post,11785,data/raw/France__Pays_Basque__2026-09-19.csv.gz,3318,28.154,370,3.14,1,0.008,8088,68.63,8,0.068,31.701,88.214,0.017,1.001,3736,54.524,8049,75.177
+treat_eu,EU,Germany,Berlin,2025-12-27,pre,14470,data/raw/Germany__Berlin__2025-12-27.csv.gz,5098,35.232,0,0.0,0,0.0,9368,64.741,4,0.028,44.029,68.203,32.225,6.893,6371,79.203,8099,53.365
+treat_eu,EU,Germany,Berlin,2026-03-28,pre,5856,data/raw/Germany__Berlin__2026-03-28.csv.gz,40,0.683,0,0.0,0,0.0,5815,99.3,1,0.017,55.464,72.712,51.042,6.992,3248,99.415,2608,99.156
+treat_eu,EU,Germany,Berlin,2026-06-26,post,12776,data/raw/Germany__Berlin__2026-06-26.csv.gz,3967,31.05,0,0.0,0,0.0,8807,68.934,2,0.016,46.071,69.239,33.555,6.828,5886,80.462,6890,59.086
+treat_eu,EU,Germany,Berlin,2026-09-19,post,12376,data/raw/Germany__Berlin__2026-09-19.csv.gz,4040,32.644,75,0.606,0,0.0,8261,66.75,0,0.0,46.429,68.245,31.852,6.771,5746,76.192,6630,58.567
+treat_eu,EU,Germany,Munich,2025-12-29,pre,4757,data/raw/Germany__Munich__2025-12-29.csv.gz,4728,99.39,0,0.0,0,0.0,29,0.61,0,0.0,34.349,66.828,0.0,1.0,1634,1.224,3123,0.288
+treat_eu,EU,Germany,Munich,2026-03-30,pre,3569,data/raw/Germany__Munich__2026-03-30.csv.gz,3540,99.187,0,0.0,0,0.0,29,0.813,0,0.0,35.22,66.097,0.0,1.172,1257,1.591,2312,0.389
+treat_eu,EU,Germany,Munich,2026-06-29,post,6865,data/raw/Germany__Munich__2026-06-29.csv.gz,6830,99.49,0,0.0,0,0.0,35,0.51,0,0.0,33.765,66.803,0.0,1.143,2318,0.949,4547,0.286
+treat_eu,EU,Germany,Munich,2026-09-23,post,7493,data/raw/Germany__Munich__2026-09-23.csv.gz,7453,99.466,0,0.0,0,0.0,37,0.494,3,0.04,33.244,66.569,0.0,1.189,2491,0.963,5002,0.26
+treat_eu,EU,Greece,Athens,2025-12-28,pre,14842,data/raw/Greece__Athens__2025-12-28.csv.gz,193,1.3,112,0.755,0,0.0,14537,97.945,0,0.0,71.136,92.393,0.0,1.0,10558,98.608,4284,96.312
+treat_eu,EU,Greece,Athens,2026-03-30,pre,13304,data/raw/Greece__Athens__2026-03-30.csv.gz,133,1.0,114,0.857,0,0.0,13057,98.143,0,0.0,72.813,93.288,0.0,1.0,9687,98.73,3617,96.572
+treat_eu,EU,Greece,Athens,2026-06-28,post,14337,data/raw/Greece__Athens__2026-06-28.csv.gz,521,3.634,146,1.018,0,0.0,13670,95.348,0,0.0,73.621,92.795,0.0,1.0,10555,95.13,3782,95.955
+treat_eu,EU,Greece,Athens,2026-09-22,post,15134,data/raw/Greece__Athens__2026-09-22.csv.gz,511,3.377,160,1.057,0,0.0,14463,95.566,0,0.0,73.589,92.712,0.0,1.0,11137,95.591,3997,95.497
+treat_eu,EU,Greece,Crete,2025-12-29,pre,26225,data/raw/Greece__Crete__2025-12-29.csv.gz,518,1.975,330,1.258,0,0.0,25377,96.766,0,0.0,72.24,89.777,0.0,1.0,18945,96.632,7280,97.115
+treat_eu,EU,Greece,Crete,2026-03-30,pre,23205,data/raw/Greece__Crete__2026-03-30.csv.gz,290,1.25,315,1.357,0,0.0,22600,97.393,0,0.0,72.278,92.041,0.0,1.0,16772,97.347,6433,97.513
+treat_eu,EU,Greece,Crete,2026-06-29,post,27333,data/raw/Greece__Crete__2026-06-29.csv.gz,1183,4.328,327,1.196,0,0.0,25823,94.476,0,0.0,73.801,90.788,0.0,1.0,20172,93.853,7161,96.23
+treat_eu,EU,Greece,Crete,2026-09-25,post,27381,data/raw/Greece__Crete__2026-09-25.csv.gz,957,3.495,284,1.037,0,0.0,26140,95.468,0,0.0,73.65,90.884,0.0,1.0,20166,95.116,7215,96.452
+treat_eu,EU,Greece,South Aegean,2025-12-27,pre,34834,data/raw/Greece__South_Aegean__2025-12-27.csv.gz,879,2.523,347,0.996,0,0.0,33608,96.48,0,0.0,74.878,84.65,0.0,1.0,26083,96.189,8751,97.349
+treat_eu,EU,Greece,South Aegean,2026-03-29,pre,30349,data/raw/Greece__South_Aegean__2026-03-29.csv.gz,511,1.684,268,0.883,0,0.0,29570,97.433,0,0.0,73.116,87.94,0.0,1.0,22190,97.377,8159,97.585
+treat_eu,EU,Greece,South Aegean,2026-06-28,post,36680,data/raw/Greece__South_Aegean__2026-06-28.csv.gz,1706,4.651,360,0.981,0,0.0,34614,94.368,0,0.0,76.101,84.836,0.0,1.0,27914,93.774,8766,96.258
+treat_eu,EU,Greece,South Aegean,2026-09-20,post,36644,data/raw/Greece__South_Aegean__2026-09-20.csv.gz,1643,4.484,317,0.865,0,0.0,34684,94.651,0,0.0,76.062,84.996,0.0,1.0,27872,94.015,8772,96.671
+treat_eu,EU,Greece,Thessaloniki,2025-12-28,pre,4690,data/raw/Greece__Thessaloniki__2025-12-28.csv.gz,22,0.469,34,0.725,0,0.0,4634,98.806,0,0.0,66.205,97.122,0.0,1.0,3105,99.13,1585,98.17
+treat_eu,EU,Greece,Thessaloniki,2026-03-30,pre,4356,data/raw/Greece__Thessaloniki__2026-03-30.csv.gz,25,0.574,31,0.712,0,0.0,4300,98.714,0,0.0,69.123,97.291,0.0,1.0,3011,99.004,1345,98.067
+treat_eu,EU,Greece,Thessaloniki,2026-06-29,post,4965,data/raw/Greece__Thessaloniki__2026-06-29.csv.gz,140,2.82,40,0.806,0,0.0,4785,96.375,0,0.0,68.52,96.959,0.0,1.0,3402,96.091,1563,96.993
+treat_eu,EU,Greece,Thessaloniki,2026-09-22,post,4961,data/raw/Greece__Thessaloniki__2026-09-22.csv.gz,105,2.117,37,0.746,0,0.0,4819,97.138,0,0.0,68.756,96.997,0.0,1.0,3411,97.068,1550,97.29
+treat_eu,EU,Hungary,Budapest,2025-12-28,pre,10872,data/raw/Hungary__Budapest__2025-12-28.csv.gz,694,6.383,0,0.0,0,0.0,10178,93.617,0,0.0,68.433,91.841,0.0,1.0,7440,94.435,3432,91.841
+treat_eu,EU,Hungary,Budapest,2026-03-29,pre,9510,data/raw/Hungary__Budapest__2026-03-29.csv.gz,486,5.11,0,0.0,0,0.0,9024,94.89,0,0.0,67.939,91.682,0.0,1.0,6461,95.821,3049,92.916
+treat_eu,EU,Hungary,Budapest,2026-06-28,post,11454,data/raw/Hungary__Budapest__2026-06-28.csv.gz,882,7.7,0,0.0,0,0.0,10572,92.3,0,0.0,72.403,91.13,0.0,1.0,8293,93.042,3161,90.351
+treat_eu,EU,Hungary,Budapest,2026-09-21,post,11240,data/raw/Hungary__Budapest__2026-09-21.csv.gz,908,8.078,0,0.0,0,0.0,10332,91.922,0,0.0,72.589,90.276,0.0,1.0,8159,92.707,3081,89.841
+treat_eu,EU,Ireland,Dublin,2025-12-16,pre,6834,data/raw/Ireland__Dublin__2025-12-16.csv.gz,6834,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.248,57.39,0.0,,3639,0.0,3195,0.0
+treat_eu,EU,Ireland,Dublin,2026-03-25,pre,4086,data/raw/Ireland__Dublin__2026-03-25.csv.gz,4086,100.0,0,0.0,0,0.0,0,0.0,0,0.0,51.713,56.975,0.0,,2113,0.0,1973,0.0
+treat_eu,EU,Ireland,Dublin,2026-06-21,post,6966,data/raw/Ireland__Dublin__2026-06-21.csv.gz,6966,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.933,57.695,0.0,,3757,0.0,3209,0.0
+treat_eu,EU,Ireland,Dublin,2026-09-17,post,6748,data/raw/Ireland__Dublin__2026-09-17.csv.gz,6748,100.0,0,0.0,0,0.0,0,0.0,0,0.0,53.823,57.558,0.0,,3632,0.0,3116,0.0
+treat_eu,EU,Ireland,Ireland (nationwide),2025-12-14,pre,32220,data/raw/Ireland__Ireland_nationwide__2025-12-14.csv.gz,32220,100.0,0,0.0,0,0.0,0,0.0,0,0.0,47.765,67.384,0.0,,15390,0.0,16830,0.0
+treat_eu,EU,Ireland,Ireland (nationwide),2026-03-21,pre,25972,data/raw/Ireland__Ireland_nationwide__2026-03-21.csv.gz,25972,100.0,0,0.0,0,0.0,0,0.0,0,0.0,49.892,70.699,0.0,,12958,0.0,13014,0.0
+treat_eu,EU,Ireland,Ireland (nationwide),2026-06-21,post,32434,data/raw/Ireland__Ireland_nationwide__2026-06-21.csv.gz,32434,100.0,0,0.0,0,0.0,0,0.0,0,0.0,49.565,68.854,0.0,,16076,0.0,16358,0.0
+treat_eu,EU,Ireland,Ireland (nationwide),2026-09-17,post,32390,data/raw/Ireland__Ireland_nationwide__2026-09-17.csv.gz,32390,100.0,0,0.0,0,0.0,0,0.0,0,0.0,49.342,69.194,0.0,,15982,0.0,16408,0.0
+treat_eu,EU,Italy,Bergamo,2025-12-31,pre,3524,data/raw/Italy__Bergamo__2025-12-31.csv.gz,383,10.868,13,0.369,44,1.249,3084,87.514,0,0.0,57.662,83.456,0.0,1.0,2032,86.663,1492,88.673
+treat_eu,EU,Italy,Bergamo,2026-03-31,pre,3356,data/raw/Italy__Bergamo__2026-03-31.csv.gz,164,4.887,4,0.119,15,0.447,3173,94.547,0,0.0,60.578,84.654,0.0,1.0,2033,91.638,1323,99.017
+treat_eu,EU,Italy,Bergamo,2026-06-30,post,4237,data/raw/Italy__Bergamo__2026-06-30.csv.gz,516,12.178,6,0.142,42,0.991,3673,86.689,0,0.0,61.364,82.7,0.0,1.0,2600,85.769,1637,88.149
+treat_eu,EU,Italy,Bergamo,2026-09-25,post,4294,data/raw/Italy__Bergamo__2026-09-25.csv.gz,484,11.272,4,0.093,37,0.862,3769,87.774,0,0.0,61.784,82.883,0.0,1.0,2653,87.034,1641,88.97
+treat_eu,EU,Italy,Bologna,2026-03-27,pre,3736,data/raw/Italy__Bologna__2026-03-27.csv.gz,142,3.801,13,0.348,26,0.696,3555,95.155,0,0.0,67.693,82.95,0.0,1.0,2529,93.634,1207,98.343
+treat_eu,EU,Italy,Bologna,2026-06-26,post,4948,data/raw/Italy__Bologna__2026-06-26.csv.gz,605,12.227,18,0.364,54,1.091,4271,86.318,0,0.0,67.522,78.84,0.0,1.0,3341,87.249,1607,84.381
+treat_eu,EU,Italy,Bologna,2026-09-19,post,5094,data/raw/Italy__Bologna__2026-09-19.csv.gz,750,14.723,18,0.353,56,1.099,4270,83.824,0,0.0,68.414,78.465,0.0,1.0,3485,83.989,1609,83.468
+treat_eu,EU,Italy,Florence,2025-12-26,pre,13327,data/raw/Italy__Florence__2025-12-26.csv.gz,1057,7.931,22,0.165,105,0.788,12143,91.116,0,0.0,68.042,84.047,0.0,1.0,9068,90.549,4259,92.322
+treat_eu,EU,Italy,Florence,2026-03-27,pre,10709,data/raw/Italy__Florence__2026-03-27.csv.gz,331,3.091,24,0.224,13,0.121,10341,96.564,0,0.0,65.954,86.301,0.0,1.0,7063,95.214,3646,99.177
+treat_eu,EU,Italy,Florence,2026-06-26,post,13472,data/raw/Italy__Florence__2026-06-26.csv.gz,1148,8.521,28,0.208,102,0.757,12194,90.514,0,0.0,70.034,83.351,0.0,1.0,9435,89.687,4037,92.445
+treat_eu,EU,Italy,Florence,2026-09-19,post,13571,data/raw/Italy__Florence__2026-09-19.csv.gz,1457,10.736,28,0.206,88,0.648,11998,88.409,0,0.0,70.245,83.052,0.0,1.0,9533,87.003,4038,91.729
+treat_eu,EU,Italy,Milan,2025-12-26,pre,24107,data/raw/Italy__Milan__2025-12-26.csv.gz,3280,13.606,102,0.423,700,2.904,20025,83.067,0,0.0,61.289,88.049,0.0,1.0,14775,85.266,9332,79.586
+treat_eu,EU,Italy,Milan,2026-03-27,pre,18835,data/raw/Italy__Milan__2026-03-27.csv.gz,157,0.834,53,0.281,382,2.028,18243,96.857,0,0.0,61.338,91.818,0.0,1.0,11553,96.451,7282,97.501
+treat_eu,EU,Italy,Milan,2026-06-25,post,25750,data/raw/Italy__Milan__2026-06-25.csv.gz,3251,12.625,101,0.392,556,2.159,21842,84.823,0,0.0,63.93,88.621,0.0,1.0,16462,86.824,9288,81.277
+treat_eu,EU,Italy,Milan,2026-09-19,post,25338,data/raw/Italy__Milan__2026-09-19.csv.gz,3851,15.199,102,0.403,486,1.918,20899,82.481,0,0.0,64.22,88.046,0.0,1.0,16272,83.548,9066,80.565
+treat_eu,EU,Italy,Naples,2025-12-26,pre,11273,data/raw/Italy__Naples__2025-12-26.csv.gz,2721,24.137,71,0.63,235,2.085,8246,73.148,0,0.0,66.194,61.572,0.0,1.0,7462,68.038,3811,83.154
+treat_eu,EU,Italy,Naples,2026-03-27,pre,8610,data/raw/Italy__Naples__2026-03-27.csv.gz,1331,15.459,64,0.743,50,0.581,7165,83.217,0,0.0,64.89,64.111,0.0,1.0,5587,75.55,3023,97.387
+treat_eu,EU,Italy,Naples,2026-06-25,post,11575,data/raw/Italy__Naples__2026-06-25.csv.gz,2800,24.19,68,0.587,192,1.659,8515,73.564,0,0.0,68.441,59.68,0.0,1.0,7922,68.657,3653,84.205
+treat_eu,EU,Italy,Naples,2026-09-19,post,11737,data/raw/Italy__Naples__2026-09-19.csv.gz,3050,25.986,65,0.554,183,1.559,8439,71.901,0,0.0,69.132,59.018,0.0,1.0,8114,66.823,3623,83.274
+treat_eu,EU,Italy,Puglia,2025-12-31,pre,40664,data/raw/Italy__Puglia__2025-12-31.csv.gz,7059,17.359,64,0.157,322,0.792,33219,81.691,0,0.0,65.252,82.328,0.0,1.0,26534,81.955,14130,81.196
+treat_eu,EU,Italy,Puglia,2026-03-31,pre,37151,data/raw/Italy__Puglia__2026-03-31.csv.gz,2721,7.324,60,0.162,105,0.283,34265,92.232,0,0.0,68.375,83.4,0.0,1.0,25402,89.347,11749,98.468
+treat_eu,EU,Italy,Puglia,2026-06-30,post,48683,data/raw/Italy__Puglia__2026-06-30.csv.gz,8603,17.671,79,0.162,332,0.682,39669,81.484,0,0.0,68.886,81.156,0.0,1.0,33536,81.113,15147,82.307
+treat_eu,EU,Italy,Puglia,2026-09-25,post,48389,data/raw/Italy__Puglia__2026-09-25.csv.gz,8547,17.663,82,0.169,321,0.663,39439,81.504,0,0.0,69.156,80.801,0.0,1.0,33464,81.249,14925,82.077
+treat_eu,EU,Italy,Rome,2025-12-16,pre,37162,data/raw/Italy__Rome__2025-12-16.csv.gz,4678,12.588,67,0.18,308,0.829,32109,86.403,0,0.0,58.232,75.044,0.0,1.0,21640,84.524,15522,89.022
+treat_eu,EU,Italy,Rome,2026-03-24,pre,30063,data/raw/Italy__Rome__2026-03-24.csv.gz,1595,5.306,44,0.146,65,0.216,28359,94.332,0,0.0,59.362,78.372,0.0,1.0,17846,91.051,12217,99.124
+treat_eu,EU,Italy,Rome,2026-06-20,post,37084,data/raw/Italy__Rome__2026-06-20.csv.gz,4413,11.9,55,0.148,280,0.755,32336,87.197,0,0.0,60.913,74.957,0.0,1.0,22589,85.475,14495,89.879
+treat_eu,EU,Italy,Rome,2026-09-17,post,37451,data/raw/Italy__Rome__2026-09-17.csv.gz,5272,14.077,57,0.152,236,0.63,31886,85.141,0,0.0,61.56,74.46,0.0,1.0,23055,82.832,14396,88.837
+treat_eu,EU,Italy,Sicily,2025-12-30,pre,49786,data/raw/Italy__Sicily__2025-12-30.csv.gz,9316,18.712,191,0.384,733,1.472,39546,79.432,0,0.0,63.662,80.744,0.0,1.0,31695,80.502,18091,77.558
+treat_eu,EU,Italy,Sicily,2026-03-31,pre,42502,data/raw/Italy__Sicily__2026-03-31.csv.gz,2809,6.609,185,0.435,210,0.494,39298,92.462,0,0.0,66.107,81.813,0.0,1.0,28097,89.725,14405,97.799
+treat_eu,EU,Italy,Sicily,2026-06-30,post,56873,data/raw/Italy__Sicily__2026-06-30.csv.gz,11072,19.468,211,0.371,816,1.435,44774,78.726,0,0.0,65.82,79.762,0.0,1.0,37434,79.257,19439,77.705
+treat_eu,EU,Italy,Sicily,2026-09-25,post,56783,data/raw/Italy__Sicily__2026-09-25.csv.gz,11190,19.707,230,0.405,734,1.293,44629,78.596,0,0.0,65.868,79.515,0.0,1.0,37402,79.031,19381,77.757
+treat_eu,EU,Italy,Trentino,2025-12-31,pre,8174,data/raw/Italy__Trentino__2025-12-31.csv.gz,556,6.802,3,0.037,41,0.502,7574,92.66,0,0.0,59.861,87.68,0.0,1.0,4893,91.375,3281,94.575
+treat_eu,EU,Italy,Trentino,2026-03-31,pre,8007,data/raw/Italy__Trentino__2026-03-31.csv.gz,321,4.009,3,0.037,4,0.05,7679,95.904,0,0.0,60.659,88.298,0.0,1.0,4857,93.556,3150,99.524
+treat_eu,EU,Italy,Trentino,2026-06-30,post,10084,data/raw/Italy__Trentino__2026-06-30.csv.gz,917,9.094,7,0.069,35,0.347,9125,90.49,0,0.0,62.822,86.632,0.0,1.0,6335,88.051,3749,94.612
+treat_eu,EU,Italy,Trentino,2026-09-28,post,10237,data/raw/Italy__Trentino__2026-09-28.csv.gz,855,8.352,7,0.068,34,0.332,9341,91.247,0,0.0,62.968,86.49,0.0,1.0,6446,88.768,3791,95.463
+treat_eu,EU,Italy,Venice,2025-12-11,pre,8605,data/raw/Italy__Venice__2025-12-11.csv.gz,628,7.298,14,0.163,19,0.221,7944,92.318,0,0.0,70.97,77.618,0.0,1.0,6107,92.828,2498,91.073
+treat_eu,EU,Italy,Venice,2026-03-19,pre,7865,data/raw/Italy__Venice__2026-03-19.csv.gz,346,4.399,12,0.153,15,0.191,7492,95.257,0,0.0,68.646,80.356,0.0,1.0,5399,95.073,2466,95.661
+treat_eu,EU,Italy,Venice,2026-06-15,post,8766,data/raw/Italy__Venice__2026-06-15.csv.gz,528,6.023,10,0.114,17,0.194,8211,93.669,0,0.0,71.059,77.401,0.0,1.0,6229,93.851,2537,93.22
+treat_eu,EU,Italy,Venice,2026-09-16,post,8844,data/raw/Italy__Venice__2026-09-16.csv.gz,735,8.311,11,0.124,19,0.215,8079,91.35,0,0.0,70.941,77.182,0.0,1.0,6274,90.819,2570,92.646
+treat_eu,EU,Latvia,Riga,2025-12-30,pre,2736,data/raw/Latvia__Riga__2025-12-30.csv.gz,2736,100.0,0,0.0,0,0.0,0,0.0,0,0.0,68.311,93.311,0.0,,1869,0.0,867,0.0
+treat_eu,EU,Latvia,Riga,2026-03-31,pre,2628,data/raw/Latvia__Riga__2026-03-31.csv.gz,2628,100.0,0,0.0,0,0.0,0,0.0,0,0.0,68.151,93.76,0.0,,1791,0.0,837,0.0
+treat_eu,EU,Latvia,Riga,2026-06-30,post,3471,data/raw/Latvia__Riga__2026-06-30.csv.gz,3471,100.0,0,0.0,0,0.0,0,0.0,0,0.0,71.708,91.991,0.0,,2489,0.0,982,0.0
+treat_eu,EU,Latvia,Riga,2026-09-25,post,3420,data/raw/Latvia__Riga__2026-09-25.csv.gz,3420,100.0,0,0.0,0,0.0,0,0.0,0,0.0,72.105,92.778,0.0,,2466,0.0,954,0.0
+treat_eu,EU,Malta,Malta (nationwide),2025-12-28,pre,11834,data/raw/Malta__Malta_nationwide__2025-12-28.csv.gz,11834,100.0,0,0.0,0,0.0,0,0.0,0,0.0,78.815,75.207,0.0,,9327,0.0,2507,0.0
+treat_eu,EU,Malta,Malta (nationwide),2026-03-30,pre,11646,data/raw/Malta__Malta_nationwide__2026-03-30.csv.gz,11646,100.0,0,0.0,0,0.0,0,0.0,0,0.0,80.5,76.249,0.0,,9375,0.0,2271,0.0
+treat_eu,EU,Malta,Malta (nationwide),2026-06-28,post,13155,data/raw/Malta__Malta_nationwide__2026-06-28.csv.gz,13155,100.0,0,0.0,0,0.0,0,0.0,0,0.0,81.155,75.652,0.0,,10676,0.0,2479,0.0
+treat_eu,EU,Malta,Malta (nationwide),2026-09-21,post,13256,data/raw/Malta__Malta_nationwide__2026-09-21.csv.gz,13256,100.0,0,0.0,0,0.0,0,0.0,0,0.0,80.741,75.754,0.0,,10703,0.0,2553,0.0
+treat_eu,EU,Portugal,Lisbon,2025-12-25,pre,25277,data/raw/Portugal__Lisbon__2025-12-25.csv.gz,1171,4.633,4892,19.354,1,0.004,19136,75.705,77,0.305,72.418,74.309,0.0,1.925,18305,78.05,6972,69.55
+treat_eu,EU,Portugal,Lisbon,2026-03-26,pre,24950,data/raw/Portugal__Lisbon__2026-03-26.csv.gz,1214,4.866,4493,18.008,1,0.004,19169,76.83,73,0.293,74.253,74.004,0.0,1.927,18526,79.774,6424,68.337
+treat_eu,EU,Portugal,Lisbon,2026-06-23,post,24876,data/raw/Portugal__Lisbon__2026-06-23.csv.gz,1042,4.189,4734,19.03,1,0.004,19020,76.459,79,0.318,74.787,74.144,0.0,1.93,18604,79.101,6272,68.622
+treat_eu,EU,Portugal,Lisbon,2026-09-19,post,25020,data/raw/Portugal__Lisbon__2026-09-19.csv.gz,1742,6.962,4536,18.129,1,0.004,18662,74.588,79,0.316,75.084,74.572,0.0,1.928,18786,76.844,6234,67.79
+treat_eu,EU,Portugal,Porto,2025-12-25,pre,14999,data/raw/Portugal__Porto__2025-12-25.csv.gz,287,1.913,1423,9.487,1,0.007,13287,88.586,1,0.007,73.325,82.966,0.0,1.975,10998,91.562,4001,80.405
+treat_eu,EU,Portugal,Porto,2026-03-26,pre,15246,data/raw/Portugal__Porto__2026-03-26.csv.gz,312,2.046,1388,9.104,1,0.007,13544,88.836,1,0.007,76.309,82.999,0.0,1.974,11634,91.808,3612,79.264
+treat_eu,EU,Portugal,Porto,2026-06-23,post,15278,data/raw/Portugal__Porto__2026-06-23.csv.gz,244,1.597,1435,9.393,1,0.007,13598,89.004,0,0.0,77.484,83.781,0.0,1.972,11838,91.468,3440,80.523
+treat_eu,EU,Portugal,Porto,2026-09-19,post,15551,data/raw/Portugal__Porto__2026-09-19.csv.gz,786,5.054,1407,9.048,0,0.0,13358,85.898,0,0.0,77.153,83.577,0.0,1.97,11998,87.723,3553,79.735
+treat_eu,EU,Spain,Barcelona,2025-12-14,pre,18177,data/raw/Spain__Barcelona__2025-12-14.csv.gz,7163,39.407,610,3.356,0,0.0,10404,57.237,0,0.0,78.033,64.615,60.582,2.704,14184,64.932,3993,29.902
+treat_eu,EU,Spain,Barcelona,2026-03-21,pre,16107,data/raw/Spain__Barcelona__2026-03-21.csv.gz,4646,28.845,2065,12.821,0,0.0,9396,58.335,0,0.0,77.426,65.99,71.143,3.143,12471,65.809,3636,32.701
+treat_eu,EU,Spain,Barcelona,2026-06-24,post,15293,data/raw/Spain__Barcelona__2026-06-24.csv.gz,3043,19.898,3924,25.659,0,0.0,8326,54.443,0,0.0,80.462,70.908,80.089,3.505,12305,59.228,2988,34.739
+treat_eu,EU,Spain,Barcelona,2026-09-17,post,15236,data/raw/Spain__Barcelona__2026-09-17.csv.gz,5466,35.876,3441,22.585,0,0.0,6329,41.54,0,0.0,80.48,69.585,64.111,3.432,12262,43.109,2974,35.071
+treat_eu,EU,Spain,Euskadi,2025-12-31,pre,5460,data/raw/Spain__Euskadi__2025-12-31.csv.gz,779,14.267,706,12.93,1,0.018,3950,72.344,24,0.44,58.571,73.736,81.85,2.845,3198,65.854,2262,81.521
+treat_eu,EU,Spain,Euskadi,2026-03-31,pre,5111,data/raw/Spain__Euskadi__2026-03-31.csv.gz,477,9.333,877,17.159,1,0.02,3755,73.469,1,0.02,60.81,75.367,88.828,3.722,3108,66.409,2003,84.423
+treat_eu,EU,Spain,Euskadi,2026-06-30,post,6248,data/raw/Spain__Euskadi__2026-06-30.csv.gz,738,11.812,1232,19.718,1,0.016,4264,68.246,13,0.208,62.98,72.903,86.556,3.726,3935,60.889,2313,80.761
+treat_eu,EU,Spain,Euskadi,2026-09-25,post,6248,data/raw/Spain__Euskadi__2026-09-25.csv.gz,1120,17.926,1040,16.645,1,0.016,4074,65.205,13,0.208,63.316,72.567,80.49,3.702,3956,56.041,2292,81.021
+treat_eu,EU,Spain,Girona,2025-12-31,pre,17069,data/raw/Spain__Girona__2025-12-31.csv.gz,1028,6.023,493,2.888,0,0.0,15548,91.089,0,0.0,67.397,94.141,93.931,2.705,11504,91.238,5565,90.782
+treat_eu,EU,Spain,Girona,2026-03-31,pre,16834,data/raw/Spain__Girona__2026-03-31.csv.gz,400,2.376,859,5.103,0,0.0,15575,92.521,0,0.0,69.734,95.658,97.582,3.459,11739,92.112,5095,93.464
+treat_eu,EU,Spain,Girona,2026-06-30,post,21257,data/raw/Spain__Girona__2026-06-30.csv.gz,1134,5.335,1512,7.113,0,0.0,18611,87.552,0,0.0,71.289,94.491,94.623,3.563,15154,86.961,6103,89.022
+treat_eu,EU,Spain,Girona,2026-09-25,post,20470,data/raw/Spain__Girona__2026-09-25.csv.gz,2674,13.063,1360,6.644,0,0.0,16436,80.293,0,0.0,70.909,94.362,86.893,3.52,14515,76.156,5955,90.378
+treat_eu,EU,Spain,Madrid,2025-12-14,pre,24616,data/raw/Spain__Madrid__2025-12-14.csv.gz,13849,56.26,1130,4.591,5,0.02,9344,37.959,288,1.17,69.788,67.294,39.336,2.165,17179,44.199,7437,23.544
+treat_eu,EU,Spain,Madrid,2026-03-24,pre,23002,data/raw/Spain__Madrid__2026-03-24.csv.gz,11056,48.065,1536,6.678,4,0.017,10323,44.879,83,0.361,69.464,68.038,49.504,2.381,15978,51.414,7024,30.011
+treat_eu,EU,Spain,Madrid,2026-06-20,post,22708,data/raw/Spain__Madrid__2026-06-20.csv.gz,8056,35.476,9685,42.65,3,0.013,4917,21.653,47,0.207,73.19,70.015,62.965,3.034,16620,23.899,6088,15.522
+treat_eu,EU,Spain,Madrid,2026-09-17,post,23109,data/raw/Spain__Madrid__2026-09-17.csv.gz,10915,47.233,8311,35.964,3,0.013,3853,16.673,27,0.117,73.521,70.025,51.742,2.901,16990,17.204,6119,15.199
+treat_eu,EU,Spain,Malaga,2025-12-31,pre,8811,data/raw/Spain__Malaga__2025-12-31.csv.gz,996,11.304,439,4.982,0,0.0,7376,83.714,0,0.0,74.543,89.411,88.685,5.689,6568,83.755,2243,83.593
+treat_eu,EU,Spain,Malaga,2026-03-31,pre,8098,data/raw/Spain__Malaga__2026-03-31.csv.gz,373,4.606,636,7.854,0,0.0,7089,87.54,0,0.0,76.5,90.862,95.382,6.98,6195,86.295,1903,91.592
+treat_eu,EU,Spain,Malaga,2026-06-30,post,9568,data/raw/Spain__Malaga__2026-06-30.csv.gz,699,7.306,859,8.978,0,0.0,8010,83.717,0,0.0,77.435,88.639,92.684,6.932,7409,82.157,2159,89.069
+treat_eu,EU,Spain,Malaga,2026-09-28,post,9505,data/raw/Spain__Malaga__2026-09-28.csv.gz,2220,23.356,527,5.544,0,0.0,6758,71.099,0,0.0,77.475,88.701,76.633,6.832,7364,65.698,2141,89.678
+treat_eu,EU,Spain,Mallorca,2025-12-25,pre,12927,data/raw/Spain__Mallorca__2025-12-25.csv.gz,20,0.155,590,4.564,0,0.0,12317,95.281,0,0.0,80.104,95.25,99.845,4.345,10355,94.698,2572,97.628
+treat_eu,EU,Spain,Mallorca,2026-03-26,pre,12478,data/raw/Spain__Mallorca__2026-03-26.csv.gz,14,0.112,759,6.083,0,0.0,11693,93.709,12,0.096,80.726,95.753,99.888,5.392,10073,92.872,2405,97.214
+treat_eu,EU,Spain,Mallorca,2026-06-23,post,14817,data/raw/Spain__Mallorca__2026-06-23.csv.gz,63,0.425,1603,10.819,0,0.0,13133,88.635,18,0.121,81.332,94.844,99.575,5.518,12051,88.117,2766,90.889
+treat_eu,EU,Spain,Mallorca,2026-09-19,post,14901,data/raw/Spain__Mallorca__2026-09-19.csv.gz,1048,7.033,1487,9.979,0,0.0,12354,82.907,12,0.081,81.068,93.557,92.967,5.46,12080,81.805,2821,87.629
+treat_eu,EU,Spain,Menorca,2025-12-31,pre,2748,data/raw/Spain__Menorca__2025-12-31.csv.gz,4,0.146,198,7.205,0,0.0,2546,92.649,0,0.0,69.25,97.234,99.854,2.915,1903,90.962,845,96.45
+treat_eu,EU,Spain,Menorca,2026-03-31,pre,3048,data/raw/Spain__Menorca__2026-03-31.csv.gz,10,0.328,305,10.007,0,0.0,2733,89.665,0,0.0,70.407,96.85,99.672,3.746,2146,87.558,902,94.678
+treat_eu,EU,Spain,Menorca,2026-06-30,post,3620,data/raw/Spain__Menorca__2026-06-30.csv.gz,153,4.227,447,12.348,0,0.0,3020,83.425,0,0.0,71.271,96.298,95.773,3.958,2580,81.008,1040,89.423
+treat_eu,EU,Spain,Menorca,2026-09-28,post,3625,data/raw/Spain__Menorca__2026-09-28.csv.gz,181,4.993,412,11.366,0,0.0,3032,83.641,0,0.0,71.779,96.441,95.007,3.93,2602,80.63,1023,91.3
+treat_eu,EU,Spain,Sevilla,2025-12-30,pre,7674,data/raw/Spain__Sevilla__2025-12-30.csv.gz,717,9.343,764,9.956,0,0.0,6193,80.701,0,0.0,73.391,86.904,90.657,5.689,5632,78.942,2042,85.553
+treat_eu,EU,Spain,Sevilla,2026-03-31,pre,7093,data/raw/Spain__Sevilla__2026-03-31.csv.gz,289,4.074,934,13.168,0,0.0,5870,82.758,0,0.0,75.638,88.608,95.926,6.974,5365,79.907,1728,91.609
+treat_eu,EU,Spain,Sevilla,2026-06-30,post,8245,data/raw/Spain__Sevilla__2026-06-30.csv.gz,519,6.295,1262,15.306,0,0.0,6464,78.399,0,0.0,76.192,86.246,93.705,6.864,6282,75.438,1963,87.876
+treat_eu,EU,Spain,Sevilla,2026-09-25,post,8375,data/raw/Spain__Sevilla__2026-09-25.csv.gz,2043,24.394,754,9.003,0,0.0,5578,66.603,0,0.0,76.478,86.257,75.606,6.799,6405,59.735,1970,88.934
+treat_eu,EU,Spain,Valencia,2025-12-27,pre,7702,data/raw/Spain__Valencia__2025-12-27.csv.gz,2483,32.238,465,6.037,0,0.0,4751,61.685,3,0.039,69.826,75.669,67.723,2.6,5378,64.113,2324,56.067
+treat_eu,EU,Spain,Valencia,2026-03-28,pre,4930,data/raw/Spain__Valencia__2026-03-28.csv.gz,1122,22.759,375,7.606,0,0.0,3433,69.635,0,0.0,69.513,78.824,77.201,3.599,3427,71.287,1503,65.868
+treat_eu,EU,Spain,Valencia,2026-06-26,post,7851,data/raw/Spain__Valencia__2026-06-26.csv.gz,1502,19.131,2269,28.901,0,0.0,4079,51.955,1,0.013,72.921,78.181,80.869,3.651,5725,53.555,2126,47.648
+treat_eu,EU,Spain,Valencia,2026-09-20,post,7968,data/raw/Spain__Valencia__2026-09-20.csv.gz,2856,35.843,2024,25.402,0,0.0,3086,38.73,2,0.025,73.82,78.527,64.157,3.539,5882,36.059,2086,46.261
+treat_eu,EU,Sweden,Stockholm,2025-12-30,pre,3173,data/raw/Sweden__Stockholm__2025-12-30.csv.gz,3173,100.0,0,0.0,0,0.0,0,0.0,0,0.0,34.478,80.618,0.0,,1094,0.0,2079,0.0
+treat_eu,EU,Sweden,Stockholm,2026-03-31,pre,2566,data/raw/Sweden__Stockholm__2026-03-31.csv.gz,2566,100.0,0,0.0,0,0.0,0,0.0,0,0.0,35.814,81.021,0.0,,919,0.0,1647,0.0
+treat_eu,EU,Sweden,Stockholm,2026-06-30,post,4806,data/raw/Sweden__Stockholm__2026-06-30.csv.gz,4806,100.0,0,0.0,0,0.0,0,0.0,0,0.0,28.777,82.834,0.0,,1383,0.0,3423,0.0
+treat_eu,EU,Sweden,Stockholm,2026-09-25,post,4574,data/raw/Sweden__Stockholm__2026-09-25.csv.gz,4574,100.0,0,0.0,0,0.0,0,0.0,0,0.0,29.23,82.204,0.0,,1337,0.0,3237,0.0
+treat_eu,EU,The Netherlands,Amsterdam,2025-12-12,pre,10835,data/raw/The_Netherlands__Amsterdam__2025-12-12.csv.gz,113,1.043,885,8.168,0,0.0,9837,90.789,0,0.0,18.44,81.467,0.0,1.0,1998,59.159,8837,97.94
+treat_eu,EU,The Netherlands,Amsterdam,2026-03-19,pre,6503,data/raw/The_Netherlands__Amsterdam__2026-03-19.csv.gz,264,4.06,555,8.535,0,0.0,5684,87.406,0,0.0,22.482,75.304,0.0,1.0,1462,53.078,5041,97.362
+treat_eu,EU,The Netherlands,Amsterdam,2026-06-15,post,10369,data/raw/The_Netherlands__Amsterdam__2026-06-15.csv.gz,223,2.151,635,6.124,0,0.0,9511,91.725,0,0.0,17.938,81.869,0.0,1.0,1860,61.344,8509,98.366
+treat_eu,EU,The Netherlands,Amsterdam,2026-09-16,post,10612,data/raw/The_Netherlands__Amsterdam__2026-09-16.csv.gz,466,4.391,605,5.701,0,0.0,9541,89.908,0,0.0,18.705,80.842,0.0,1.0,1985,55.113,8627,97.914
+treat_eu,EU,The Netherlands,Rotterdam,2025-12-28,pre,1353,data/raw/The_Netherlands__Rotterdam__2025-12-28.csv.gz,44,3.252,238,17.591,0,0.0,1071,79.157,0,0.0,43.089,72.875,0.0,1.0,583,61.235,770,92.727
+treat_eu,EU,The Netherlands,Rotterdam,2026-03-29,pre,742,data/raw/The_Netherlands__Rotterdam__2026-03-29.csv.gz,32,4.313,163,21.968,0,0.0,547,73.72,0,0.0,49.596,71.159,0.0,1.0,368,59.239,374,87.968
+treat_eu,EU,The Netherlands,Rotterdam,2026-06-28,post,1357,data/raw/The_Netherlands__Rotterdam__2026-06-28.csv.gz,89,6.559,218,16.065,0,0.0,1050,77.377,0,0.0,43.626,73.692,0.0,1.0,592,59.291,765,91.373
+treat_eu,EU,The Netherlands,Rotterdam,2026-09-21,post,1395,data/raw/The_Netherlands__Rotterdam__2026-09-21.csv.gz,119,8.53,241,17.276,0,0.0,1035,74.194,0,0.0,45.591,72.688,0.0,1.0,636,54.874,759,90.382
+treat_eu,EU,The Netherlands,The Hague,2025-12-28,pre,979,data/raw/The_Netherlands__The_Hague__2025-12-28.csv.gz,19,1.941,311,31.767,0,0.0,649,66.292,0,0.0,40.041,83.248,0.0,1.0,392,30.612,587,90.119
+treat_eu,EU,The Netherlands,The Hague,2026-03-29,pre,928,data/raw/The_Netherlands__The_Hague__2026-03-29.csv.gz,15,1.616,306,32.974,0,0.0,607,65.409,0,0.0,41.379,83.513,0.0,1.0,384,28.646,544,91.36
+treat_eu,EU,The Netherlands,The Hague,2026-06-28,post,1492,data/raw/The_Netherlands__The_Hague__2026-06-28.csv.gz,69,4.625,369,24.732,0,0.0,1054,70.643,0,0.0,36.327,83.512,0.0,1.0,542,34.133,950,91.474
+treat_eu,EU,The Netherlands,The Hague,2026-09-21,post,1442,data/raw/The_Netherlands__The_Hague__2026-09-21.csv.gz,62,4.3,355,24.619,0,0.0,1025,71.082,0,0.0,34.743,83.703,0.0,1.0,501,29.541,941,93.199

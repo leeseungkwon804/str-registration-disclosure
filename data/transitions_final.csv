@@ -1,0 +1,1086 @@
+country,city,unit,role,grp,t0,t1,pair,segment,n_blank_t0,n_gone,pct_gone,n_acquire,pct_acquire,n_exempt,pct_exempt,n_pending,pct_pending,n_same,pct_same,n_t0,n_t1,pct_number_t0,pct_number_t1
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,all,26203,4756,18.1506,0,0.0,0,0.0,0,0.0,21447,81.8494,26203,25728,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,multi,14359,2695,18.7687,0,0.0,0,0.0,0,0.0,11664,81.2313,26203,25728,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,single,11844,2061,17.4012,0,0.0,0,0.0,0,0.0,9783,82.5988,26203,25728,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,entire,19160,3446,17.9854,0,0.0,0,0.0,0,0.0,15714,82.0146,26203,25728,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,private,7043,1310,18.6,0,0.0,0,0.0,0,0.0,5733,81.4,26203,25728,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,all,25728,2202,8.5588,0,0.0,0,0.0,0,0.0,23526,91.4412,25728,25715,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,multi,14345,1322,9.2158,0,0.0,0,0.0,0,0.0,13023,90.7842,25728,25715,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,single,11383,880,7.7308,0,0.0,0,0.0,0,0.0,10503,92.2692,25728,25715,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,entire,18829,1556,8.2638,0,0.0,0,0.0,0,0.0,17273,91.7362,25728,25715,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,private,6899,646,9.3637,0,0.0,0,0.0,0,0.0,6253,90.6363,25728,25715,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,all,26203,11701,44.6552,0,0.0,0,0.0,0,0.0,14502,55.3448,26203,16674,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,multi,14359,4977,34.6612,0,0.0,0,0.0,0,0.0,9382,65.3388,26203,16674,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,single,11844,6724,56.7714,0,0.0,0,0.0,0,0.0,5120,43.2286,26203,16674,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,entire,19160,7696,40.167,0,0.0,0,0.0,0,0.0,11464,59.833,26203,16674,0.0,0.0
+Australia,Melbourne,Australia | Melbourne,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,private,7043,4005,56.865,0,0.0,0,0.0,0,0.0,3038,43.135,26203,16674,0.0,0.0
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,all,1389,123,8.8553,48,3.4557,2,0.144,0,0.0,1216,87.545,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,multi,393,53,13.486,16,4.0712,0,0.0,0,0.0,324,82.4427,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,single,996,70,7.0281,32,3.2129,2,0.2008,0,0.0,892,89.5582,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,entire,694,78,11.2392,39,5.6196,2,0.2882,0,0.0,575,82.853,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,private,695,45,6.4748,9,1.295,0,0.0,0,0.0,641,92.2302,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-06-16,main_clean,had_number,14976,2969,19.8251,11949,79.7877,43,0.2871,0,0.0,15,0.1002,20436,20573,73.2824,74.0582
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,all,1269,51,4.0189,21,1.6548,4,0.3152,0,0.0,1193,94.011,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,multi,336,14,4.1667,8,2.381,0,0.0,0,0.0,314,93.4524,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,single,933,37,3.9657,13,1.3934,4,0.4287,0,0.0,879,94.2122,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,entire,609,35,5.7471,17,2.7915,3,0.4926,0,0.0,554,90.9688,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,private,660,16,2.4242,4,0.6061,1,0.1515,0,0.0,639,96.8182,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2026-06-16,2026-09-16,post_placebo,had_number,15236,1478,9.7007,13699,89.9121,38,0.2494,0,0.0,21,0.1378,20573,20833,74.0582,74.478
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,all,1389,1366,98.3441,21,1.5119,1,0.072,0,0.0,1,0.072,20436,13563,73.2824,77.94
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,multi,393,388,98.7277,5,1.2723,0,0.0,0,0.0,0,0.0,20436,13563,73.2824,77.94
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,single,996,978,98.1928,16,1.6064,1,0.1004,0,0.0,1,0.1004,20436,13563,73.2824,77.94
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,entire,694,674,97.1182,18,2.5937,1,0.1441,0,0.0,1,0.1441,20436,13563,73.2824,77.94
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,private,695,692,99.5683,3,0.4317,0,0.0,0,0.0,0,0.0,20436,13563,73.2824,77.94
+Australia,Sydney,Australia | Sydney,control_noneu,nonEU,2025-12-12,2026-03-21,pretrend_raw,had_number,14976,5919,39.5232,9019,60.223,29,0.1936,0,0.0,9,0.0601,20436,13563,73.2824,77.94
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-06-20,main_clean,all,14166,3213,22.6811,0,0.0,0,0.0,0,0.0,10953,77.3189,14166,13283,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-06-20,main_clean,multi,9175,1949,21.2425,0,0.0,0,0.0,0,0.0,7226,78.7575,14166,13283,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-06-20,main_clean,single,4991,1264,25.3256,0,0.0,0,0.0,0,0.0,3727,74.6744,14166,13283,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-06-20,main_clean,entire,11596,2412,20.8003,0,0.0,0,0.0,0,0.0,9184,79.1997,14166,13283,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-06-20,main_clean,private,2570,801,31.1673,0,0.0,0,0.0,0,0.0,1769,68.8327,14166,13283,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2026-06-20,2026-09-17,post_placebo,all,13283,1360,10.2387,0,0.0,0,0.0,0,0.0,11923,89.7613,13283,12982,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2026-06-20,2026-09-17,post_placebo,multi,8893,923,10.3789,0,0.0,0,0.0,0,0.0,7970,89.6211,13283,12982,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2026-06-20,2026-09-17,post_placebo,single,4390,437,9.9544,0,0.0,0,0.0,0,0.0,3953,90.0456,13283,12982,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2026-06-20,2026-09-17,post_placebo,entire,11079,1105,9.9738,0,0.0,0,0.0,0,0.0,9974,90.0262,13283,12982,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2026-06-20,2026-09-17,post_placebo,private,2204,255,11.5699,0,0.0,0,0.0,0,0.0,1949,88.4301,13283,12982,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-03-24,pretrend_raw,all,14166,7268,51.3059,0,0.0,0,0.0,0,0.0,6898,48.6941,14166,7734,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-03-24,pretrend_raw,multi,9175,3955,43.1063,0,0.0,0,0.0,0,0.0,5220,56.8937,14166,7734,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-03-24,pretrend_raw,single,4991,3313,66.3795,0,0.0,0,0.0,0,0.0,1678,33.6205,14166,7734,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-03-24,pretrend_raw,entire,11596,5493,47.3698,0,0.0,0,0.0,0,0.0,6103,52.6302,14166,7734,0.0,0.0
+Austria,Vienna,Austria | Vienna,treat_eu,EU_noscheme,2025-12-16,2026-03-24,pretrend_raw,private,2570,1775,69.0661,0,0.0,0,0.0,0,0.0,795,30.9339,14166,7734,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,all,2467,529,21.443,0,0.0,0,0.0,0,0.0,1938,78.557,2467,2535,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,multi,1469,331,22.5323,0,0.0,0,0.0,0,0.0,1138,77.4677,2467,2535,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,single,998,198,19.8397,0,0.0,0,0.0,0,0.0,800,80.1603,2467,2535,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,entire,2022,450,22.2552,0,0.0,0,0.0,0,0.0,1572,77.7448,2467,2535,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,private,445,79,17.7528,0,0.0,0,0.0,0,0.0,366,82.2472,2467,2535,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2026-06-29,2026-09-23,post_placebo,all,2535,390,15.3846,0,0.0,0,0.0,0,0.0,2145,84.6154,2535,2463,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2026-06-29,2026-09-23,post_placebo,multi,1548,272,17.5711,0,0.0,0,0.0,0,0.0,1276,82.4289,2535,2463,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2026-06-29,2026-09-23,post_placebo,single,987,118,11.9554,0,0.0,0,0.0,0,0.0,869,88.0446,2535,2463,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2026-06-29,2026-09-23,post_placebo,entire,2103,311,14.7884,0,0.0,0,0.0,0,0.0,1792,85.2116,2535,2463,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2026-06-29,2026-09-23,post_placebo,private,432,79,18.287,0,0.0,0,0.0,0,0.0,353,81.713,2535,2463,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,all,2467,894,36.2383,0,0.0,0,0.0,0,0.0,1573,63.7617,2467,1848,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,multi,1469,477,32.4711,0,0.0,0,0.0,0,0.0,992,67.5289,2467,1848,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,single,998,417,41.7836,0,0.0,0,0.0,0,0.0,581,58.2164,2467,1848,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,entire,2022,667,32.9871,0,0.0,0,0.0,0,0.0,1355,67.0129,2467,1848,0.0,0.0
+Belgium,Antwerp,Belgium | Antwerp,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,private,445,227,51.0112,0,0.0,0,0.0,0,0.0,218,48.9888,2467,1848,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-06-27,main_clean,all,5873,1701,28.9631,0,0.0,0,0.0,0,0.0,4172,71.0369,5873,5078,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-06-27,main_clean,multi,3012,872,28.9509,0,0.0,0,0.0,0,0.0,2140,71.0491,5873,5078,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-06-27,main_clean,single,2861,829,28.9759,0,0.0,0,0.0,0,0.0,2032,71.0241,5873,5078,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-06-27,main_clean,entire,4324,1295,29.9491,0,0.0,0,0.0,0,0.0,3029,70.0509,5873,5078,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-06-27,main_clean,private,1549,406,26.2105,0,0.0,0,0.0,0,0.0,1143,73.7895,5873,5078,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2026-06-27,2026-09-20,post_placebo,all,5078,730,14.3757,0,0.0,0,0.0,0,0.0,4348,85.6243,5078,4850,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2026-06-27,2026-09-20,post_placebo,multi,2706,403,14.8928,0,0.0,0,0.0,0,0.0,2303,85.1072,5078,4850,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2026-06-27,2026-09-20,post_placebo,single,2372,327,13.7858,0,0.0,0,0.0,0,0.0,2045,86.2142,5078,4850,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2026-06-27,2026-09-20,post_placebo,entire,3688,533,14.4523,0,0.0,0,0.0,0,0.0,3155,85.5477,5078,4850,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2026-06-27,2026-09-20,post_placebo,private,1390,197,14.1727,0,0.0,0,0.0,0,0.0,1193,85.8273,5078,4850,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,all,5873,2636,44.8834,0,0.0,0,0.0,0,0.0,3237,55.1166,5873,3737,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,multi,3012,1231,40.8699,0,0.0,0,0.0,0,0.0,1781,59.1301,5873,3737,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,single,2861,1405,49.1087,0,0.0,0,0.0,0,0.0,1456,50.8913,5873,3737,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,entire,4324,1963,45.3978,0,0.0,0,0.0,0,0.0,2361,54.6022,5873,3737,0.0,0.0
+Belgium,Brussels,Belgium | Brussels,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,private,1549,673,43.4474,0,0.0,0,0.0,0,0.0,876,56.5526,5873,3737,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,all,1208,174,14.404,0,0.0,0,0.0,0,0.0,1034,85.596,1208,1383,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,multi,557,77,13.8241,0,0.0,0,0.0,0,0.0,480,86.1759,1208,1383,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,single,651,97,14.9002,0,0.0,0,0.0,0,0.0,554,85.0998,1208,1383,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,entire,865,118,13.6416,0,0.0,0,0.0,0,0.0,747,86.3584,1208,1383,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,private,343,56,16.3265,0,0.0,0,0.0,0,0.0,287,83.6735,1208,1383,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,all,1383,134,9.6891,0,0.0,0,0.0,0,0.0,1249,90.3109,1383,1367,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,multi,717,66,9.205,0,0.0,0,0.0,0,0.0,651,90.795,1383,1367,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,single,666,68,10.2102,0,0.0,0,0.0,0,0.0,598,89.7898,1383,1367,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,entire,982,91,9.2668,0,0.0,0,0.0,0,0.0,891,90.7332,1383,1367,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,private,401,43,10.7232,0,0.0,0,0.0,0,0.0,358,89.2768,1383,1367,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,all,1208,425,35.1821,0,0.0,0,0.0,0,0.0,783,64.8179,1208,962,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,multi,557,198,35.5476,0,0.0,0,0.0,0,0.0,359,64.4524,1208,962,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,single,651,227,34.8694,0,0.0,0,0.0,0,0.0,424,65.1306,1208,962,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,entire,865,296,34.2197,0,0.0,0,0.0,0,0.0,569,65.7803,1208,962,0.0,0.0
+Belgium,Ghent,Belgium | Ghent,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,private,343,129,37.6093,0,0.0,0,0.0,0,0.0,214,62.3907,1208,962,0.0,0.0
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,all,5070,855,16.8639,43,0.8481,0,0.0,0,0.0,4172,82.288,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,multi,3423,536,15.6588,31,0.9056,0,0.0,0,0.0,2856,83.4356,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,single,1647,319,19.3685,12,0.7286,0,0.0,0,0.0,1316,79.9029,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,entire,4065,678,16.679,34,0.8364,0,0.0,0,0.0,3353,82.4846,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,private,1005,177,17.6119,9,0.8955,0,0.0,0,0.0,819,81.4925,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-06-15,main_clean,had_number,4967,972,19.5692,3990,80.3302,0,0.0,0,0.0,3,0.0604,10041,10656,49.4672,52.9748
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,all,5004,442,8.8329,18,0.3597,0,0.0,0,0.0,4544,90.8074,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,multi,3432,291,8.479,10,0.2914,0,0.0,0,0.0,3131,91.2296,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,single,1572,151,9.6056,8,0.5089,0,0.0,0,0.0,1413,89.8855,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,entire,3952,324,8.1984,14,0.3543,0,0.0,0,0.0,3614,91.4474,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,private,1052,118,11.2167,4,0.3802,0,0.0,0,0.0,930,88.403,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,had_number,5645,833,14.7564,4810,85.2081,0,0.0,0,0.0,2,0.0354,10656,10717,52.9748,51.7682
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,all,5070,459,9.0533,18,0.355,0,0.0,0,0.0,4593,90.5917,10041,10206,49.4672,50.4507
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,multi,3423,291,8.5013,14,0.409,0,0.0,0,0.0,3118,91.0897,10041,10206,49.4672,50.4507
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,single,1647,168,10.2004,4,0.2429,0,0.0,0,0.0,1475,89.5568,10041,10206,49.4672,50.4507
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,entire,4065,353,8.6839,16,0.3936,0,0.0,0,0.0,3696,90.9225,10041,10206,49.4672,50.4507
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,private,1005,106,10.5473,2,0.199,0,0.0,0,0.0,897,89.2537,10041,10206,49.4672,50.4507
+Canada,Montreal,Canada | Montreal,control_noneu,nonEU,2025-12-22,2026-03-16,pretrend_raw,had_number,4967,563,11.3348,4395,88.484,0,0.0,0,0.0,7,0.1409,10041,10206,49.4672,50.4507
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,all,11146,2724,24.4393,130,1.1663,0,0.0,0,0.0,8292,74.3944,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,multi,5835,1346,23.0677,64,1.0968,0,0.0,0,0.0,4425,75.8355,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,single,5311,1378,25.9461,66,1.2427,0,0.0,0,0.0,3867,72.8111,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,entire,7287,1583,21.7236,90,1.2351,0,0.0,0,0.0,5614,77.0413,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,private,3859,1141,29.5672,40,1.0365,0,0.0,0,0.0,2678,69.3962,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-06-15,main_clean,had_number,10332,1950,18.8734,8377,81.0782,0,0.0,0,0.0,5,0.0484,21602,22198,47.8289,53.6174
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,all,10184,984,9.6622,48,0.4713,0,0.0,0,0.0,9152,89.8665,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,multi,5744,632,11.0028,20,0.3482,0,0.0,0,0.0,5092,88.649,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,single,4440,352,7.9279,28,0.6306,0,0.0,0,0.0,4060,91.4414,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,entire,6814,628,9.2163,30,0.4403,0,0.0,0,0.0,6156,90.3434,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,private,3370,356,10.5638,18,0.5341,0,0.0,0,0.0,2996,88.9021,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2026-06-15,2026-09-16,post_placebo,had_number,11902,1567,13.1659,10319,86.6997,0,0.0,0,0.0,16,0.1344,22198,22050,53.6174,53.1474
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,all,11146,5257,47.1649,65,0.5832,0,0.0,0,0.0,5824,52.2519,21602,15490,47.8289,59.5675
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,multi,5835,2106,36.0925,28,0.4799,0,0.0,0,0.0,3701,63.4276,21602,15490,47.8289,59.5675
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,single,5311,3151,59.3297,37,0.6967,0,0.0,0,0.0,2123,39.9736,21602,15490,47.8289,59.5675
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,entire,7287,3377,46.3428,46,0.6313,0,0.0,0,0.0,3864,53.0259,21602,15490,47.8289,59.5675
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,private,3859,1880,48.7173,19,0.4924,0,0.0,0,0.0,1960,50.7904,21602,15490,47.8289,59.5675
+Canada,Toronto,Canada | Toronto,control_noneu,nonEU,2025-12-12,2026-03-19,pretrend_raw,had_number,10332,2358,22.8223,7967,77.1099,0,0.0,0,0.0,7,0.0678,21602,15490,47.8289,59.5675
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,all,1313,285,21.706,11,0.8378,1,0.0762,0,0.0,1016,77.38,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,multi,796,167,20.9799,2,0.2513,1,0.1256,0,0.0,626,78.6432,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,single,517,118,22.824,9,1.7408,0,0.0,0,0.0,390,75.4352,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,entire,1036,244,23.5521,11,1.0618,1,0.0965,0,0.0,780,75.2896,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,private,277,41,14.8014,0,0.0,0,0.0,0,0.0,236,85.1986,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-06-15,main_clean,had_number,3899,717,18.3893,3162,81.0977,14,0.3591,0,0.0,6,0.1539,5726,6509,68.0929,73.5904
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,all,1141,104,9.1148,7,0.6135,0,0.0,0,0.0,1030,90.2717,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,multi,698,82,11.7479,2,0.2865,0,0.0,0,0.0,614,87.9656,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,single,443,22,4.9661,5,1.1287,0,0.0,0,0.0,416,93.9052,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,entire,870,82,9.4253,6,0.6897,0,0.0,0,0.0,782,89.8851,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,private,271,22,8.1181,1,0.369,0,0.0,0,0.0,248,91.5129,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2026-06-15,2026-09-17,post_placebo,had_number,4790,622,12.9854,4167,86.9937,1,0.0209,0,0.0,0,0.0,6509,6131,73.5904,74.3272
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,all,1313,171,13.0236,4,0.3046,3,0.2285,0,0.0,1135,86.4433,5726,5725,68.0929,69.6419
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,multi,796,109,13.6935,0,0.0,1,0.1256,0,0.0,686,86.1809,5726,5725,68.0929,69.6419
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,single,517,62,11.9923,4,0.7737,2,0.3868,0,0.0,449,86.8472,5726,5725,68.0929,69.6419
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,entire,1036,148,14.2857,4,0.3861,2,0.1931,0,0.0,882,85.1351,5726,5725,68.0929,69.6419
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,private,277,23,8.3032,0,0.0,1,0.361,0,0.0,253,91.3357,5726,5725,68.0929,69.6419
+Canada,Vancouver,Canada | Vancouver,control_noneu,nonEU,2025-12-14,2026-03-21,pretrend_raw,had_number,3899,441,11.3106,3442,88.279,12,0.3078,0,0.0,4,0.1026,5726,5725,68.0929,69.6419
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-06-27,main_clean,all,11347,1343,11.8357,0,0.0,0,0.0,0,0.0,10004,88.1643,11347,11615,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-06-27,main_clean,multi,9002,1035,11.4974,0,0.0,0,0.0,0,0.0,7967,88.5026,11347,11615,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-06-27,main_clean,single,2345,308,13.1343,0,0.0,0,0.0,0,0.0,2037,86.8657,11347,11615,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-06-27,main_clean,entire,9452,1037,10.9712,0,0.0,0,0.0,0,0.0,8415,89.0288,11347,11615,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-06-27,main_clean,private,1895,306,16.1478,0,0.0,0,0.0,0,0.0,1589,83.8522,11347,11615,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2026-06-27,2026-09-20,post_placebo,all,11615,618,5.3207,0,0.0,0,0.0,0,0.0,10997,94.6793,11615,11804,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2026-06-27,2026-09-20,post_placebo,multi,9321,455,4.8815,0,0.0,0,0.0,0,0.0,8866,95.1185,11615,11804,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2026-06-27,2026-09-20,post_placebo,single,2294,163,7.1055,0,0.0,0,0.0,0,0.0,2131,92.8945,11615,11804,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2026-06-27,2026-09-20,post_placebo,entire,9671,447,4.6221,0,0.0,0,0.0,0,0.0,9224,95.3779,11615,11804,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2026-06-27,2026-09-20,post_placebo,private,1944,171,8.7963,0,0.0,0,0.0,0,0.0,1773,91.2037,11615,11804,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-03-29,pretrend_raw,all,11347,2936,25.8747,0,0.0,0,0.0,0,0.0,8411,74.1253,11347,9078,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-03-29,pretrend_raw,multi,9002,2189,24.3168,0,0.0,0,0.0,0,0.0,6813,75.6832,11347,9078,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-03-29,pretrend_raw,single,2345,747,31.855,0,0.0,0,0.0,0,0.0,1598,68.145,11347,9078,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-03-29,pretrend_raw,entire,9452,2183,23.0956,0,0.0,0,0.0,0,0.0,7269,76.9044,11347,9078,0.0,0.0
+Czech Republic,Prague,Czech Republic | Prague,treat_eu,EU_unconfirmed,2025-12-27,2026-03-29,pretrend_raw,private,1895,753,39.7361,0,0.0,0,0.0,0,0.0,1142,60.2639,11347,9078,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,all,12926,2480,19.1861,0,0.0,0,0.0,0,0.0,10446,80.8139,12926,23144,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,multi,1845,512,27.7507,0,0.0,0,0.0,0,0.0,1333,72.2493,12926,23144,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,single,11081,1968,17.7601,0,0.0,0,0.0,0,0.0,9113,82.2399,12926,23144,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,entire,11804,2243,19.002,0,0.0,0,0.0,0,0.0,9561,80.998,12926,23144,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,private,1122,237,21.123,0,0.0,0,0.0,0,0.0,885,78.877,12926,23144,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,all,23144,2143,9.2594,0,0.0,0,0.0,0,0.0,21001,90.7406,23144,22845,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,multi,3068,403,13.1356,0,0.0,0,0.0,0,0.0,2665,86.8644,23144,22845,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,single,20076,1740,8.6671,0,0.0,0,0.0,0,0.0,18336,91.3329,23144,22845,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,entire,21368,1972,9.2288,0,0.0,0,0.0,0,0.0,19396,90.7712,23144,22845,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,private,1776,171,9.6284,0,0.0,0,0.0,0,0.0,1605,90.3716,23144,22845,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-03-30,pretrend_raw,all,12926,4568,35.3396,0,0.0,0,0.0,0,0.0,8358,64.6604,12926,10965,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-03-30,pretrend_raw,multi,1845,742,40.2168,0,0.0,0,0.0,0,0.0,1103,59.7832,12926,10965,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-03-30,pretrend_raw,single,11081,3826,34.5276,0,0.0,0,0.0,0,0.0,7255,65.4724,12926,10965,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-03-30,pretrend_raw,entire,11804,4148,35.1406,0,0.0,0,0.0,0,0.0,7656,64.8594,12926,10965,0.0,0.0
+Denmark,Copenhagen,Denmark | Copenhagen,treat_eu,EU_unconfirmed,2025-12-30,2026-03-30,pretrend_raw,private,1122,420,37.4332,0,0.0,0,0.0,0,0.0,702,62.5668,12926,10965,0.0,0.0
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,all,7430,1100,14.8048,17,0.2288,5,0.0673,0,0.0,6308,84.8991,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,multi,2166,350,16.1588,2,0.0923,2,0.0923,0,0.0,1812,83.6565,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,single,5264,750,14.2477,15,0.285,3,0.057,0,0.0,4496,85.4103,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,entire,4882,657,13.4576,16,0.3277,3,0.0615,0,0.0,4206,86.1532,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,private,2548,443,17.3862,1,0.0392,2,0.0785,0,0.0,2102,82.4961,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,had_number,4184,574,13.7189,3583,85.6358,6,0.1434,0,0.0,21,0.5019,12180,12217,34.3514,34.984
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,all,7386,555,7.5142,26,0.352,5,0.0677,0,0.0,6799,92.0525,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,multi,2386,226,9.4719,6,0.2515,3,0.1257,0,0.0,2150,90.109,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,single,5000,329,6.58,20,0.4,2,0.04,0,0.0,4649,92.98,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,entire,4887,379,7.7553,25,0.5116,5,0.1023,0,0.0,4477,91.6104,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,private,2499,176,7.0428,1,0.04,0,0.0,0,0.0,2322,92.9172,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,had_number,4274,367,8.5868,3841,89.869,3,0.0702,0,0.0,63,1.474,12217,12063,34.984,34.3198
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,all,7430,3849,51.8035,9,0.1211,0,0.0,0,0.0,3572,48.0754,12180,6822,34.3514,39.4166
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,multi,2166,924,42.6593,2,0.0923,0,0.0,0,0.0,1240,57.2484,12180,6822,34.3514,39.4166
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,single,5264,2925,55.5661,7,0.133,0,0.0,0,0.0,2332,44.3009,12180,6822,34.3514,39.4166
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,entire,4882,2484,50.8808,9,0.1844,0,0.0,0,0.0,2389,48.9349,12180,6822,34.3514,39.4166
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,private,2548,1365,53.5714,0,0.0,0,0.0,0,0.0,1183,46.4286,12180,6822,34.3514,39.4166
+France,Bordeaux,France | Bordeaux,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,had_number,4184,1728,41.3002,2442,58.3652,4,0.0956,0,0.0,10,0.239,12180,6822,34.3514,39.4166
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,all,3770,654,17.3475,7,0.1857,7,0.1857,0,0.0,3102,82.2812,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,multi,783,134,17.1137,1,0.1277,4,0.5109,0,0.0,644,82.2478,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,single,2987,520,17.4088,6,0.2009,3,0.1004,0,0.0,2458,82.2899,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,entire,1845,296,16.0434,7,0.3794,2,0.1084,0,0.0,1540,83.4688,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,private,1925,358,18.5974,0,0.0,5,0.2597,0,0.0,1562,81.1429,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-06-22,main_clean,had_number,5303,703,13.2566,4567,86.1211,5,0.0943,0,0.0,28,0.528,9800,9317,54.1122,56.0588
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,all,3317,139,4.1905,25,0.7537,8,0.2412,0,0.0,3145,94.8146,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,multi,762,43,5.643,8,1.0499,7,0.9186,0,0.0,704,92.3885,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,single,2555,96,3.7573,17,0.6654,1,0.0391,0,0.0,2441,95.5382,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,entire,1589,44,2.769,24,1.5104,6,0.3776,0,0.0,1515,95.343,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,private,1728,95,5.4977,1,0.0579,2,0.1157,0,0.0,1630,94.3287,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2026-06-22,2026-09-17,post_placebo,had_number,5223,461,8.8263,4660,89.2208,5,0.0957,0,0.0,97,1.8572,9317,9201,56.0588,54.5158
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,all,3770,3152,83.6074,3,0.0796,1,0.0265,0,0.0,614,16.2865,9800,4403,54.1122,77.0384
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,multi,783,507,64.751,1,0.1277,0,0.0,0,0.0,275,35.1213,9800,4403,54.1122,77.0384
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,single,2987,2645,88.5504,2,0.067,1,0.0335,0,0.0,339,11.3492,9800,4403,54.1122,77.0384
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,entire,1845,1784,96.6938,3,0.1626,0,0.0,0,0.0,58,3.1436,9800,4403,54.1122,77.0384
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,private,1925,1368,71.0649,0,0.0,1,0.0519,0,0.0,556,28.8831,9800,4403,54.1122,77.0384
+France,Lyon,France | Lyon,treat_eu,EU_aligned,2025-12-22,2026-03-25,pretrend_raw,had_number,5303,2176,41.0334,3115,58.7403,7,0.132,0,0.0,5,0.0943,9800,4403,54.1122,77.0384
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,all,17415,3769,21.6423,393,2.2567,69,0.3962,0,0.0,13184,75.7049,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,multi,5231,1288,24.6224,33,0.6309,34,0.65,0,0.0,3876,74.0967,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,single,12184,2481,20.3628,360,2.9547,35,0.2873,0,0.0,9308,76.3953,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,entire,9044,1864,20.6103,372,4.1132,42,0.4644,0,0.0,6766,74.812,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,private,8371,1905,22.7571,21,0.2509,27,0.3225,0,0.0,6418,76.6695,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-06-16,main_clean,had_number,54125,7927,14.6457,45787,84.5949,113,0.2088,0,0.0,298,0.5506,82045,77679,65.9699,69.213
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,all,14243,664,4.6619,308,2.1625,40,0.2808,0,0.0,13231,92.8948,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,multi,4252,292,6.8674,22,0.5174,15,0.3528,0,0.0,3923,92.2625,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,single,9991,372,3.7234,286,2.8626,25,0.2502,0,0.0,9308,93.1638,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,entire,7166,167,2.3304,298,4.1585,32,0.4466,0,0.0,6669,93.0645,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,private,7077,497,7.0227,10,0.1413,8,0.113,0,0.0,6562,92.7229,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2026-06-16,2026-09-16,post_placebo,had_number,53764,4449,8.2751,48110,89.4837,51,0.0949,0,0.0,1153,2.1446,77679,77149,69.213,67.4539
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,all,17415,13474,77.3701,275,1.5791,6,0.0345,0,0.0,3660,21.0164,82045,38075,65.9699,83.6113
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,multi,5231,3029,57.9048,25,0.4779,2,0.0382,0,0.0,2175,41.579,82045,38075,65.9699,83.6113
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,single,12184,10445,85.7272,250,2.0519,4,0.0328,0,0.0,1485,12.1881,82045,38075,65.9699,83.6113
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,entire,9044,8509,94.0845,267,2.9522,4,0.0442,0,0.0,264,2.9191,82045,38075,65.9699,83.6113
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,private,8371,4965,59.3119,8,0.0956,2,0.0239,0,0.0,3396,40.5686,82045,38075,65.9699,83.6113
+France,Paris,France | Paris,treat_eu,EU_aligned,2025-12-13,2026-03-21,pretrend_raw,had_number,54125,25734,47.5455,28126,51.9649,52,0.0961,0,0.0,213,0.3935,82045,38075,65.9699,83.6113
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,all,2949,395,13.3944,20,0.6782,1,0.0339,0,0.0,2533,85.8935,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,multi,1265,240,18.9723,4,0.3162,1,0.0791,0,0.0,1020,80.6324,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,single,1684,155,9.2043,16,0.9501,0,0.0,0,0.0,1513,89.8456,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,entire,1754,195,11.1174,20,1.1403,0,0.0,0,0.0,1539,87.7423,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,private,1195,200,16.7364,0,0.0,1,0.0837,0,0.0,994,83.1799,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-06-23,main_clean,had_number,7953,1001,12.5864,6922,87.0363,17,0.2138,0,0.0,13,0.1635,11311,12081,70.3121,70.7392
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,all,3138,215,6.8515,22,0.7011,2,0.0637,0,0.0,2899,92.3837,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,multi,1361,119,8.7436,3,0.2204,0,0.0,0,0.0,1239,91.036,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,single,1777,96,5.4024,19,1.0692,2,0.1125,0,0.0,1660,93.4159,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,entire,1922,105,5.4631,20,1.0406,2,0.1041,0,0.0,1795,93.3923,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,private,1216,110,9.0461,2,0.1645,0,0.0,0,0.0,1104,90.7895,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2026-06-23,2026-09-19,post_placebo,had_number,8546,778,9.1037,7607,89.0124,5,0.0585,0,0.0,156,1.8254,12081,11785,70.7392,68.6296
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,all,2949,173,5.8664,20,0.6782,1,0.0339,0,0.0,2755,93.4215,11311,11519,70.3121,70.2665
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,multi,1265,73,5.7708,3,0.2372,0,0.0,0,0.0,1189,93.9921,11311,11519,70.3121,70.2665
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,single,1684,100,5.9382,17,1.0095,1,0.0594,0,0.0,1566,92.9929,11311,11519,70.3121,70.2665
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,entire,1754,92,5.2452,20,1.1403,1,0.057,0,0.0,1641,93.5576,11311,11519,70.3121,70.2665
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,private,1195,81,6.7782,0,0.0,0,0.0,0,0.0,1114,93.2218,11311,11519,70.3121,70.2665
+France,Pays Basque,France | Pays Basque,treat_eu,EU_aligned,2025-12-25,2026-03-26,pretrend_raw,had_number,7953,558,7.0162,7350,92.418,18,0.2263,0,0.0,27,0.3395,11311,11519,70.3121,70.2665
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,all,5098,1321,25.9121,21,0.4119,0,0.0,0,0.0,3756,73.676,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,multi,1322,285,21.5582,7,0.5295,0,0.0,0,0.0,1030,77.9123,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,single,3776,1036,27.4364,14,0.3708,0,0.0,0,0.0,2726,72.1928,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,entire,3374,827,24.511,17,0.5039,0,0.0,0,0.0,2530,74.9852,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,private,1724,494,28.6543,4,0.232,0,0.0,0,0.0,1226,71.1137,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-06-26,main_clean,had_number,9368,1575,16.8126,7703,82.2267,0,0.0,0,0.0,90,0.9607,14470,12776,64.7408,68.9339
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,all,3967,272,6.8566,33,0.8319,0,0.0,0,0.0,3662,92.3116,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,multi,1149,134,11.6623,17,1.4795,0,0.0,0,0.0,998,86.8581,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,single,2818,138,4.8971,16,0.5678,0,0.0,0,0.0,2664,94.5351,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,entire,2654,222,8.3647,16,0.6029,0,0.0,0,0.0,2416,91.0324,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,private,1313,50,3.8081,17,1.2947,0,0.0,0,0.0,1246,94.8972,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2026-06-26,2026-09-19,post_placebo,had_number,8807,809,9.1859,7776,88.2934,11,0.1249,0,0.0,211,2.3958,12776,12376,68.9339,66.7502
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,all,5098,5073,99.5096,11,0.2158,0,0.0,0,0.0,14,0.2746,14470,5856,64.7408,99.2999
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,multi,1322,1316,99.5461,1,0.0756,0,0.0,0,0.0,5,0.3782,14470,5856,64.7408,99.2999
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,single,3776,3757,99.4968,10,0.2648,0,0.0,0,0.0,9,0.2383,14470,5856,64.7408,99.2999
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,entire,3374,3354,99.4072,8,0.2371,0,0.0,0,0.0,12,0.3557,14470,5856,64.7408,99.2999
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,private,1724,1719,99.71,3,0.174,0,0.0,0,0.0,2,0.116,14470,5856,64.7408,99.2999
+Germany,Berlin,Germany | Berlin,treat_eu,EU_unconfirmed,2025-12-27,2026-03-28,pretrend_raw,had_number,9368,4028,42.9974,5319,56.7784,0,0.0,0,0.0,21,0.2242,14470,5856,64.7408,99.2999
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,all,4728,1147,24.2597,0,0.0,0,0.0,0,0.0,3581,75.7403,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,multi,1614,291,18.0297,0,0.0,0,0.0,0,0.0,1323,81.9703,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,single,3114,856,27.4888,0,0.0,0,0.0,0,0.0,2258,72.5112,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,entire,3162,772,24.4149,0,0.0,0,0.0,0,0.0,2390,75.5851,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,private,1566,375,23.9464,0,0.0,0,0.0,0,0.0,1191,76.0536,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-06-29,main_clean,had_number,29,1,3.4483,27,93.1034,0,0.0,0,0.0,1,3.4483,4757,6865,0.6096,0.5098
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,all,6830,724,10.6003,4,0.0586,0,0.0,0,0.0,6099,89.2972,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,multi,2296,257,11.1934,4,0.1742,0,0.0,0,0.0,2032,88.5017,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,single,4534,467,10.3,0,0.0,0,0.0,0,0.0,4067,89.7,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,entire,4565,490,10.7338,0,0.0,0,0.0,0,0.0,4075,89.2662,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,private,2265,234,10.3311,4,0.1766,0,0.0,0,0.0,2024,89.3598,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2026-06-29,2026-09-23,post_placebo,had_number,35,0,0.0,33,94.2857,0,0.0,0,0.0,2,5.7143,6865,7493,0.5098,0.4938
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,all,4728,1833,38.769,0,0.0,0,0.0,0,0.0,2895,61.231,4757,3569,0.6096,0.8126
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,multi,1614,552,34.2007,0,0.0,0,0.0,0,0.0,1062,65.7993,4757,3569,0.6096,0.8126
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,single,3114,1281,41.1368,0,0.0,0,0.0,0,0.0,1833,58.8632,4757,3569,0.6096,0.8126
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,entire,3162,1228,38.8362,0,0.0,0,0.0,0,0.0,1934,61.1638,4757,3569,0.6096,0.8126
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,private,1566,605,38.6335,0,0.0,0,0.0,0,0.0,961,61.3665,4757,3569,0.6096,0.8126
+Germany,Munich,Germany | Munich,treat_eu,EU_unconfirmed,2025-12-29,2026-03-30,pretrend_raw,had_number,29,4,13.7931,25,86.2069,0,0.0,0,0.0,0,0.0,4757,3569,0.6096,0.8126
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,all,193,72,37.3057,27,13.9896,2,1.0363,0,0.0,92,47.6684,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,multi,75,26,34.6667,15,20.0,0,0.0,0,0.0,34,45.3333,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,single,118,46,38.9831,12,10.1695,2,1.6949,0,0.0,58,49.1525,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,entire,155,54,34.8387,27,17.4194,2,1.2903,0,0.0,72,46.4516,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,private,38,18,47.3684,0,0.0,0,0.0,0,0.0,20,52.6316,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,had_number,14537,2203,15.1544,11957,82.2522,3,0.0206,0,0.0,374,2.5727,14842,14337,97.945,95.3477
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,all,521,28,5.3743,384,73.7044,1,0.1919,0,0.0,108,20.7294,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,multi,407,16,3.9312,345,84.7666,1,0.2457,0,0.0,45,11.0565,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,single,114,12,10.5263,39,34.2105,0,0.0,0,0.0,63,55.2632,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,entire,461,24,5.2061,346,75.0542,0,0.0,0,0.0,91,19.7397,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,private,60,4,6.6667,38,63.3333,1,1.6667,0,0.0,17,28.3333,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2026-06-28,2026-09-22,post_placebo,had_number,13670,622,4.5501,12727,93.1017,5,0.0366,0,0.0,316,2.3116,14337,15134,95.3477,95.5663
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,all,193,78,40.4145,26,13.4715,1,0.5181,0,0.0,88,45.5959,14842,13304,97.945,98.1434
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,multi,75,33,44.0,14,18.6667,0,0.0,0,0.0,28,37.3333,14842,13304,97.945,98.1434
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,single,118,45,38.1356,12,10.1695,1,0.8475,0,0.0,60,50.8475,14842,13304,97.945,98.1434
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,entire,155,55,35.4839,26,16.7742,1,0.6452,0,0.0,73,47.0968,14842,13304,97.945,98.1434
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,private,38,23,60.5263,0,0.0,0,0.0,0,0.0,15,39.4737,14842,13304,97.945,98.1434
+Greece,Athens,Greece | Athens,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,had_number,14537,2356,16.2069,12138,83.4973,3,0.0206,0,0.0,40,0.2752,14842,13304,97.945,98.1434
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,all,518,129,24.9035,37,7.1429,2,0.3861,0,0.0,350,67.5676,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,multi,380,106,27.8947,16,4.2105,1,0.2632,0,0.0,257,67.6316,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,single,138,23,16.6667,21,15.2174,1,0.7246,0,0.0,93,67.3913,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,entire,401,78,19.4514,35,8.7282,1,0.2494,0,0.0,287,71.5711,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,private,117,51,43.5897,2,1.7094,1,0.8547,0,0.0,63,53.8462,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-06-29,main_clean,had_number,25377,2089,8.2319,22586,89.0019,1,0.0039,0,0.0,701,2.7623,26225,27333,96.7664,94.4755
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,all,1183,53,4.4801,768,64.9197,6,0.5072,0,0.0,356,30.093,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,multi,981,42,4.2813,667,67.9918,5,0.5097,0,0.0,267,27.2171,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,single,202,11,5.4455,101,50.0,1,0.495,0,0.0,89,44.0594,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,entire,1029,45,4.3732,679,65.9864,2,0.1944,0,0.0,303,29.4461,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,private,154,8,5.1948,89,57.7922,4,2.5974,0,0.0,53,34.4156,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2026-06-29,2026-09-25,post_placebo,had_number,25823,900,3.4853,24342,94.2648,16,0.062,0,0.0,565,2.188,27333,27381,94.4755,95.4677
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,all,518,248,47.8764,30,5.7915,2,0.3861,0,0.0,238,45.9459,26225,23205,96.7664,97.3928
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,multi,380,197,51.8421,16,4.2105,2,0.5263,0,0.0,165,43.4211,26225,23205,96.7664,97.3928
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,single,138,51,36.9565,14,10.1449,0,0.0,0,0.0,73,52.8986,26225,23205,96.7664,97.3928
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,entire,401,166,41.3965,28,6.9825,1,0.2494,0,0.0,206,51.3716,26225,23205,96.7664,97.3928
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,private,117,82,70.0855,2,1.7094,1,0.8547,0,0.0,32,27.3504,26225,23205,96.7664,97.3928
+Greece,Crete,Greece | Crete,treat_eu,EU_pretreated,2025-12-29,2026-03-30,pretrend_raw,had_number,25377,4319,17.0193,21018,82.823,1,0.0039,0,0.0,39,0.1537,26225,23205,96.7664,97.3928
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,all,879,198,22.5256,43,4.8919,0,0.0,0,0.0,638,72.5825,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,multi,721,156,21.6366,33,4.577,0,0.0,0,0.0,532,73.7864,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,single,158,42,26.5823,10,6.3291,0,0.0,0,0.0,106,67.0886,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,entire,575,89,15.4783,37,6.4348,0,0.0,0,0.0,449,78.087,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,private,304,109,35.8553,6,1.9737,0,0.0,0,0.0,189,62.1711,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-06-28,main_clean,had_number,33608,2969,8.8342,29782,88.6158,5,0.0149,0,0.0,852,2.5351,34834,36680,96.4805,94.3675
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,all,1706,77,4.5135,951,55.7444,11,0.6448,0,0.0,667,39.0973,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,multi,1453,60,4.1294,817,56.2285,10,0.6882,0,0.0,566,38.9539,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,single,253,17,6.7194,134,52.9644,1,0.3953,0,0.0,101,39.9209,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,entire,1298,47,3.621,778,59.9384,9,0.6934,0,0.0,464,35.7473,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,private,408,30,7.3529,173,42.402,2,0.4902,0,0.0,203,49.7549,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2026-06-28,2026-09-20,post_placebo,had_number,34614,1355,3.9146,32355,93.4737,1,0.0029,0,0.0,903,2.6088,36680,36644,94.3675,94.6512
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,all,879,453,51.5358,32,3.6405,0,0.0,0,0.0,394,44.8237,34834,30349,96.4805,97.4332
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,multi,721,392,54.3689,24,3.3287,0,0.0,0,0.0,305,42.3024,34834,30349,96.4805,97.4332
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,single,158,61,38.6076,8,5.0633,0,0.0,0,0.0,89,56.3291,34834,30349,96.4805,97.4332
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,entire,575,257,44.6957,29,5.0435,0,0.0,0,0.0,289,50.2609,34834,30349,96.4805,97.4332
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,private,304,196,64.4737,3,0.9868,0,0.0,0,0.0,105,34.5395,34834,30349,96.4805,97.4332
+Greece,South Aegean,Greece | South Aegean,treat_eu,EU_pretreated,2025-12-27,2026-03-29,pretrend_raw,had_number,33608,6229,18.5343,27301,81.2336,5,0.0149,0,0.0,73,0.2172,34834,30349,96.4805,97.4332
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,all,22,1,4.5455,1,4.5455,0,0.0,0,0.0,20,90.9091,4690,4965,98.806,96.3746
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,multi,2,0,0.0,0,0.0,0,0.0,0,0.0,2,100.0,4690,4965,98.806,96.3746
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,single,20,1,5.0,1,5.0,0,0.0,0,0.0,18,90.0,4690,4965,98.806,96.3746
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,entire,22,1,4.5455,1,4.5455,0,0.0,0,0.0,20,90.9091,4690,4965,98.806,96.3746
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-06-29,main_clean,had_number,4634,495,10.6819,4040,87.1817,0,0.0,0,0.0,99,2.1364,4690,4965,98.806,96.3746
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,all,140,8,5.7143,105,75.0,1,0.7143,0,0.0,26,18.5714,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,multi,104,4,3.8462,92,88.4615,0,0.0,0,0.0,8,7.6923,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,single,36,4,11.1111,13,36.1111,1,2.7778,0,0.0,18,50.0,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,entire,132,8,6.0606,97,73.4848,1,0.7576,0,0.0,26,19.697,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,private,8,0,0.0,8,100.0,0,0.0,0,0.0,0,0.0,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2026-06-29,2026-09-22,post_placebo,had_number,4785,290,6.0606,4419,92.3511,0,0.0,0,0.0,76,1.5883,4965,4961,96.3746,97.1377
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,all,22,9,40.9091,1,4.5455,0,0.0,0,0.0,12,54.5455,4690,4356,98.806,98.7144
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,multi,2,1,50.0,0,0.0,0,0.0,0,0.0,1,50.0,4690,4356,98.806,98.7144
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,single,20,8,40.0,1,5.0,0,0.0,0,0.0,11,55.0,4690,4356,98.806,98.7144
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,entire,22,9,40.9091,1,4.5455,0,0.0,0,0.0,12,54.5455,4690,4356,98.806,98.7144
+Greece,Thessaloniki,Greece | Thessaloniki,treat_eu,EU_pretreated,2025-12-28,2026-03-30,pretrend_raw,had_number,4634,715,15.4294,3909,84.3548,0,0.0,0,0.0,10,0.2158,4690,4356,98.806,98.7144
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,all,694,103,14.8415,31,4.4669,0,0.0,0,0.0,560,80.6916,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,multi,414,58,14.0097,21,5.0725,0,0.0,0,0.0,335,80.9179,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,single,280,45,16.0714,10,3.5714,0,0.0,0,0.0,225,80.3571,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,entire,634,97,15.2997,30,4.7319,0,0.0,0,0.0,507,79.9685,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,private,60,6,10.0,1,1.6667,0,0.0,0,0.0,53,88.3333,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,had_number,10178,1305,12.8218,8696,85.4392,0,0.0,0,0.0,177,1.739,10872,11454,93.6166,92.2996
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,all,882,46,5.2154,194,21.9955,0,0.0,0,0.0,642,72.7891,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,multi,577,25,4.3328,182,31.5425,0,0.0,0,0.0,370,64.1248,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,single,305,21,6.8852,12,3.9344,0,0.0,0,0.0,272,89.1803,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,entire,784,41,5.2296,164,20.9184,0,0.0,0,0.0,579,73.852,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,private,98,5,5.102,30,30.6122,0,0.0,0,0.0,63,64.2857,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,had_number,10572,681,6.4415,9711,91.8558,0,0.0,0,0.0,180,1.7026,11454,11240,92.2996,91.9217
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,all,694,225,32.4207,21,3.0259,0,0.0,0,0.0,448,64.5533,10872,9510,93.6166,94.8896
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,multi,414,124,29.9517,16,3.8647,0,0.0,0,0.0,274,66.1836,10872,9510,93.6166,94.8896
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,single,280,101,36.0714,5,1.7857,0,0.0,0,0.0,174,62.1429,10872,9510,93.6166,94.8896
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,entire,634,200,31.5457,21,3.3123,0,0.0,0,0.0,413,65.142,10872,9510,93.6166,94.8896
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,private,60,25,41.6667,0,0.0,0,0.0,0,0.0,35,58.3333,10872,9510,93.6166,94.8896
+Hungary,Budapest,Hungary | Budapest,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,had_number,10178,2019,19.8369,8156,80.1336,0,0.0,0,0.0,3,0.0295,10872,9510,93.6166,94.8896
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-06-21,main_clean,all,6834,1244,18.2031,0,0.0,0,0.0,0,0.0,5590,81.7969,6834,6966,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-06-21,main_clean,multi,3639,634,17.4224,0,0.0,0,0.0,0,0.0,3005,82.5776,6834,6966,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-06-21,main_clean,single,3195,610,19.0923,0,0.0,0,0.0,0,0.0,2585,80.9077,6834,6966,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-06-21,main_clean,entire,3922,661,16.8536,0,0.0,0,0.0,0,0.0,3261,83.1464,6834,6966,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-06-21,main_clean,private,2912,583,20.0206,0,0.0,0,0.0,0,0.0,2329,79.9794,6834,6966,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,all,6966,774,11.1111,0,0.0,0,0.0,0,0.0,6192,88.8889,6966,6748,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,multi,3757,398,10.5936,0,0.0,0,0.0,0,0.0,3359,89.4064,6966,6748,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,single,3209,376,11.717,0,0.0,0,0.0,0,0.0,2833,88.283,6966,6748,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,entire,4019,414,10.3011,0,0.0,0,0.0,0,0.0,3605,89.6989,6966,6748,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,private,2947,360,12.2158,0,0.0,0,0.0,0,0.0,2587,87.7842,6966,6748,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-03-25,pretrend_raw,all,6834,3292,48.1709,0,0.0,0,0.0,0,0.0,3542,51.8291,6834,4086,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-03-25,pretrend_raw,multi,3639,1686,46.3314,0,0.0,0,0.0,0,0.0,1953,53.6686,6834,4086,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-03-25,pretrend_raw,single,3195,1606,50.266,0,0.0,0,0.0,0,0.0,1589,49.734,6834,4086,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-03-25,pretrend_raw,entire,3922,1872,47.7307,0,0.0,0,0.0,0,0.0,2050,52.2693,6834,4086,0.0,0.0
+Ireland,Dublin,Ireland | Dublin,treat_eu,EU_noscheme,2025-12-16,2026-03-25,pretrend_raw,private,2912,1420,48.7637,0,0.0,0,0.0,0,0.0,1492,51.2363,6834,4086,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-06-21,main_clean,all,32220,4359,13.5289,0,0.0,0,0.0,0,0.0,27861,86.4711,32220,32434,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-06-21,main_clean,multi,15390,1892,12.2937,0,0.0,0,0.0,0,0.0,13498,87.7063,32220,32434,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-06-21,main_clean,single,16830,2467,14.6583,0,0.0,0,0.0,0,0.0,14363,85.3417,32220,32434,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-06-21,main_clean,entire,21711,2456,11.3122,0,0.0,0,0.0,0,0.0,19255,88.6878,32220,32434,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-06-21,main_clean,private,10509,1903,18.1083,0,0.0,0,0.0,0,0.0,8606,81.8917,32220,32434,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,all,32434,2188,6.746,0,0.0,0,0.0,0,0.0,30246,93.254,32434,32390,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,multi,16076,1145,7.1224,0,0.0,0,0.0,0,0.0,14931,92.8776,32434,32390,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,single,16358,1043,6.3761,0,0.0,0,0.0,0,0.0,15315,93.6239,32434,32390,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,entire,22332,1314,5.8839,0,0.0,0,0.0,0,0.0,21018,94.1161,32434,32390,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2026-06-21,2026-09-17,post_placebo,private,10102,874,8.6518,0,0.0,0,0.0,0,0.0,9228,91.3482,32434,32390,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-03-21,pretrend_raw,all,32220,8226,25.5307,0,0.0,0,0.0,0,0.0,23994,74.4693,32220,25972,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-03-21,pretrend_raw,multi,15390,3284,21.3385,0,0.0,0,0.0,0,0.0,12106,78.6615,32220,25972,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-03-21,pretrend_raw,single,16830,4942,29.3642,0,0.0,0,0.0,0,0.0,11888,70.6358,32220,25972,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-03-21,pretrend_raw,entire,21711,4692,21.6112,0,0.0,0,0.0,0,0.0,17019,78.3888,32220,25972,0.0,0.0
+Ireland,Ireland (nationwide),Ireland | Ireland (nationwide),treat_eu,EU_noscheme,2025-12-14,2026-03-21,pretrend_raw,private,10509,3534,33.6283,0,0.0,0,0.0,0,0.0,6975,66.3717,32220,25972,0.0,0.0
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,all,383,54,14.0992,21,5.483,0,0.0,0,0.0,308,80.4178,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,multi,238,33,13.8655,16,6.7227,0,0.0,0,0.0,189,79.4118,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,single,145,21,14.4828,5,3.4483,0,0.0,0,0.0,119,82.069,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,entire,175,34,19.4286,12,6.8571,0,0.0,0,0.0,129,73.7143,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,private,208,20,9.6154,9,4.3269,0,0.0,0,0.0,179,86.0577,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,had_number,3084,277,8.9818,2727,88.4241,0,0.0,0,0.0,80,2.594,3524,4237,87.5142,86.6887
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,all,516,31,6.0078,99,19.186,0,0.0,1,0.1938,385,74.6124,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,multi,346,18,5.2023,70,20.2312,0,0.0,0,0.0,258,74.5665,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,single,170,13,7.6471,29,17.0588,0,0.0,1,0.5882,127,74.7059,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,entire,259,20,7.722,84,32.4324,0,0.0,1,0.3861,154,59.4595,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,private,257,11,4.2802,15,5.8366,0,0.0,0,0.0,231,89.8833,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,had_number,3673,157,4.2744,3450,93.9287,0,0.0,0,0.0,66,1.7969,4237,4294,86.6887,87.7736
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,all,383,238,62.141,10,2.611,0,0.0,0,0.0,135,35.248,3524,3356,87.5142,94.5471
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,multi,238,97,40.7563,8,3.3613,0,0.0,0,0.0,133,55.8824,3524,3356,87.5142,94.5471
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,single,145,141,97.2414,2,1.3793,0,0.0,0,0.0,2,1.3793,3524,3356,87.5142,94.5471
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,entire,175,166,94.8571,9,5.1429,0,0.0,0,0.0,0,0.0,3524,3356,87.5142,94.5471
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,private,208,72,34.6154,1,0.4808,0,0.0,0,0.0,135,64.9038,3524,3356,87.5142,94.5471
+Italy,Bergamo,Italy | Bergamo,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,had_number,3084,425,13.7808,2653,86.0246,0,0.0,0,0.0,6,0.1946,3524,3356,87.5142,94.5471
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,all,142,9,6.338,0,0.0,0,0.0,0,0.0,133,93.662,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,multi,140,9,6.4286,0,0.0,0,0.0,0,0.0,131,93.5714,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,single,2,0,0.0,0,0.0,0,0.0,0,0.0,2,100.0,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,entire,1,0,0.0,0,0.0,0,0.0,0,0.0,1,100.0,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,private,141,9,6.383,0,0.0,0,0.0,0,0.0,132,93.617,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-03-27,2026-06-26,main_clean,had_number,3555,114,3.2068,3435,96.6245,0,0.0,0,0.0,6,0.1688,3736,4948,95.1552,86.3177
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,all,605,25,4.1322,9,1.4876,0,0.0,1,0.1653,570,94.2149,4948,5094,86.3177,83.8241
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,multi,392,15,3.8265,7,1.7857,0,0.0,0,0.0,370,94.3878,4948,5094,86.3177,83.8241
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,single,213,10,4.6948,2,0.939,0,0.0,1,0.4695,200,93.8967,4948,5094,86.3177,83.8241
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,entire,254,17,6.6929,6,2.3622,0,0.0,1,0.3937,230,90.5512,4948,5094,86.3177,83.8241
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,private,351,8,2.2792,3,0.8547,0,0.0,0,0.0,340,96.8661,4948,5094,86.3177,83.8241
+Italy,Bologna,Italy | Bologna,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,had_number,4271,106,2.4819,4034,94.4509,0,0.0,0,0.0,131,3.0672,4948,5094,86.3177,83.8241
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,all,1057,163,15.421,15,1.4191,0,0.0,2,0.1892,877,82.9707,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,multi,769,117,15.2146,6,0.7802,0,0.0,1,0.13,645,83.8752,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,single,288,46,15.9722,9,3.125,0,0.0,1,0.3472,232,80.5556,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,entire,448,76,16.9643,15,3.3482,0,0.0,2,0.4464,355,79.2411,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,private,609,87,14.2857,0,0.0,0,0.0,0,0.0,522,85.7143,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-06-26,main_clean,had_number,12143,1178,9.7011,10900,89.7636,0,0.0,0,0.0,65,0.5353,13327,13472,91.1158,90.5137
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,all,1148,94,8.1882,45,3.9199,1,0.0871,1,0.0871,1007,87.7178,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,multi,885,84,9.4915,36,4.0678,1,0.113,1,0.113,763,86.2147,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,single,263,10,3.8023,9,3.4221,0,0.0,0,0.0,244,92.7757,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,entire,459,29,6.3181,28,6.1002,0,0.0,1,0.2179,401,87.3638,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,private,689,65,9.434,17,2.4673,1,0.1451,0,0.0,606,87.9536,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2026-06-26,2026-09-19,post_placebo,had_number,12194,471,3.8626,11438,93.8002,0,0.0,0,0.0,285,2.3372,13472,13571,90.5137,88.4091
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,all,1057,767,72.5639,11,1.0407,0,0.0,0,0.0,279,26.3955,13327,10709,91.1158,96.5636
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,multi,769,487,63.329,6,0.7802,0,0.0,0,0.0,276,35.8908,13327,10709,91.1158,96.5636
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,single,288,280,97.2222,5,1.7361,0,0.0,0,0.0,3,1.0417,13327,10709,91.1158,96.5636
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,entire,448,432,96.4286,11,2.4554,0,0.0,0,0.0,5,1.1161,13327,10709,91.1158,96.5636
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,private,609,335,55.0082,0,0.0,0,0.0,0,0.0,274,44.9918,13327,10709,91.1158,96.5636
+Italy,Florence,Italy | Florence,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,had_number,12143,2443,20.1186,9676,79.6838,0,0.0,0,0.0,24,0.1976,13327,10709,91.1158,96.5636
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,all,3280,517,15.7622,80,2.439,0,0.0,11,0.3354,2672,81.4634,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,multi,1675,321,19.1642,38,2.2687,0,0.0,6,0.3582,1310,78.209,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,single,1605,196,12.2118,42,2.6168,0,0.0,5,0.3115,1362,84.8598,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,entire,2229,276,12.3822,68,3.0507,0,0.0,10,0.4486,1875,84.1184,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,private,1051,241,22.9305,12,1.1418,0,0.0,1,0.0951,797,75.8325,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,had_number,20025,2621,13.0886,17336,86.5718,2,0.01,0,0.0,66,0.3296,24107,25750,83.0672,84.8233
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,all,3251,232,7.1363,77,2.3685,0,0.0,8,0.2461,2934,90.2492,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,multi,1754,142,8.0958,55,3.1357,0,0.0,7,0.3991,1550,88.3694,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,single,1497,90,6.012,22,1.4696,0,0.0,1,0.0668,1384,92.4516,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,entire,2313,169,7.3065,67,2.8967,0,0.0,7,0.3026,2070,89.4942,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,private,938,63,6.7164,10,1.0661,0,0.0,1,0.1066,864,92.1109,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,had_number,21842,1726,7.9022,19562,89.5614,1,0.0046,0,0.0,553,2.5318,25750,25338,84.8233,82.4809
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,all,3280,3131,95.4573,45,1.372,0,0.0,5,0.1524,99,3.0183,24107,18835,83.0672,96.8569
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,multi,1675,1558,93.0149,21,1.2537,0,0.0,4,0.2388,92,5.4925,24107,18835,83.0672,96.8569
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,single,1605,1573,98.0062,24,1.4953,0,0.0,1,0.0623,7,0.4361,24107,18835,83.0672,96.8569
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,entire,2229,2182,97.8914,38,1.7048,0,0.0,3,0.1346,6,0.2692,24107,18835,83.0672,96.8569
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,private,1051,949,90.295,7,0.666,0,0.0,2,0.1903,93,8.8487,24107,18835,83.0672,96.8569
+Italy,Milan,Italy | Milan,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,had_number,20025,4316,21.5531,15683,78.3171,0,0.0,0,0.0,26,0.1298,24107,18835,83.0672,96.8569
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,all,2721,321,11.7971,27,0.9923,0,0.0,1,0.0368,2372,87.1738,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,multi,2166,261,12.0499,15,0.6925,0,0.0,0,0.0,1890,87.2576,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,single,555,60,10.8108,12,2.1622,0,0.0,1,0.1802,482,86.8468,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,entire,692,108,15.6069,15,2.1676,0,0.0,0,0.0,569,82.2254,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,private,2029,213,10.4978,12,0.5914,0,0.0,1,0.0493,1803,88.8615,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-06-25,main_clean,had_number,8246,871,10.5627,7266,88.1154,0,0.0,0,0.0,109,1.3219,11273,11575,73.1482,73.5637
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,all,2800,97,3.4643,23,0.8214,0,0.0,1,0.0357,2679,95.6786,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,multi,2288,78,3.4091,15,0.6556,0,0.0,0,0.0,2195,95.9353,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,single,512,19,3.7109,8,1.5625,0,0.0,1,0.1953,484,94.5312,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,entire,604,29,4.8013,7,1.1589,0,0.0,1,0.1656,567,93.8742,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,private,2196,68,3.0965,16,0.7286,0,0.0,0,0.0,2112,96.1749,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2026-06-25,2026-09-19,post_placebo,had_number,8515,354,4.1574,8006,94.0223,0,0.0,0,0.0,155,1.8203,11575,11737,73.5637,71.9008
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,all,2721,1547,56.8541,15,0.5513,0,0.0,1,0.0368,1158,42.5579,11273,8610,73.1482,83.2172
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,multi,2166,1001,46.2142,10,0.4617,0,0.0,1,0.0462,1154,53.2779,11273,8610,73.1482,83.2172
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,single,555,546,98.3784,5,0.9009,0,0.0,0,0.0,4,0.7207,11273,8610,73.1482,83.2172
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,entire,692,676,97.6879,10,1.4451,0,0.0,1,0.1445,5,0.7225,11273,8610,73.1482,83.2172
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,private,2029,871,42.9276,5,0.2464,0,0.0,0,0.0,1153,56.826,11273,8610,73.1482,83.2172
+Italy,Naples,Italy | Naples,treat_eu,EU_pretreated,2025-12-26,2026-03-27,pretrend_raw,had_number,8246,1531,18.5666,6636,80.4754,0,0.0,0,0.0,79,0.958,11273,8610,73.1482,83.2172
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,all,7059,892,12.6364,119,1.6858,0,0.0,1,0.0142,6047,85.6637,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,multi,4591,628,13.6789,62,1.3505,0,0.0,0,0.0,3901,84.9706,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,single,2468,264,10.6969,57,2.3096,0,0.0,1,0.0405,2146,86.953,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,entire,3523,430,12.2055,101,2.8669,0,0.0,1,0.0284,2991,84.8992,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,private,3536,462,13.0656,18,0.509,0,0.0,0,0.0,3056,86.4253,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,had_number,33219,3960,11.9209,28613,86.1344,0,0.0,0,0.0,646,1.9447,40664,48683,81.6914,81.4843
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,all,8603,365,4.2427,908,10.5545,2,0.0232,9,0.1046,7319,85.075,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,multi,6107,270,4.4212,774,12.674,1,0.0164,7,0.1146,5055,82.7739,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,single,2496,95,3.8061,134,5.3686,1,0.0401,2,0.0801,2264,90.7051,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,entire,4226,190,4.496,710,16.8008,1,0.0237,9,0.213,3316,78.4666,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,private,4377,175,3.9982,198,4.5236,1,0.0228,0,0.0,4003,91.4553,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,had_number,39669,2583,6.5114,36214,91.2904,0,0.0,0,0.0,872,2.1982,48683,48389,81.4843,81.5041
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,all,7059,4869,68.9758,67,0.9491,0,0.0,1,0.0142,2122,30.0609,40664,37151,81.6914,92.2317
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,multi,4591,2476,53.9316,30,0.6535,0,0.0,0,0.0,2085,45.4149,40664,37151,81.6914,92.2317
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,single,2468,2393,96.9611,37,1.4992,0,0.0,1,0.0405,37,1.4992,40664,37151,81.6914,92.2317
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,entire,3523,3440,97.6441,52,1.476,0,0.0,1,0.0284,30,0.8515,40664,37151,81.6914,92.2317
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,private,3536,1429,40.4129,15,0.4242,0,0.0,0,0.0,2092,59.1629,40664,37151,81.6914,92.2317
+Italy,Puglia,Italy | Puglia,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,had_number,33219,4932,14.8469,28187,84.852,0,0.0,0,0.0,100,0.301,40664,37151,81.6914,92.2317
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,all,4678,769,16.4386,73,1.5605,1,0.0214,4,0.0855,3831,81.894,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,multi,3124,492,15.749,42,1.3444,1,0.032,1,0.032,2588,82.8425,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,single,1554,277,17.825,31,1.9949,0,0.0,3,0.1931,1243,79.9871,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,entire,1628,293,17.9975,43,2.6413,1,0.0614,4,0.2457,1287,79.0541,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,private,3050,476,15.6066,30,0.9836,0,0.0,0,0.0,2544,83.4098,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-06-20,main_clean,had_number,32109,3161,9.8446,28817,89.7474,0,0.0,0,0.0,131,0.408,37162,37084,86.4028,87.1966
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,all,4413,228,5.1666,83,1.8808,0,0.0,2,0.0453,4100,92.9073,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,multi,3084,172,5.5772,58,1.8807,0,0.0,0,0.0,2854,92.5422,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,single,1329,56,4.2137,25,1.8811,0,0.0,2,0.1505,1246,93.7547,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,entire,1477,92,6.2288,59,3.9946,0,0.0,0,0.0,1326,89.7766,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,private,2936,136,4.6322,24,0.8174,0,0.0,2,0.0681,2774,94.4823,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2026-06-20,2026-09-17,post_placebo,had_number,32336,1309,4.0481,30318,93.7593,1,0.0031,0,0.0,708,2.1895,37084,37451,87.1966,85.1406
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,all,4678,3287,70.2651,46,0.9833,0,0.0,1,0.0214,1344,28.7302,37162,30063,86.4028,94.3319
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,multi,3124,1758,56.274,28,0.8963,0,0.0,1,0.032,1337,42.7977,37162,30063,86.4028,94.3319
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,single,1554,1529,98.3912,18,1.1583,0,0.0,0,0.0,7,0.4505,37162,30063,86.4028,94.3319
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,entire,1628,1595,97.973,26,1.5971,0,0.0,1,0.0614,6,0.3686,37162,30063,86.4028,94.3319
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,private,3050,1692,55.4754,20,0.6557,0,0.0,0,0.0,1338,43.8689,37162,30063,86.4028,94.3319
+Italy,Rome,Italy | Rome,treat_eu,EU_pretreated,2025-12-16,2026-03-24,pretrend_raw,had_number,32109,5514,17.1728,26522,82.5999,0,0.0,0,0.0,73,0.2274,37162,30063,86.4028,94.3319
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,all,9316,1010,10.8416,115,1.2344,0,0.0,7,0.0751,8184,87.8489,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,multi,5702,672,11.7853,73,1.2803,0,0.0,1,0.0175,4956,86.9169,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,single,3614,338,9.3525,42,1.1621,0,0.0,6,0.166,3228,89.3193,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,entire,5198,550,10.581,92,1.7699,0,0.0,7,0.1347,4549,87.5144,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,private,4118,460,11.1705,23,0.5585,0,0.0,0,0.0,3635,88.271,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-06-30,main_clean,had_number,39546,4111,10.3955,34775,87.9356,0,0.0,0,0.0,660,1.6689,49786,56873,79.432,78.7263
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,all,11072,492,4.4436,827,7.4693,4,0.0361,12,0.1084,9737,87.9426,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,multi,7204,365,5.0666,670,9.3004,3,0.0416,4,0.0555,6162,85.5358,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,single,3868,127,3.2834,157,4.0589,1,0.0259,8,0.2068,3575,92.425,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,entire,6183,262,4.2374,624,10.0922,3,0.0485,11,0.1779,5283,85.444,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,private,4889,230,4.7044,203,4.1522,1,0.0205,1,0.0205,4454,91.1025,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2026-06-30,2026-09-25,post_placebo,had_number,44774,2496,5.5747,41253,92.1361,1,0.0022,0,0.0,1024,2.287,56873,56783,78.7263,78.5957
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,all,9316,6972,74.839,63,0.6763,1,0.0107,1,0.0107,2279,24.4633,49786,42502,79.432,92.4615
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,multi,5702,3444,60.3999,36,0.6314,0,0.0,0,0.0,2222,38.9688,49786,42502,79.432,92.4615
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,single,3614,3528,97.6204,27,0.7471,1,0.0277,1,0.0277,57,1.5772,49786,42502,79.432,92.4615
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,entire,5198,5102,98.1531,46,0.885,1,0.0192,1,0.0192,48,0.9234,49786,42502,79.432,92.4615
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,private,4118,1870,45.4104,17,0.4128,0,0.0,0,0.0,2231,54.1768,49786,42502,79.432,92.4615
+Italy,Sicily,Italy | Sicily,treat_eu,EU_pretreated,2025-12-30,2026-03-31,pretrend_raw,had_number,39546,5415,13.6929,34028,86.0466,0,0.0,0,0.0,103,0.2605,49786,42502,79.432,92.4615
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,all,556,55,9.8921,25,4.4964,0,0.0,0,0.0,476,85.6115,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,multi,404,36,8.9109,13,3.2178,0,0.0,0,0.0,355,87.8713,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,single,152,19,12.5,12,7.8947,0,0.0,0,0.0,121,79.6053,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,entire,207,29,14.0097,17,8.2126,0,0.0,0,0.0,161,77.7778,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,private,349,26,7.4499,8,2.2923,0,0.0,0,0.0,315,90.2579,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-06-30,main_clean,had_number,7574,592,7.8162,6808,89.8865,0,0.0,0,0.0,174,2.2973,8174,10084,92.6597,90.4899
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,all,917,49,5.3435,235,25.627,0,0.0,1,0.1091,632,68.9204,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,multi,735,34,4.6259,198,26.9388,0,0.0,1,0.1361,502,68.2993,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,single,182,15,8.2418,37,20.3297,0,0.0,0,0.0,130,71.4286,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,entire,423,21,4.9645,192,45.3901,0,0.0,1,0.2364,209,49.409,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,private,494,28,5.668,43,8.7045,0,0.0,0,0.0,423,85.6275,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2026-06-30,2026-09-28,post_placebo,had_number,9125,449,4.9205,8501,93.1616,0,0.0,0,0.0,175,1.9178,10084,10237,90.4899,91.2474
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,all,556,291,52.3381,15,2.6978,0,0.0,0,0.0,250,44.964,8174,8007,92.6597,95.9036
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,multi,404,150,37.1287,7,1.7327,0,0.0,0,0.0,247,61.1386,8174,8007,92.6597,95.9036
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,single,152,141,92.7632,8,5.2632,0,0.0,0,0.0,3,1.9737,8174,8007,92.6597,95.9036
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,entire,207,196,94.686,11,5.314,0,0.0,0,0.0,0,0.0,8174,8007,92.6597,95.9036
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,private,349,95,27.2206,4,1.1461,0,0.0,0,0.0,250,71.6332,8174,8007,92.6597,95.9036
+Italy,Trentino,Italy | Trentino,treat_eu,EU_pretreated,2025-12-31,2026-03-31,pretrend_raw,had_number,7574,1053,13.9028,6499,85.8067,0,0.0,0,0.0,22,0.2905,8174,8007,92.6597,95.9036
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,all,628,148,23.5669,9,1.4331,0,0.0,0,0.0,471,75.0,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,multi,423,97,22.9314,6,1.4184,0,0.0,0,0.0,320,75.6501,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,single,205,51,24.878,3,1.4634,0,0.0,0,0.0,151,73.6585,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,entire,244,71,29.0984,8,3.2787,0,0.0,0,0.0,165,67.623,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,private,384,77,20.0521,1,0.2604,0,0.0,0,0.0,306,79.6875,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-06-15,main_clean,had_number,7944,808,10.1712,7119,89.6148,0,0.0,0,0.0,17,0.214,8605,8766,92.3184,93.6687
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,all,528,31,5.8712,2,0.3788,0,0.0,0,0.0,495,93.75,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,multi,373,26,6.9705,2,0.5362,0,0.0,0,0.0,345,92.4933,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,single,155,5,3.2258,0,0.0,0,0.0,0,0.0,150,96.7742,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,entire,177,12,6.7797,0,0.0,0,0.0,0,0.0,165,93.2203,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,private,351,19,5.4131,2,0.5698,0,0.0,0,0.0,330,94.0171,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,had_number,8211,333,4.0555,7701,93.7888,0,0.0,0,0.0,177,2.1556,8766,8844,93.6687,91.3501
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,all,628,313,49.8408,2,0.3185,0,0.0,0,0.0,313,49.8408,8605,7865,92.3184,95.2575
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,multi,423,188,44.4444,1,0.2364,0,0.0,0,0.0,234,55.3191,8605,7865,92.3184,95.2575
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,single,205,125,60.9756,1,0.4878,0,0.0,0,0.0,79,38.5366,8605,7865,92.3184,95.2575
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,entire,244,143,58.6066,2,0.8197,0,0.0,0,0.0,99,40.5738,8605,7865,92.3184,95.2575
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,private,384,170,44.2708,0,0.0,0,0.0,0,0.0,214,55.7292,8605,7865,92.3184,95.2575
+Italy,Venice,Italy | Venice,treat_eu,EU_pretreated,2025-12-11,2026-03-19,pretrend_raw,had_number,7944,921,11.5937,7008,88.2175,0,0.0,0,0.0,15,0.1888,8605,7865,92.3184,95.2575
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,all,2736,233,8.5161,0,0.0,0,0.0,0,0.0,2503,91.4839,2736,3471,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,multi,1869,128,6.8486,0,0.0,0,0.0,0,0.0,1741,93.1514,2736,3471,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,single,867,105,12.1107,0,0.0,0,0.0,0,0.0,762,87.8893,2736,3471,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,entire,2553,217,8.4998,0,0.0,0,0.0,0,0.0,2336,91.5002,2736,3471,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,private,183,16,8.7432,0,0.0,0,0.0,0,0.0,167,91.2568,2736,3471,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,all,3471,275,7.9228,0,0.0,0,0.0,0,0.0,3196,92.0772,3471,3420,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,multi,2489,196,7.8746,0,0.0,0,0.0,0,0.0,2293,92.1254,3471,3420,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,single,982,79,8.0448,0,0.0,0,0.0,0,0.0,903,91.9552,3471,3420,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,entire,3193,226,7.078,0,0.0,0,0.0,0,0.0,2967,92.922,3471,3420,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,private,278,49,17.6259,0,0.0,0,0.0,0,0.0,229,82.3741,3471,3420,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,all,2736,394,14.4006,0,0.0,0,0.0,0,0.0,2342,85.5994,2736,2628,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,multi,1869,250,13.3761,0,0.0,0,0.0,0,0.0,1619,86.6239,2736,2628,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,single,867,144,16.609,0,0.0,0,0.0,0,0.0,723,83.391,2736,2628,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,entire,2553,348,13.631,0,0.0,0,0.0,0,0.0,2205,86.369,2736,2628,0.0,0.0
+Latvia,Riga,Latvia | Riga,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,private,183,46,25.1366,0,0.0,0,0.0,0,0.0,137,74.8634,2736,2628,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-06-28,main_clean,all,11834,1982,16.7484,0,0.0,0,0.0,0,0.0,9852,83.2516,11834,13155,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-06-28,main_clean,multi,9327,1513,16.2217,0,0.0,0,0.0,0,0.0,7814,83.7783,11834,13155,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-06-28,main_clean,single,2507,469,18.7076,0,0.0,0,0.0,0,0.0,2038,81.2924,11834,13155,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-06-28,main_clean,entire,8900,1362,15.3034,0,0.0,0,0.0,0,0.0,7538,84.6966,11834,13155,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-06-28,main_clean,private,2934,620,21.1316,0,0.0,0,0.0,0,0.0,2314,78.8684,11834,13155,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2026-06-28,2026-09-21,post_placebo,all,13155,1261,9.5857,0,0.0,0,0.0,0,0.0,11894,90.4143,13155,13256,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2026-06-28,2026-09-21,post_placebo,multi,10676,1063,9.9569,0,0.0,0,0.0,0,0.0,9613,90.0431,13155,13256,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2026-06-28,2026-09-21,post_placebo,single,2479,198,7.9871,0,0.0,0,0.0,0,0.0,2281,92.0129,13155,13256,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2026-06-28,2026-09-21,post_placebo,entire,9952,871,8.752,0,0.0,0,0.0,0,0.0,9081,91.248,13155,13256,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2026-06-28,2026-09-21,post_placebo,private,3203,390,12.1761,0,0.0,0,0.0,0,0.0,2813,87.8239,13155,13256,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-03-30,pretrend_raw,all,11834,2002,16.9174,0,0.0,0,0.0,0,0.0,9832,83.0826,11834,11646,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-03-30,pretrend_raw,multi,9327,1490,15.9751,0,0.0,0,0.0,0,0.0,7837,84.0249,11834,11646,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-03-30,pretrend_raw,single,2507,512,20.4228,0,0.0,0,0.0,0,0.0,1995,79.5772,11834,11646,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-03-30,pretrend_raw,entire,8900,1354,15.2135,0,0.0,0,0.0,0,0.0,7546,84.7865,11834,11646,0.0,0.0
+Malta,Malta (nationwide),Malta | Malta (nationwide),treat_eu,EU_unconfirmed,2025-12-28,2026-03-30,pretrend_raw,private,2934,648,22.0859,0,0.0,0,0.0,0,0.0,2286,77.9141,11834,11646,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-05-23,main_clean,all,49076,2964,6.0396,0,0.0,0,0.0,0,0.0,46112,93.9604,49076,49305,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-05-23,main_clean,multi,25843,1662,6.4311,0,0.0,0,0.0,0,0.0,24181,93.5689,49076,49305,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-05-23,main_clean,single,23233,1302,5.6041,0,0.0,0,0.0,0,0.0,21931,94.3959,49076,49305,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-05-23,main_clean,entire,40389,2442,6.0462,0,0.0,0,0.0,0,0.0,37947,93.9538,49076,49305,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-05-23,main_clean,private,8687,522,6.009,0,0.0,0,0.0,0,0.0,8165,93.991,49076,49305,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-05-23,2026-09-13,post_placebo,all,49305,3630,7.3623,0,0.0,0,0.0,0,0.0,45675,92.6377,49305,51658,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-05-23,2026-09-13,post_placebo,multi,25961,1829,7.0452,0,0.0,0,0.0,0,0.0,24132,92.9548,49305,51658,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-05-23,2026-09-13,post_placebo,single,23344,1801,7.715,0,0.0,0,0.0,0,0.0,21543,92.285,49305,51658,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-05-23,2026-09-13,post_placebo,entire,40469,2868,7.0869,0,0.0,0,0.0,0,0.0,37601,92.9131,49305,51658,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-05-23,2026-09-13,post_placebo,private,8836,762,8.6238,0,0.0,0,0.0,0,0.0,8074,91.3762,49305,51658,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-04-16,pretrend_raw,all,49076,1649,3.3601,0,0.0,0,0.0,0,0.0,47427,96.6399,49076,48951,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-04-16,pretrend_raw,multi,25843,934,3.6141,0,0.0,0,0.0,0,0.0,24909,96.3859,49076,48951,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-04-16,pretrend_raw,single,23233,715,3.0775,0,0.0,0,0.0,0,0.0,22518,96.9225,49076,48951,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-04-16,pretrend_raw,entire,40389,1393,3.449,0,0.0,0,0.0,0,0.0,38996,96.551,49076,48951,0.0,0.0
+New Zealand,New Zealand (nationwide),New Zealand | New Zealand (nationwide),control_noneu,nonEU,2026-03-17,2026-04-16,pretrend_raw,private,8687,256,2.9469,0,0.0,0,0.0,0,0.0,8431,97.0531,49076,48951,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-06-30,main_clean,all,8443,1664,19.7086,0,0.0,0,0.0,0,0.0,6779,80.2914,8443,13391,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-06-30,main_clean,multi,1569,280,17.8458,0,0.0,0,0.0,0,0.0,1289,82.1542,8443,13391,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-06-30,main_clean,single,6874,1384,20.1338,0,0.0,0,0.0,0,0.0,5490,79.8662,8443,13391,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-06-30,main_clean,entire,7389,1442,19.5155,0,0.0,0,0.0,0,0.0,5947,80.4845,8443,13391,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-06-30,main_clean,private,1054,222,21.0626,0,0.0,0,0.0,0,0.0,832,78.9374,8443,13391,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,all,13391,1666,12.4412,0,0.0,0,0.0,0,0.0,11725,87.5588,13391,13089,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,multi,2576,386,14.9845,0,0.0,0,0.0,0,0.0,2190,85.0155,13391,13089,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,single,10815,1280,11.8354,0,0.0,0,0.0,0,0.0,9535,88.1646,13391,13089,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,entire,11929,1447,12.1301,0,0.0,0,0.0,0,0.0,10482,87.8699,13391,13089,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,private,1462,219,14.9795,0,0.0,0,0.0,0,0.0,1243,85.0205,13391,13089,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-03-31,pretrend_raw,all,8443,2252,26.673,0,0.0,0,0.0,0,0.0,6191,73.327,8443,7901,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-03-31,pretrend_raw,multi,1569,393,25.0478,0,0.0,0,0.0,0,0.0,1176,74.9522,8443,7901,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-03-31,pretrend_raw,single,6874,1859,27.0439,0,0.0,0,0.0,0,0.0,5015,72.9561,8443,7901,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-03-31,pretrend_raw,entire,7389,1960,26.5259,0,0.0,0,0.0,0,0.0,5429,73.4741,8443,7901,0.0,0.0
+Norway,Oslo,Norway | Oslo,eea_noneu,EEA_nonEU,2025-12-30,2026-03-31,pretrend_raw,private,1054,292,27.704,0,0.0,0,0.0,0,0.0,762,72.296,8443,7901,0.0,0.0
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,all,1171,231,19.7267,21,1.7933,13,1.1102,0,0.0,906,77.3698,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,multi,635,109,17.1654,12,1.8898,3,0.4724,0,0.0,511,80.4724,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,single,536,122,22.7612,9,1.6791,10,1.8657,0,0.0,395,73.694,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,entire,853,136,15.9437,14,1.6413,4,0.4689,0,0.0,699,81.9461,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,private,318,95,29.8742,7,2.2013,9,2.8302,0,0.0,207,65.0943,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,had_number,19136,2179,11.3869,16894,88.2839,12,0.0627,0,0.0,51,0.2665,25277,24876,75.7052,76.4592
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,all,1042,53,5.0864,39,3.7428,14,1.3436,0,0.0,936,89.8273,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,multi,615,28,4.5528,30,4.878,9,1.4634,0,0.0,548,89.1057,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,single,427,25,5.8548,9,2.1077,5,1.171,0,0.0,388,90.8665,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,entire,777,37,4.7619,31,3.9897,8,1.0296,0,0.0,701,90.2188,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,private,265,16,6.0377,8,3.0189,6,2.2642,0,0.0,235,88.6792,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,had_number,19020,945,4.9685,17482,91.9138,18,0.0946,0,0.0,575,3.0231,24876,25020,76.4592,74.5883
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,all,1171,54,4.6114,20,1.7079,16,1.3664,0,0.0,1081,92.3143,25277,24950,75.7052,76.8297
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,multi,635,33,5.1969,11,1.7323,4,0.6299,0,0.0,587,92.4409,25277,24950,75.7052,76.8297
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,single,536,21,3.9179,9,1.6791,12,2.2388,0,0.0,494,92.1642,25277,24950,75.7052,76.8297
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,entire,853,36,4.2204,15,1.7585,6,0.7034,0,0.0,796,93.3177,25277,24950,75.7052,76.8297
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,private,318,18,5.6604,5,1.5723,10,3.1447,0,0.0,285,89.6226,25277,24950,75.7052,76.8297
+Portugal,Lisbon,Portugal | Lisbon,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,had_number,19136,1001,5.231,18071,94.4346,1,0.0052,0,0.0,63,0.3292,25277,24950,75.7052,76.8297
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,all,287,72,25.0871,8,2.7875,1,0.3484,0,0.0,206,71.777,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,multi,117,15,12.8205,3,2.5641,0,0.0,0,0.0,99,84.6154,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,single,170,57,33.5294,5,2.9412,1,0.5882,0,0.0,107,62.9412,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,entire,201,40,19.9005,7,3.4826,1,0.4975,0,0.0,153,76.1194,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,private,86,32,37.2093,1,1.1628,0,0.0,0,0.0,53,61.6279,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-06-23,main_clean,had_number,13287,1289,9.7012,11977,90.1407,1,0.0075,0,0.0,20,0.1505,14999,15278,88.5859,89.0038
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,all,244,9,3.6885,21,8.6066,1,0.4098,0,0.0,213,87.2951,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,multi,129,3,2.3256,17,13.1783,0,0.0,0,0.0,109,84.4961,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,single,115,6,5.2174,4,3.4783,1,0.8696,0,0.0,104,90.4348,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,entire,180,6,3.3333,19,10.5556,0,0.0,0,0.0,155,86.1111,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,private,64,3,4.6875,2,3.125,1,1.5625,0,0.0,58,90.625,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2026-06-23,2026-09-19,post_placebo,had_number,13598,507,3.7285,12632,92.896,0,0.0,0,0.0,459,3.3755,15278,15551,89.0038,85.898
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,all,287,3,1.0453,10,3.4843,2,0.6969,0,0.0,272,94.7735,14999,15246,88.5859,88.8364
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,multi,117,0,0.0,3,2.5641,0,0.0,0,0.0,114,97.4359,14999,15246,88.5859,88.8364
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,single,170,3,1.7647,7,4.1176,2,1.1765,0,0.0,158,92.9412,14999,15246,88.5859,88.8364
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,entire,201,1,0.4975,7,3.4826,1,0.4975,0,0.0,192,95.5224,14999,15246,88.5859,88.8364
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,private,86,2,2.3256,3,3.4884,1,1.1628,0,0.0,80,93.0233,14999,15246,88.5859,88.8364
+Portugal,Porto,Portugal | Porto,treat_eu,EU_pretreated,2025-12-25,2026-03-26,pretrend_raw,had_number,13287,558,4.1996,12700,95.5821,1,0.0075,0,0.0,28,0.2107,14999,15246,88.5859,88.8364
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,all,7163,3158,44.0877,264,3.6856,1065,14.8681,0,0.0,2676,37.3586,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,multi,4424,1922,43.4448,209,4.7242,868,19.6203,0,0.0,1425,32.2107,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,single,2739,1236,45.126,55,2.008,197,7.1924,0,0.0,1251,45.6736,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,entire,3106,1116,35.9305,211,6.7933,772,24.8551,0,0.0,1007,32.4211,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,private,4057,2042,50.3328,53,1.3064,293,7.2221,0,0.0,1669,41.1388,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-06-24,main_clean,had_number,10404,1900,18.2622,6895,66.2726,1574,15.1288,0,0.0,35,0.3364,18177,15293,57.2372,54.4432
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,all,3043,395,12.9806,21,0.6901,18,0.5915,0,0.0,2609,85.7378,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,multi,1632,259,15.8701,14,0.8578,17,1.0417,0,0.0,1342,82.2304,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,single,1411,136,9.6386,7,0.4961,1,0.0709,0,0.0,1267,89.7945,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,entire,1139,235,20.6321,14,1.2291,7,0.6146,0,0.0,883,77.5241,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,private,1904,160,8.4034,7,0.3676,11,0.5777,0,0.0,1726,90.6513,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2026-06-24,2026-09-17,post_placebo,had_number,8326,897,10.7735,5566,66.8508,1,0.012,0,0.0,1862,22.3637,15293,15236,54.4432,41.5398
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,all,7163,1519,21.2062,722,10.0796,516,7.2037,0,0.0,4406,61.5105,18177,16107,57.2372,58.3349
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,multi,4424,1060,23.9602,630,14.2405,427,9.6519,0,0.0,2307,52.1474,18177,16107,57.2372,58.3349
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,single,2739,459,16.7579,92,3.3589,89,3.2494,0,0.0,2099,76.6338,18177,16107,57.2372,58.3349
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,entire,3106,800,25.7566,389,12.5241,373,12.009,0,0.0,1544,49.7102,18177,16107,57.2372,58.3349
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,private,4057,719,17.7225,333,8.208,143,3.5248,0,0.0,2862,70.5447,18177,16107,57.2372,58.3349
+Spain,Barcelona,Spain | Barcelona,treat_eu,EU_reversal,2025-12-14,2026-03-21,pretrend_raw,had_number,10404,1565,15.0423,7956,76.4706,871,8.3718,0,0.0,12,0.1153,18177,16107,57.2372,58.3349
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,all,779,185,23.7484,70,8.9859,137,17.5866,0,0.0,387,49.6791,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,multi,440,86,19.5455,40,9.0909,127,28.8636,0,0.0,187,42.5,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,single,339,99,29.2035,30,8.8496,10,2.9499,0,0.0,200,58.9971,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,entire,221,50,22.6244,39,17.6471,21,9.5023,0,0.0,111,50.2262,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,private,558,135,24.1935,31,5.5556,116,20.7885,0,0.0,276,49.4624,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,had_number,3950,240,6.0759,3470,87.8481,154,3.8987,0,0.0,86,2.1772,5460,6248,72.3443,68.2458
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,all,738,61,8.2656,81,10.9756,41,5.5556,0,0.0,555,75.2033,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,multi,430,28,6.5116,56,13.0233,38,8.8372,0,0.0,308,71.6279,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,single,308,33,10.7143,25,8.1169,3,0.974,0,0.0,247,80.1948,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,entire,290,31,10.6897,76,26.2069,18,6.2069,0,0.0,165,56.8966,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,private,448,30,6.6964,5,1.1161,23,5.1339,0,0.0,390,87.0536,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,had_number,4264,191,4.4794,3858,90.4784,0,0.0,0,0.0,215,5.0422,6248,6248,68.2458,65.2049
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,all,779,245,31.4506,60,7.7022,87,11.1682,0,0.0,387,49.6791,5460,5111,72.3443,73.469
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,multi,440,126,28.6364,35,7.9545,85,19.3182,0,0.0,194,44.0909,5460,5111,72.3443,73.469
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,single,339,119,35.1032,25,7.3746,2,0.59,0,0.0,193,56.9322,5460,5111,72.3443,73.469
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,entire,221,91,41.1765,32,14.4796,7,3.1674,0,0.0,91,41.1765,5460,5111,72.3443,73.469
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,private,558,154,27.5986,28,5.0179,80,14.3369,0,0.0,296,53.0466,5460,5111,72.3443,73.469
+Spain,Euskadi,Spain | Euskadi,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,had_number,3950,489,12.3797,3370,85.3165,84,2.1266,0,0.0,7,0.1772,5460,5111,72.3443,73.469
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,all,1028,376,36.5759,143,13.9105,72,7.0039,0,0.0,437,42.5097,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,multi,594,273,45.9596,72,12.1212,43,7.2391,0,0.0,206,34.6801,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,single,434,103,23.7327,71,16.3594,29,6.682,0,0.0,231,53.2258,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,entire,830,339,40.8434,128,15.4217,46,5.5422,0,0.0,317,38.1928,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,private,198,37,18.6869,15,7.5758,26,13.1313,0,0.0,120,60.6061,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,had_number,15548,1420,9.133,13197,84.8791,603,3.8783,0,0.0,328,2.1096,17069,21257,91.0891,87.5523
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,all,1134,276,24.3386,386,34.0388,51,4.4974,0,0.0,421,37.1252,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,multi,754,118,15.6499,316,41.9098,38,5.0398,0,0.0,282,37.4005,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,single,380,158,41.5789,70,18.4211,13,3.4211,0,0.0,139,36.5789,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,entire,947,198,20.9081,373,39.3875,31,3.2735,0,0.0,345,36.4308,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,private,187,78,41.7112,13,6.9519,20,10.6952,0,0.0,76,40.6417,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,had_number,18611,1387,7.4526,15284,82.1235,1,0.0054,0,0.0,1939,10.4186,21257,20470,87.5523,80.2931
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,all,1028,642,62.4514,94,9.144,25,2.4319,0,0.0,267,25.9728,17069,16834,91.0891,92.5211
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,multi,594,398,67.0034,52,8.7542,21,3.5354,0,0.0,123,20.7071,17069,16834,91.0891,92.5211
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,single,434,244,56.2212,42,9.6774,4,0.9217,0,0.0,144,33.1797,17069,16834,91.0891,92.5211
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,entire,830,534,64.3373,86,10.3614,9,1.0843,0,0.0,201,24.2169,17069,16834,91.0891,92.5211
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,private,198,108,54.5455,8,4.0404,16,8.0808,0,0.0,66,33.3333,17069,16834,91.0891,92.5211
+Spain,Girona,Spain | Girona,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,had_number,15548,2794,17.9702,12367,79.5408,352,2.264,0,0.0,35,0.2251,17069,16834,91.0891,92.5211
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,all,13849,4051,29.2512,598,4.318,1775,12.8168,0,0.0,7425,53.614,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,multi,8339,2043,24.4993,469,5.6242,1488,17.8439,0,0.0,4339,52.0326,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,single,5510,2008,36.4428,129,2.3412,287,5.2087,0,0.0,3086,56.0073,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,entire,7567,1997,26.3909,482,6.3698,1215,16.0566,0,0.0,3873,51.1828,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,private,6282,2054,32.6966,116,1.8465,560,8.9144,0,0.0,3552,56.5425,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-06-20,main_clean,had_number,9344,1289,13.7949,3568,38.1849,4463,47.7633,0,0.0,24,0.2568,24616,22708,37.9591,21.6532
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,all,8056,651,8.0809,24,0.2979,18,0.2234,0,0.0,7363,91.3977,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,multi,4694,428,9.118,19,0.4048,15,0.3196,0,0.0,4232,90.1576,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,single,3362,223,6.633,5,0.1487,3,0.0892,0,0.0,3131,93.1291,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,entire,4133,323,7.8151,23,0.5565,14,0.3387,0,0.0,3773,91.2896,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,private,3923,328,8.3609,1,0.0255,4,0.102,0,0.0,3590,91.5116,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2026-06-20,2026-09-17,post_placebo,had_number,4917,429,8.7248,3320,67.5208,14,0.2847,0,0.0,1154,23.4696,22708,23109,21.6532,16.6732
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,all,13849,1922,13.8783,941,6.7947,266,1.9207,0,0.0,10720,77.4063,24616,23002,37.9591,44.8787
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,multi,8339,1167,13.9945,728,8.7301,249,2.986,0,0.0,6195,74.2895,24616,23002,37.9591,44.8787
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,single,5510,755,13.7024,213,3.8657,17,0.3085,0,0.0,4525,82.1234,24616,23002,37.9591,44.8787
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,entire,7567,1088,14.3782,751,9.9247,144,1.903,0,0.0,5584,73.7941,24616,23002,37.9591,44.8787
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,private,6282,834,13.276,190,3.0245,122,1.9421,0,0.0,5136,81.7574,24616,23002,37.9591,44.8787
+Spain,Madrid,Spain | Madrid,treat_eu,EU_reversal,2025-12-14,2026-03-24,pretrend_raw,had_number,9344,1012,10.8305,8208,87.8425,118,1.2628,0,0.0,6,0.0642,24616,23002,37.9591,44.8787
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,all,996,164,16.4659,402,40.3614,99,9.9398,0,0.0,331,33.2329,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,multi,646,86,13.3127,264,40.8669,79,12.2291,0,0.0,217,33.5913,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,single,350,78,22.2857,138,39.4286,20,5.7143,0,0.0,114,32.5714,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,entire,636,86,13.522,325,51.1006,55,8.6478,0,0.0,170,26.7296,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,private,360,78,21.6667,77,21.3889,44,12.2222,0,0.0,161,44.7222,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,had_number,7376,741,10.0461,6273,85.0461,151,2.0472,0,0.0,211,2.8606,8811,9568,83.7135,83.7166
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,all,699,70,10.0143,183,26.1803,22,3.1474,0,0.0,424,60.6581,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,multi,520,58,11.1538,151,29.0385,20,3.8462,0,0.0,291,55.9615,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,single,179,12,6.7039,32,17.8771,2,1.1173,0,0.0,133,74.3017,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,entire,474,41,8.6498,165,34.8101,18,3.7975,0,0.0,250,52.7426,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,private,225,29,12.8889,18,8.0,4,1.7778,0,0.0,174,77.3333,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,had_number,8010,384,4.794,6227,77.7403,0,0.0,0,0.0,1399,17.4657,9568,9505,83.7166,71.0994
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,all,996,327,32.8313,300,30.1205,44,4.4177,0,0.0,325,32.6305,8811,8098,83.7135,87.5401
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,multi,646,197,30.4954,200,30.9598,36,5.5728,0,0.0,213,32.9721,8811,8098,83.7135,87.5401
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,single,350,130,37.1429,100,28.5714,8,2.2857,0,0.0,112,32.0,8811,8098,83.7135,87.5401
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,entire,636,193,30.3459,236,37.1069,26,4.0881,0,0.0,181,28.4591,8811,8098,83.7135,87.5401
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,private,360,134,37.2222,64,17.7778,18,5.0,0,0.0,144,40.0,8811,8098,83.7135,87.5401
+Spain,Malaga,Spain | Malaga,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,had_number,7376,1114,15.103,6108,82.8091,139,1.8845,0,0.0,15,0.2034,8811,8098,83.7135,87.5401
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,all,20,12,60.0,6,30.0,1,5.0,0,0.0,1,5.0,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,multi,8,4,50.0,4,50.0,0,0.0,0,0.0,0,0.0,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,single,12,8,66.6667,2,16.6667,1,8.3333,0,0.0,1,8.3333,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,entire,17,9,52.9412,6,35.2941,1,5.8824,0,0.0,1,5.8824,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,private,3,3,100.0,0,0.0,0,0.0,0,0.0,0,0.0,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-06-23,main_clean,had_number,12317,1181,9.5884,10528,85.4754,567,4.6034,0,0.0,39,0.3166,12927,14817,95.2812,88.6347
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,all,63,8,12.6984,37,58.7302,3,4.7619,0,0.0,15,23.8095,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,multi,54,6,11.1111,35,64.8148,3,5.5556,0,0.0,10,18.5185,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,single,9,2,22.2222,2,22.2222,0,0.0,0,0.0,5,55.5556,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,entire,51,7,13.7255,37,72.549,2,3.9216,0,0.0,5,9.8039,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,private,12,1,8.3333,0,0.0,1,8.3333,0,0.0,10,83.3333,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2026-06-23,2026-09-19,post_placebo,had_number,13133,898,6.8377,11576,88.1444,0,0.0,0,0.0,659,5.0179,14817,14901,88.6347,82.9072
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,all,20,13,65.0,6,30.0,0,0.0,0,0.0,1,5.0,12927,12478,95.2812,93.7089
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,multi,8,5,62.5,3,37.5,0,0.0,0,0.0,0,0.0,12927,12478,95.2812,93.7089
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,single,12,8,66.6667,3,25.0,0,0.0,0,0.0,1,8.3333,12927,12478,95.2812,93.7089
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,entire,17,10,58.8235,6,35.2941,0,0.0,0,0.0,1,5.8824,12927,12478,95.2812,93.7089
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,private,3,3,100.0,0,0.0,0,0.0,0,0.0,0,0.0,12927,12478,95.2812,93.7089
+Spain,Mallorca,Spain | Mallorca,treat_eu,EU_reversal,2025-12-25,2026-03-26,pretrend_raw,had_number,12317,2098,17.0334,10027,81.4078,182,1.4776,0,0.0,8,0.065,12927,12478,95.2812,93.7089
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,all,4,3,75.0,1,25.0,0,0.0,0,0.0,0,0.0,2748,3620,92.6492,83.4254
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,multi,1,1,100.0,0,0.0,0,0.0,0,0.0,0,0.0,2748,3620,92.6492,83.4254
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,single,3,2,66.6667,1,33.3333,0,0.0,0,0.0,0,0.0,2748,3620,92.6492,83.4254
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,entire,4,3,75.0,1,25.0,0,0.0,0,0.0,0,0.0,2748,3620,92.6492,83.4254
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-06-30,main_clean,had_number,2546,175,6.8735,2174,85.3888,105,4.1241,0,0.0,92,3.6135,2748,3620,92.6492,83.4254
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,all,153,7,4.5752,110,71.8954,21,13.7255,0,0.0,15,9.8039,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,multi,126,3,2.381,91,72.2222,19,15.0794,0,0.0,13,10.3175,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,single,27,4,14.8148,19,70.3704,2,7.4074,0,0.0,2,7.4074,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,entire,146,7,4.7945,107,73.2877,17,11.6438,0,0.0,15,10.274,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,private,7,0,0.0,3,42.8571,4,57.1429,0,0.0,0,0.0,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2026-06-30,2026-09-28,post_placebo,had_number,3020,100,3.3113,2801,92.7483,0,0.0,0,0.0,119,3.9404,3620,3625,83.4254,83.6414
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,all,4,2,50.0,2,50.0,0,0.0,0,0.0,0,0.0,2748,3048,92.6492,89.6654
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,multi,1,1,100.0,0,0.0,0,0.0,0,0.0,0,0.0,2748,3048,92.6492,89.6654
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,single,3,1,33.3333,2,66.6667,0,0.0,0,0.0,0,0.0,2748,3048,92.6492,89.6654
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,entire,4,2,50.0,2,50.0,0,0.0,0,0.0,0,0.0,2748,3048,92.6492,89.6654
+Spain,Menorca,Spain | Menorca,treat_eu,EU_reversal,2025-12-31,2026-03-31,pretrend_raw,had_number,2546,350,13.7471,2121,83.3071,68,2.6709,0,0.0,7,0.2749,2748,3048,92.6492,89.6654
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,all,717,110,15.3417,273,38.0753,123,17.1548,0,0.0,211,29.4282,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,multi,445,56,12.5843,172,38.6517,102,22.9213,0,0.0,115,25.8427,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,single,272,54,19.8529,101,37.1324,21,7.7206,0,0.0,96,35.2941,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,entire,422,43,10.1896,206,48.8152,65,15.4028,0,0.0,108,25.5924,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,private,295,67,22.7119,67,22.7119,58,19.661,0,0.0,103,34.9153,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-06-30,main_clean,had_number,6193,521,8.4127,5310,85.742,209,3.3748,0,0.0,153,2.4705,7674,8245,80.7011,78.399
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,all,519,30,5.7803,148,28.5164,27,5.2023,0,0.0,314,60.501,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,multi,341,20,5.8651,106,31.085,25,7.3314,0,0.0,190,55.7185,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,single,178,10,5.618,42,23.5955,2,1.1236,0,0.0,124,69.6629,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,entire,351,15,4.2735,134,38.1766,18,5.1282,0,0.0,184,52.4217,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,private,168,15,8.9286,14,8.3333,9,5.3571,0,0.0,130,77.381,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2026-06-30,2026-09-25,post_placebo,had_number,6464,232,3.5891,5100,78.8985,0,0.0,0,0.0,1132,17.5124,8245,8375,78.399,66.603
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,all,717,231,32.2176,206,28.7308,33,4.6025,0,0.0,247,34.4491,7674,7093,80.7011,82.7576
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,multi,445,137,30.7865,126,28.3146,31,6.9663,0,0.0,151,33.9326,7674,7093,80.7011,82.7576
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,single,272,94,34.5588,80,29.4118,2,0.7353,0,0.0,96,35.2941,7674,7093,80.7011,82.7576
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,entire,422,117,27.7251,171,40.5213,18,4.2654,0,0.0,116,27.4882,7674,7093,80.7011,82.7576
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,private,295,114,38.6441,35,11.8644,15,5.0847,0,0.0,131,44.4068,7674,7093,80.7011,82.7576
+Spain,Sevilla,Spain | Sevilla,treat_eu,EU_reversal,2025-12-30,2026-03-31,pretrend_raw,had_number,6193,853,13.7736,5171,83.4975,161,2.5997,0,0.0,8,0.1292,7674,7093,80.7011,82.7576
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,all,2483,671,27.0238,213,8.5783,311,12.5252,0,0.0,1288,51.8727,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,multi,1538,378,24.5774,152,9.883,242,15.7347,0,0.0,766,49.8049,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,single,945,293,31.0053,61,6.455,69,7.3016,0,0.0,522,55.2381,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,entire,1114,241,21.6338,174,15.6194,204,18.3124,0,0.0,495,44.4345,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,private,1369,430,31.4098,39,2.8488,107,7.8159,0,0.0,793,57.9255,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-06-26,main_clean,had_number,4751,508,10.6925,3351,70.5325,886,18.6487,0,0.0,6,0.1263,7702,7851,61.6853,51.9552
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,all,1502,200,13.3156,3,0.1997,9,0.5992,0,0.0,1290,85.8855,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,multi,908,134,14.7577,2,0.2203,9,0.9912,0,0.0,763,84.0308,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,single,594,66,11.1111,1,0.1684,0,0.0,0,0.0,527,88.7205,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,entire,582,60,10.3093,3,0.5155,9,1.5464,0,0.0,510,87.6289,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,private,920,140,15.2174,0,0.0,0,0.0,0,0.0,780,84.7826,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2026-06-26,2026-09-20,post_placebo,had_number,4079,211,5.1728,2859,70.0907,4,0.0981,0,0.0,1005,24.6384,7851,7968,51.9552,38.7299
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,all,2483,1297,52.2352,96,3.8663,56,2.2553,0,0.0,1034,41.6432,7702,4930,61.6853,69.6349
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,multi,1538,799,51.9506,65,4.2263,55,3.5761,0,0.0,619,40.2471,7702,4930,61.6853,69.6349
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,single,945,498,52.6984,31,3.2804,1,0.1058,0,0.0,415,43.9153,7702,4930,61.6853,69.6349
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,entire,1114,636,57.0916,73,6.553,41,3.6804,0,0.0,364,32.675,7702,4930,61.6853,69.6349
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,private,1369,661,48.2834,23,1.6801,15,1.0957,0,0.0,670,48.9408,7702,4930,61.6853,69.6349
+Spain,Valencia,Spain | Valencia,treat_eu,EU_reversal,2025-12-27,2026-03-28,pretrend_raw,had_number,4751,1650,34.7295,3064,64.4917,35,0.7367,0,0.0,2,0.0421,7702,4930,61.6853,69.6349
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,all,3173,664,20.9266,0,0.0,0,0.0,0,0.0,2509,79.0734,3173,4806,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,multi,1094,151,13.8026,0,0.0,0,0.0,0,0.0,943,86.1974,3173,4806,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,single,2079,513,24.6753,0,0.0,0,0.0,0,0.0,1566,75.3247,3173,4806,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,entire,2558,547,21.3839,0,0.0,0,0.0,0,0.0,2011,78.6161,3173,4806,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-06-30,main_clean,private,615,117,19.0244,0,0.0,0,0.0,0,0.0,498,80.9756,3173,4806,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,all,4806,667,13.8785,0,0.0,0,0.0,0,0.0,4139,86.1215,4806,4574,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,multi,1383,262,18.9443,0,0.0,0,0.0,0,0.0,1121,81.0557,4806,4574,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,single,3423,405,11.8317,0,0.0,0,0.0,0,0.0,3018,88.1683,4806,4574,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,entire,3981,585,14.6948,0,0.0,0,0.0,0,0.0,3396,85.3052,4806,4574,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2026-06-30,2026-09-25,post_placebo,private,825,82,9.9394,0,0.0,0,0.0,0,0.0,743,90.0606,4806,4574,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,all,3173,1069,33.6905,0,0.0,0,0.0,0,0.0,2104,66.3095,3173,2566,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,multi,1094,290,26.5082,0,0.0,0,0.0,0,0.0,804,73.4918,3173,2566,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,single,2079,779,37.4699,0,0.0,0,0.0,0,0.0,1300,62.5301,3173,2566,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,entire,2558,865,33.8155,0,0.0,0,0.0,0,0.0,1693,66.1845,3173,2566,0.0,0.0
+Sweden,Stockholm,Sweden | Stockholm,treat_eu,EU_unconfirmed,2025-12-30,2026-03-31,pretrend_raw,private,615,204,33.1707,0,0.0,0,0.0,0,0.0,411,66.8293,3173,2566,0.0,0.0
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,all,2761,556,20.1376,0,0.0,0,0.0,0,0.0,2205,79.8624,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,multi,1306,256,19.6018,0,0.0,0,0.0,0,0.0,1050,80.3982,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,single,1455,300,20.6186,0,0.0,0,0.0,0,0.0,1155,79.3814,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,entire,1933,371,19.193,0,0.0,0,0.0,0,0.0,1562,80.807,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,private,828,185,22.343,0,0.0,0,0.0,0,0.0,643,77.657,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-06-29,main_clean,had_number,2,0,0.0,1,50.0,0,0.0,0,0.0,1,50.0,2764,2593,0.0724,0.0386
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,all,2591,300,11.5785,1,0.0386,0,0.0,0,0.0,2290,88.3829,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,multi,1192,114,9.5638,0,0.0,0,0.0,0,0.0,1078,90.4362,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,single,1399,186,13.2952,1,0.0715,0,0.0,0,0.0,1212,86.6333,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,entire,1825,208,11.3973,1,0.0548,0,0.0,0,0.0,1616,88.5479,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,private,766,92,12.0104,0,0.0,0,0.0,0,0.0,674,87.9896,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2026-06-29,2026-09-23,post_placebo,had_number,1,0,0.0,1,100.0,0,0.0,0,0.0,0,0.0,2593,2538,0.0386,0.0788
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,all,2761,1260,45.6356,0,0.0,0,0.0,0,0.0,1501,54.3644,2764,1684,0.0724,0.1188
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,multi,1306,523,40.0459,0,0.0,0,0.0,0,0.0,783,59.9541,2764,1684,0.0724,0.1188
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,single,1455,737,50.6529,0,0.0,0,0.0,0,0.0,718,49.3471,2764,1684,0.0724,0.1188
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,entire,1933,909,47.0253,0,0.0,0,0.0,0,0.0,1024,52.9747,2764,1684,0.0724,0.1188
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,private,828,351,42.3913,0,0.0,0,0.0,0,0.0,477,57.6087,2764,1684,0.0724,0.1188
+Switzerland,Geneva,Switzerland | Geneva,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,had_number,2,0,0.0,2,100.0,0,0.0,0,0.0,0,0.0,2764,1684,0.0724,0.1188
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-05-23,main_clean,all,5480,519,9.4708,0,0.0,0,0.0,0,0.0,4961,90.5292,5480,5249,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-05-23,main_clean,multi,2271,177,7.7939,0,0.0,0,0.0,0,0.0,2094,92.2061,5480,5249,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-05-23,main_clean,single,3209,342,10.6575,0,0.0,0,0.0,0,0.0,2867,89.3425,5480,5249,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-05-23,main_clean,entire,3961,337,8.508,0,0.0,0,0.0,0,0.0,3624,91.492,5480,5249,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-05-23,main_clean,private,1519,182,11.9816,0,0.0,0,0.0,0,0.0,1337,88.0184,5480,5249,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-05-23,2026-10-05,post_placebo,all,5249,644,12.269,0,0.0,0,0.0,0,0.0,4605,87.731,5249,5235,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-05-23,2026-10-05,post_placebo,multi,2236,308,13.7746,0,0.0,0,0.0,0,0.0,1928,86.2254,5249,5235,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-05-23,2026-10-05,post_placebo,single,3013,336,11.1517,0,0.0,0,0.0,0,0.0,2677,88.8483,5249,5235,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-05-23,2026-10-05,post_placebo,entire,3827,465,12.1505,0,0.0,0,0.0,0,0.0,3362,87.8495,5249,5235,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-05-23,2026-10-05,post_placebo,private,1422,179,12.5879,0,0.0,0,0.0,0,0.0,1243,87.4121,5249,5235,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-04-14,pretrend_raw,all,5480,196,3.5766,0,0.0,0,0.0,0,0.0,5284,96.4234,5480,5421,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-04-14,pretrend_raw,multi,2271,92,4.0511,0,0.0,0,0.0,0,0.0,2179,95.9489,5480,5421,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-04-14,pretrend_raw,single,3209,104,3.2409,0,0.0,0,0.0,0,0.0,3105,96.7591,5480,5421,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-04-14,pretrend_raw,entire,3961,127,3.2063,0,0.0,0,0.0,0,0.0,3834,96.7937,5480,5421,0.0,0.0
+Switzerland,Vaud,Switzerland | Vaud,eea_noneu,EEA_nonEU,2026-03-16,2026-04-14,pretrend_raw,private,1519,69,4.5425,0,0.0,0,0.0,0,0.0,1450,95.4575,5480,5421,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-06-30,main_clean,all,2756,680,24.6734,0,0.0,0,0.0,0,0.0,2076,75.3266,2756,3308,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-06-30,main_clean,multi,1757,409,23.2783,0,0.0,0,0.0,0,0.0,1348,76.7217,2756,3308,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-06-30,main_clean,single,999,271,27.1271,0,0.0,0,0.0,0,0.0,728,72.8729,2756,3308,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-06-30,main_clean,entire,2148,458,21.3222,0,0.0,0,0.0,0,0.0,1690,78.6778,2756,3308,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-06-30,main_clean,private,608,222,36.5132,0,0.0,0,0.0,0,0.0,386,63.4868,2756,3308,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,all,3308,423,12.7872,0,0.0,0,0.0,0,0.0,2885,87.2128,3308,3174,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,multi,1904,222,11.6597,0,0.0,0,0.0,0,0.0,1682,88.3403,3308,3174,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,single,1404,201,14.3162,0,0.0,0,0.0,0,0.0,1203,85.6838,3308,3174,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,entire,2556,335,13.1064,0,0.0,0,0.0,0,0.0,2221,86.8936,3308,3174,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2026-06-30,2026-09-25,post_placebo,private,752,88,11.7021,0,0.0,0,0.0,0,0.0,664,88.2979,3308,3174,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,all,2756,1218,44.1945,0,0.0,0,0.0,0,0.0,1538,55.8055,2756,1828,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,multi,1757,783,44.5646,0,0.0,0,0.0,0,0.0,974,55.4354,2756,1828,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,single,999,435,43.5435,0,0.0,0,0.0,0,0.0,564,56.4565,2756,1828,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,entire,2148,928,43.203,0,0.0,0,0.0,0,0.0,1220,56.797,2756,1828,0.0,0.0
+Switzerland,Zurich,Switzerland | Zurich,eea_noneu,EEA_nonEU,2025-12-29,2026-03-30,pretrend_raw,private,608,290,47.6974,0,0.0,0,0.0,0,0.0,318,52.3026,2756,1828,0.0,0.0
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,all,113,21,18.5841,55,48.6726,2,1.7699,0,0.0,35,30.9735,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,multi,6,0,0.0,4,66.6667,1,16.6667,0,0.0,1,16.6667,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,single,107,21,19.6262,51,47.6636,1,0.9346,0,0.0,34,31.7757,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,entire,108,21,19.4444,52,48.1481,0,0.0,0,0.0,35,32.4074,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,private,5,0,0.0,3,60.0,2,40.0,0,0.0,0,0.0,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-06-15,main_clean,had_number,9837,1276,12.9714,8532,86.7338,0,0.0,0,0.0,29,0.2948,10835,10369,90.7891,91.7253
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,all,223,6,2.6906,37,16.5919,0,0.0,0,0.0,180,80.7175,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,multi,152,2,1.3158,1,0.6579,0,0.0,0,0.0,149,98.0263,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,single,71,4,5.6338,36,50.7042,0,0.0,0,0.0,31,43.662,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,entire,69,3,4.3478,36,52.1739,0,0.0,0,0.0,30,43.4783,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,private,154,3,1.9481,1,0.6494,0,0.0,0,0.0,150,97.4026,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2026-06-15,2026-09-16,post_placebo,had_number,9511,548,5.7617,8879,93.3551,3,0.0315,0,0.0,81,0.8516,10369,10612,91.7253,89.9077
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,all,113,46,40.708,45,39.823,1,0.885,0,0.0,21,18.5841,10835,6503,90.7891,87.4058
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,multi,6,2,33.3333,3,50.0,0,0.0,0,0.0,1,16.6667,10835,6503,90.7891,87.4058
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,single,107,44,41.1215,42,39.2523,1,0.9346,0,0.0,20,18.6916,10835,6503,90.7891,87.4058
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,entire,108,44,40.7407,43,39.8148,0,0.0,0,0.0,21,19.4444,10835,6503,90.7891,87.4058
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,private,5,2,40.0,2,40.0,1,20.0,0,0.0,0,0.0,10835,6503,90.7891,87.4058
+The Netherlands,Amsterdam,The Netherlands | Amsterdam,treat_eu,EU_pretreated,2025-12-12,2026-03-19,pretrend_raw,had_number,9837,4547,46.2234,5258,53.4513,0,0.0,0,0.0,32,0.3253,10835,6503,90.7891,87.4058
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,all,44,5,11.3636,3,6.8182,0,0.0,0,0.0,36,81.8182,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,multi,6,0,0.0,0,0.0,0,0.0,0,0.0,6,100.0,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,single,38,5,13.1579,3,7.8947,0,0.0,0,0.0,30,78.9474,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,entire,42,5,11.9048,3,7.1429,0,0.0,0,0.0,34,80.9524,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,private,2,0,0.0,0,0.0,0,0.0,0,0.0,2,100.0,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,had_number,1071,147,13.7255,912,85.1541,0,0.0,0,0.0,12,1.1204,1353,1357,79.1574,77.3766
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,all,89,4,4.4944,11,12.3596,6,6.7416,0,0.0,68,76.4045,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,multi,42,1,2.381,6,14.2857,6,14.2857,0,0.0,29,69.0476,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,single,47,3,6.383,5,10.6383,0,0.0,0,0.0,39,82.9787,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,entire,55,3,5.4545,9,16.3636,2,3.6364,0,0.0,41,74.5455,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,private,34,1,2.9412,2,5.8824,4,11.7647,0,0.0,27,79.4118,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,had_number,1050,69,6.5714,967,92.0952,0,0.0,0,0.0,14,1.3333,1357,1395,77.3766,74.1935
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,all,44,17,38.6364,0,0.0,0,0.0,0,0.0,27,61.3636,1353,742,79.1574,73.7197
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,multi,6,4,66.6667,0,0.0,0,0.0,0,0.0,2,33.3333,1353,742,79.1574,73.7197
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,single,38,13,34.2105,0,0.0,0,0.0,0,0.0,25,65.7895,1353,742,79.1574,73.7197
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,entire,42,16,38.0952,0,0.0,0,0.0,0,0.0,26,61.9048,1353,742,79.1574,73.7197
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,private,2,1,50.0,0,0.0,0,0.0,0,0.0,1,50.0,1353,742,79.1574,73.7197
+The Netherlands,Rotterdam,The Netherlands | Rotterdam,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,had_number,1071,567,52.9412,502,46.8721,0,0.0,0,0.0,2,0.1867,1353,742,79.1574,73.7197
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,all,19,2,10.5263,3,15.7895,0,0.0,0,0.0,14,73.6842,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,multi,3,2,66.6667,0,0.0,0,0.0,0,0.0,1,33.3333,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,single,16,0,0.0,3,18.75,0,0.0,0,0.0,13,81.25,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,entire,16,0,0.0,3,18.75,0,0.0,0,0.0,13,81.25,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,private,3,2,66.6667,0,0.0,0,0.0,0,0.0,1,33.3333,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-06-28,main_clean,had_number,649,85,13.0971,559,86.1325,0,0.0,0,0.0,5,0.7704,979,1492,66.2921,70.6434
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,all,69,7,10.1449,11,15.942,25,36.2319,0,0.0,26,37.6812,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,multi,36,1,2.7778,0,0.0,24,66.6667,0,0.0,11,30.5556,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,single,33,6,18.1818,11,33.3333,1,3.0303,0,0.0,15,45.4545,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,entire,51,5,9.8039,11,21.5686,20,39.2157,0,0.0,15,29.4118,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,private,18,2,11.1111,0,0.0,5,27.7778,0,0.0,11,61.1111,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2026-06-28,2026-09-21,post_placebo,had_number,1054,92,8.7287,956,90.7021,0,0.0,0,0.0,6,0.5693,1492,1442,70.6434,71.0818
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,all,19,9,47.3684,2,10.5263,0,0.0,0,0.0,8,42.1053,979,928,66.2921,65.4095
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,multi,3,2,66.6667,0,0.0,0,0.0,0,0.0,1,33.3333,979,928,66.2921,65.4095
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,single,16,7,43.75,2,12.5,0,0.0,0,0.0,7,43.75,979,928,66.2921,65.4095
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,entire,16,8,50.0,2,12.5,0,0.0,0,0.0,6,37.5,979,928,66.2921,65.4095
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,private,3,1,33.3333,0,0.0,0,0.0,0,0.0,2,66.6667,979,928,66.2921,65.4095
+The Netherlands,The Hague,The Netherlands | The Hague,treat_eu,EU_pretreated,2025-12-28,2026-03-29,pretrend_raw,had_number,649,189,29.1217,457,70.416,0,0.0,0,0.0,3,0.4622,979,928,66.2921,65.4095
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-06-29,main_clean,all,2939,465,15.8217,0,0.0,0,0.0,0,0.0,2474,84.1783,2939,3023,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-06-29,main_clean,multi,1552,264,17.0103,0,0.0,0,0.0,0,0.0,1288,82.9897,2939,3023,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-06-29,main_clean,single,1387,201,14.4917,0,0.0,0,0.0,0,0.0,1186,85.5083,2939,3023,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-06-29,main_clean,entire,2101,348,16.5635,0,0.0,0,0.0,0,0.0,1753,83.4365,2939,3023,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-06-29,main_clean,private,838,117,13.9618,0,0.0,0,0.0,0,0.0,721,86.0382,2939,3023,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2026-06-29,2026-09-22,post_placebo,all,3023,353,11.6771,0,0.0,0,0.0,0,0.0,2670,88.3229,3023,2932,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2026-06-29,2026-09-22,post_placebo,multi,1611,223,13.8423,0,0.0,0,0.0,0,0.0,1388,86.1577,3023,2932,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2026-06-29,2026-09-22,post_placebo,single,1412,130,9.2068,0,0.0,0,0.0,0,0.0,1282,90.7932,3023,2932,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2026-06-29,2026-09-22,post_placebo,entire,2156,231,10.7143,0,0.0,0,0.0,0,0.0,1925,89.2857,3023,2932,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2026-06-29,2026-09-22,post_placebo,private,867,122,14.0715,0,0.0,0,0.0,0,0.0,745,85.9285,3023,2932,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-03-30,pretrend_raw,all,2939,1200,40.8302,0,0.0,0,0.0,0,0.0,1739,59.1698,2939,1979,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-03-30,pretrend_raw,multi,1552,567,36.5335,0,0.0,0,0.0,0,0.0,985,63.4665,2939,1979,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-03-30,pretrend_raw,single,1387,633,45.6381,0,0.0,0,0.0,0,0.0,754,54.3619,2939,1979,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-03-30,pretrend_raw,entire,2101,818,38.9338,0,0.0,0,0.0,0,0.0,1283,61.0662,2939,1979,0.0,0.0
+United Kingdom,Bristol,United Kingdom | Bristol,control_noneu,nonEU,2025-12-28,2026-03-30,pretrend_raw,private,838,382,45.5847,0,0.0,0,0.0,0,0.0,456,54.4153,2939,1979,0.0,0.0
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,all,4061,571,14.0606,368,9.0618,0,0.0,0,0.0,3121,76.853,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,multi,2054,301,14.6543,170,8.2765,0,0.0,0,0.0,1582,77.0204,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,single,2007,270,13.4529,198,9.8655,0,0.0,0,0.0,1539,76.6816,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,entire,2774,405,14.5999,278,10.0216,0,0.0,0,0.0,2090,75.3425,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,private,1287,166,12.8982,90,6.993,0,0.0,0,0.0,1031,80.1088,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-06-23,main_clean,had_number,1314,85,6.4688,1228,93.4551,0,0.0,0,0.0,1,0.0761,5413,6244,24.2749,29.18
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,all,4383,543,12.3888,85,1.9393,0,0.0,0,0.0,3755,85.6719,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,multi,2413,322,13.3444,51,2.1136,0,0.0,0,0.0,2040,84.5421,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,single,1970,221,11.2183,34,1.7259,0,0.0,0,0.0,1715,87.0558,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,entire,2991,408,13.6409,61,2.0395,0,0.0,0,0.0,2522,84.3196,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,private,1392,135,9.6983,24,1.7241,0,0.0,0,0.0,1233,88.5776,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2026-06-23,2026-09-19,post_placebo,had_number,1822,100,5.4885,1683,92.371,0,0.0,0,0.0,39,2.1405,6244,6342,29.18,29.3756
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,all,4061,1343,33.0707,28,0.6895,0,0.0,0,0.0,2689,66.2152,5413,4318,24.2749,25.6832
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,multi,2054,689,33.5443,19,0.925,0,0.0,0,0.0,1345,65.482,5413,4318,24.2749,25.6832
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,single,2007,654,32.5859,9,0.4484,0,0.0,0,0.0,1344,66.9656,5413,4318,24.2749,25.6832
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,entire,2774,819,29.5242,23,0.8291,0,0.0,0,0.0,1931,69.6107,5413,4318,24.2749,25.6832
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,private,1287,524,40.7148,5,0.3885,0,0.0,0,0.0,758,58.8967,5413,4318,24.2749,25.6832
+United Kingdom,Edinburgh,United Kingdom | Edinburgh,control_noneu,nonEU,2025-12-25,2026-03-26,pretrend_raw,had_number,1314,282,21.4612,1030,78.3866,0,0.0,0,0.0,2,0.1522,5413,4318,24.2749,25.6832
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-06-28,main_clean,all,7662,2579,33.6596,0,0.0,0,0.0,0,0.0,5083,66.3404,7662,6930,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-06-28,main_clean,multi,5147,1735,33.709,0,0.0,0,0.0,0,0.0,3412,66.291,7662,6930,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-06-28,main_clean,single,2515,844,33.5586,0,0.0,0,0.0,0,0.0,1671,66.4414,7662,6930,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-06-28,main_clean,entire,5163,1747,33.8369,0,0.0,0,0.0,0,0.0,3416,66.1631,7662,6930,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-06-28,main_clean,private,2499,832,33.2933,0,0.0,0,0.0,0,0.0,1667,66.7067,7662,6930,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2026-06-28,2026-09-22,post_placebo,all,6930,982,14.1703,0,0.0,0,0.0,0,0.0,5948,85.8297,6930,7799,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2026-06-28,2026-09-22,post_placebo,multi,4619,638,13.8125,0,0.0,0,0.0,0,0.0,3981,86.1875,6930,7799,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2026-06-28,2026-09-22,post_placebo,single,2311,344,14.8853,0,0.0,0,0.0,0,0.0,1967,85.1147,6930,7799,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2026-06-28,2026-09-22,post_placebo,entire,4732,690,14.5816,0,0.0,0,0.0,0,0.0,4042,85.4184,6930,7799,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2026-06-28,2026-09-22,post_placebo,private,2198,292,13.2848,0,0.0,0,0.0,0,0.0,1906,86.7152,6930,7799,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-03-29,pretrend_raw,all,7662,2670,34.8473,0,0.0,0,0.0,0,0.0,4992,65.1527,7662,5855,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-03-29,pretrend_raw,multi,5147,1798,34.933,0,0.0,0,0.0,0,0.0,3349,65.067,7662,5855,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-03-29,pretrend_raw,single,2515,872,34.672,0,0.0,0,0.0,0,0.0,1643,65.328,7662,5855,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-03-29,pretrend_raw,entire,5163,1797,34.8053,0,0.0,0,0.0,0,0.0,3366,65.1947,7662,5855,0.0,0.0
+United Kingdom,Greater Manchester,United Kingdom | Greater Manchester,control_noneu,nonEU,2025-12-28,2026-03-29,pretrend_raw,private,2499,873,34.934,0,0.0,0,0.0,0,0.0,1626,65.066,7662,5855,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-06-19,main_clean,all,95688,20631,21.5607,0,0.0,0,0.0,0,0.0,75057,78.4393,95688,92638,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-06-19,main_clean,multi,50955,12017,23.5836,0,0.0,0,0.0,0,0.0,38938,76.4164,95688,92638,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-06-19,main_clean,single,44733,8614,19.2565,0,0.0,0,0.0,0,0.0,36119,80.7435,95688,92638,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-06-19,main_clean,entire,62134,13745,22.1215,0,0.0,0,0.0,0,0.0,48389,77.8785,95688,92638,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-06-19,main_clean,private,33554,6886,20.5221,0,0.0,0,0.0,0,0.0,26668,79.4779,95688,92638,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2026-06-19,2026-09-17,post_placebo,all,92638,10988,11.8612,0,0.0,0,0.0,0,0.0,81650,88.1388,92638,91954,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2026-06-19,2026-09-17,post_placebo,multi,50947,7090,13.9164,0,0.0,0,0.0,0,0.0,43857,86.0836,92638,91954,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2026-06-19,2026-09-17,post_placebo,single,41691,3898,9.3497,0,0.0,0,0.0,0,0.0,37793,90.6503,92638,91954,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2026-06-19,2026-09-17,post_placebo,entire,61377,7911,12.8892,0,0.0,0,0.0,0,0.0,53466,87.1108,92638,91954,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2026-06-19,2026-09-17,post_placebo,private,31261,3077,9.8429,0,0.0,0,0.0,0,0.0,28184,90.1571,92638,91954,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-03-21,pretrend_raw,all,95688,50697,52.9816,0,0.0,0,0.0,0,0.0,44991,47.0184,95688,53639,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-03-21,pretrend_raw,multi,50955,22098,43.3677,0,0.0,0,0.0,0,0.0,28857,56.6323,95688,53639,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-03-21,pretrend_raw,single,44733,28599,63.9327,0,0.0,0,0.0,0,0.0,16134,36.0673,95688,53639,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-03-21,pretrend_raw,entire,62134,31960,51.4372,0,0.0,0,0.0,0,0.0,30174,48.5628,95688,53639,0.0,0.0
+United Kingdom,London,United Kingdom | London,control_noneu,nonEU,2025-12-13,2026-03-21,pretrend_raw,private,33554,18737,55.8413,0,0.0,0,0.0,0,0.0,14817,44.1587,95688,53639,0.0,0.0
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,all,1149,301,26.1967,8,0.6963,1,0.087,0,0.0,839,73.02,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,multi,982,270,27.4949,7,0.7128,0,0.0,0,0.0,705,71.7923,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,single,167,31,18.5629,1,0.5988,1,0.5988,0,0.0,134,80.2395,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,entire,754,183,24.2706,5,0.6631,1,0.1326,0,0.0,565,74.9337,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,private,395,118,29.8734,3,0.7595,0,0.0,0,0.0,274,69.3671,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-06-15,main_clean,had_number,2056,213,10.3599,1840,89.4942,3,0.1459,0,0.0,0,0.0,3706,4378,55.4776,58.6569
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,all,1228,119,9.6906,2,0.1629,0,0.0,0,0.0,1107,90.1466,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,multi,992,101,10.1815,2,0.2016,0,0.0,0,0.0,889,89.6169,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,single,236,18,7.6271,0,0.0,0,0.0,0,0.0,218,92.3729,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,entire,815,71,8.7117,0,0.0,0,0.0,0,0.0,744,91.2883,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,private,413,48,11.6223,2,0.4843,0,0.0,0,0.0,363,87.8935,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2026-06-15,2026-09-19,post_placebo,had_number,2568,239,9.3069,2327,90.6153,0,0.0,0,0.0,2,0.0779,4378,4368,58.6569,59.707
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,all,1149,1141,99.3037,2,0.1741,0,0.0,0,0.0,6,0.5222,3706,1881,55.4776,89.4205
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,multi,982,976,99.389,1,0.1018,0,0.0,0,0.0,5,0.5092,3706,1881,55.4776,89.4205
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,single,167,165,98.8024,1,0.5988,0,0.0,0,0.0,1,0.5988,3706,1881,55.4776,89.4205
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,entire,754,746,98.939,2,0.2653,0,0.0,0,0.0,6,0.7958,3706,1881,55.4776,89.4205
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,private,395,395,100.0,0,0.0,0,0.0,0,0.0,0,0.0,3706,1881,55.4776,89.4205
+United States,Boston,United States | Boston,control_noneu,nonEU,2025-12-27,2026-03-28,pretrend_raw,had_number,2056,581,28.2588,1473,71.644,2,0.0973,0,0.0,0,0.0,3706,1881,55.4776,89.4205
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,all,32721,8562,26.1667,109,0.3331,18,0.055,0,0.0,24032,73.4452,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,multi,20843,4861,23.322,66,0.3167,9,0.0432,0,0.0,15907,76.3182,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,single,11878,3701,31.1584,43,0.362,9,0.0758,0,0.0,8125,68.4038,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,entire,23397,5819,24.8707,97,0.4146,11,0.047,0,0.0,17470,74.6677,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,private,9324,2743,29.4187,12,0.1287,7,0.0751,0,0.0,6562,70.3775,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-06-15,main_clean,had_number,9235,1453,15.7336,7763,84.0606,5,0.0541,0,0.0,14,0.1516,45585,43751,20.2589,21.3069
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,all,30559,3626,11.8656,71,0.2323,11,0.036,0,0.0,26851,87.8661,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,multi,20528,2720,13.2502,42,0.2046,3,0.0146,0,0.0,17763,86.5306,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,single,10031,906,9.032,29,0.2891,8,0.0798,0,0.0,9088,90.5991,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,entire,22055,2544,11.5348,62,0.2811,9,0.0408,0,0.0,19440,88.1433,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,private,8504,1082,12.7234,9,0.1058,2,0.0235,0,0.0,7411,87.1472,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2026-06-15,2026-09-14,post_placebo,had_number,9322,804,8.6248,8501,91.1929,2,0.0215,0,0.0,15,0.1609,43751,43781,21.3069,21.1759
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,all,32721,3551,10.8524,83,0.2537,22,0.0672,0,0.0,29065,88.8267,45585,46088,20.2589,20.4478
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,multi,20843,2651,12.7189,47,0.2255,11,0.0528,0,0.0,18134,87.0028,45585,46088,20.2589,20.4478
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,single,11878,900,7.577,36,0.3031,11,0.0926,0,0.0,10931,92.0273,45585,46088,20.2589,20.4478
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,entire,23397,2740,11.7109,76,0.3248,14,0.0598,0,0.0,20567,87.9044,45585,46088,20.2589,20.4478
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,private,9324,811,8.698,7,0.0751,8,0.0858,0,0.0,8498,91.1411,45585,46088,20.2589,20.4478
+United States,Los Angeles,United States | Los Angeles,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,had_number,9235,765,8.2837,8451,91.5106,3,0.0325,0,0.0,16,0.1733,45585,46088,20.2589,20.4478
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,all,31233,9287,29.7346,46,0.1473,16,0.0512,0,0.0,21884,70.0669,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,multi,15045,3585,23.8285,13,0.0864,13,0.0864,0,0.0,11434,75.9987,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,single,16188,5702,35.2236,33,0.2039,3,0.0185,0,0.0,10450,64.554,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,entire,17822,4403,24.7054,8,0.0449,11,0.0617,0,0.0,13400,75.188,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,private,13411,4884,36.4179,38,0.2833,5,0.0373,0,0.0,8484,63.2615,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,had_number,2330,206,8.8412,2095,89.9142,1,0.0429,0,0.0,28,1.2017,36261,30259,6.4256,7.7002
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,all,24973,2046,8.1928,33,0.1321,8,0.032,0,0.0,22886,91.643,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,multi,13465,1378,10.2339,15,0.1114,7,0.052,0,0.0,12065,89.6027,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,single,11508,668,5.8047,18,0.1564,1,0.0087,0,0.0,10821,94.0302,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,entire,15083,1110,7.3593,3,0.0199,6,0.0398,0,0.0,13964,92.5811,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,private,9890,936,9.4641,30,0.3033,2,0.0202,0,0.0,8922,90.2123,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,had_number,2330,162,6.9528,2156,92.5322,0,0.0,0,0.0,12,0.515,30259,29918,7.7002,7.5206
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,all,31233,2191,7.015,38,0.1217,13,0.0416,0,0.0,28991,92.8217,36261,35979,6.4256,6.3982
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,multi,15045,1575,10.4686,10,0.0665,11,0.0731,0,0.0,13449,89.3918,36261,35979,6.4256,6.3982
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,single,16188,616,3.8053,28,0.173,2,0.0124,0,0.0,15542,96.0094,36261,35979,6.4256,6.3982
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,entire,17822,1108,6.217,3,0.0168,9,0.0505,0,0.0,16702,93.7156,36261,35979,6.4256,6.3982
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,private,13411,1083,8.0755,35,0.261,4,0.0298,0,0.0,12289,91.6337,36261,35979,6.4256,6.3982
+United States,New York City,United States | New York City,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,had_number,2330,136,5.8369,2176,93.3906,0,0.0,0,0.0,18,0.7725,36261,35979,6.4256,6.3982
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,all,2637,571,21.6534,6,0.2275,3,0.1138,0,0.0,2057,78.0053,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,multi,1652,316,19.1283,2,0.1211,2,0.1211,0,0.0,1332,80.6295,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,single,985,255,25.8883,4,0.4061,1,0.1015,0,0.0,725,73.6041,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,entire,1863,387,20.7729,5,0.2684,1,0.0537,0,0.0,1470,78.905,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,private,774,184,23.7726,1,0.1292,2,0.2584,0,0.0,587,75.8398,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-06-14,main_clean,had_number,2982,387,12.9779,2595,87.0221,0,0.0,0,0.0,0,0.0,7535,7332,39.5753,39.6345
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,all,2472,183,7.4029,4,0.1618,2,0.0809,0,0.0,2283,92.3544,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,multi,1632,113,6.924,2,0.1225,2,0.1225,0,0.0,1515,92.8309,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,single,840,70,8.3333,2,0.2381,0,0.0,0,0.0,768,91.4286,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,entire,1691,126,7.4512,3,0.1774,0,0.0,0,0.0,1562,92.3714,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,private,781,57,7.2983,1,0.128,2,0.2561,0,0.0,721,92.3175,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2026-06-14,2026-09-14,post_placebo,had_number,2906,193,6.6414,2713,93.3586,0,0.0,0,0.0,0,0.0,7332,7405,39.6345,38.5415
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,all,2637,239,9.0633,5,0.1896,2,0.0758,0,0.0,2391,90.6712,7535,7528,39.5753,39.1206
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,multi,1652,154,9.322,2,0.1211,2,0.1211,0,0.0,1494,90.4358,7535,7528,39.5753,39.1206
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,single,985,85,8.6294,3,0.3046,0,0.0,0,0.0,897,91.066,7535,7528,39.5753,39.1206
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,entire,1863,167,8.964,4,0.2147,0,0.0,0,0.0,1692,90.8213,7535,7528,39.5753,39.1206
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,private,774,72,9.3023,1,0.1292,2,0.2584,0,0.0,699,90.3101,7535,7528,39.5753,39.1206
+United States,San Francisco,United States | San Francisco,control_noneu,nonEU,2025-12-04,2026-03-16,pretrend_raw,had_number,2982,230,7.7129,2752,92.2871,0,0.0,0,0.0,0,0.0,7535,7528,39.5753,39.1206

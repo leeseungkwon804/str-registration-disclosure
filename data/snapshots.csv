@@ -1,0 +1,573 @@
+city,country,region,region_short,link,unit_level,group,publish_date,side,scrape_id,listings_url
+Buenos Aires,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,buenos-aires,city,nonEU,2025-12-29,pre,20251229020328,https://data.insideairbnb.com/argentina/ciudad-autónoma-de-buenos-aires/buenos-aires/2025-12-29/data/listings.csv.gz
+Buenos Aires,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,buenos-aires,city,nonEU,2026-03-30,pre,20260330062428,https://data.insideairbnb.com/argentina/ciudad-autónoma-de-buenos-aires/buenos-aires/2026-03-30/data/listings.csv.gz
+Buenos Aires,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,buenos-aires,city,nonEU,2026-06-29,post,20260629030533,https://data.insideairbnb.com/argentina/ciudad-autónoma-de-buenos-aires/buenos-aires/2026-06-29/data/listings.csv.gz
+Buenos Aires,Argentina,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,buenos-aires,city,nonEU,2026-09-23,post,20260923225042,https://data.insideairbnb.com/argentina/ciudad-autónoma-de-buenos-aires/buenos-aires/2026-09-23/data/listings.csv.gz
+Barossa Valley,Australia,South Australia,SA,barossa-valley,city,nonEU,2025-12-28,pre,20251228222324,https://data.insideairbnb.com/australia/sa/barossa-valley/2025-12-28/data/listings.csv.gz
+Barossa Valley,Australia,South Australia,SA,barossa-valley,city,nonEU,2026-03-30,pre,20260330062351,https://data.insideairbnb.com/australia/sa/barossa-valley/2026-03-30/data/listings.csv.gz
+Barossa Valley,Australia,South Australia,SA,barossa-valley,city,nonEU,2026-06-29,post,20260629030348,https://data.insideairbnb.com/australia/sa/barossa-valley/2026-06-29/data/listings.csv.gz
+Barossa Valley,Australia,South Australia,SA,barossa-valley,city,nonEU,2026-09-22,post,20260922161736,https://data.insideairbnb.com/australia/sa/barossa-valley/2026-09-22/data/listings.csv.gz
+"Barwon South West, Vic",Australia,Victoria,VIC,barwon-south-west-vic,city,nonEU,2025-12-29,pre,20251229185930,https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2025-12-29/data/listings.csv.gz
+"Barwon South West, Vic",Australia,Victoria,VIC,barwon-south-west-vic,city,nonEU,2026-03-30,pre,20260330145015,https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2026-03-30/data/listings.csv.gz
+"Barwon South West, Vic",Australia,Victoria,VIC,barwon-south-west-vic,city,nonEU,2026-06-29,post,20260629151941,https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2026-06-29/data/listings.csv.gz
+"Barwon South West, Vic",Australia,Victoria,VIC,barwon-south-west-vic,city,nonEU,2026-09-23,post,20260923225110,https://data.insideairbnb.com/australia/vic/barwon-south-west-vic/2026-09-23/data/listings.csv.gz
+Brisbane,Australia,Queensland,QLD,brisbane,city,nonEU,2025-12-11,pre,20251211132249,https://data.insideairbnb.com/australia/qld/brisbane/2025-12-11/data/listings.csv.gz
+Brisbane,Australia,Queensland,QLD,brisbane,city,nonEU,2026-03-19,pre,20260319140836,https://data.insideairbnb.com/australia/qld/brisbane/2026-03-19/data/listings.csv.gz
+Brisbane,Australia,Queensland,QLD,brisbane,city,nonEU,2026-06-15,post,20260615211956,https://data.insideairbnb.com/australia/qld/brisbane/2026-06-15/data/listings.csv.gz
+Brisbane,Australia,Queensland,QLD,brisbane,city,nonEU,2026-09-16,post,20260916052144,https://data.insideairbnb.com/australia/qld/brisbane/2026-09-16/data/listings.csv.gz
+Melbourne,Australia,Victoria,VIC,melbourne,city,nonEU,2025-12-12,pre,20251212032851,https://data.insideairbnb.com/australia/vic/melbourne/2025-12-12/data/listings.csv.gz
+Melbourne,Australia,Victoria,VIC,melbourne,city,nonEU,2026-03-21,pre,20260321053416,https://data.insideairbnb.com/australia/vic/melbourne/2026-03-21/data/listings.csv.gz
+Melbourne,Australia,Victoria,VIC,melbourne,city,nonEU,2026-06-16,post,20260616211523,https://data.insideairbnb.com/australia/vic/melbourne/2026-06-16/data/listings.csv.gz
+Melbourne,Australia,Victoria,VIC,melbourne,city,nonEU,2026-09-16,post,20260916052113,https://data.insideairbnb.com/australia/vic/melbourne/2026-09-16/data/listings.csv.gz
+Mid North Coast,Australia,New South Wales,NSW,mid-north-coast,city,nonEU,2025-12-13,pre,20251213062937,https://data.insideairbnb.com/australia/nsw/mid-north-coast/2025-12-13/data/listings.csv.gz
+Mid North Coast,Australia,New South Wales,NSW,mid-north-coast,city,nonEU,2026-03-21,pre,20260321053513,https://data.insideairbnb.com/australia/nsw/mid-north-coast/2026-03-21/data/listings.csv.gz
+Mid North Coast,Australia,New South Wales,NSW,mid-north-coast,city,nonEU,2026-06-19,post,20260619061235,https://data.insideairbnb.com/australia/nsw/mid-north-coast/2026-06-19/data/listings.csv.gz
+Mid North Coast,Australia,New South Wales,NSW,mid-north-coast,city,nonEU,2026-09-17,post,20260917015646,https://data.insideairbnb.com/australia/nsw/mid-north-coast/2026-09-17/data/listings.csv.gz
+Mornington Peninsula,Australia,Victoria,VIC,mornington-peninsula,city,nonEU,2025-12-22,pre,20251222231154,https://data.insideairbnb.com/australia/vic/mornington-peninsula/2025-12-22/data/listings.csv.gz
+Mornington Peninsula,Australia,Victoria,VIC,mornington-peninsula,city,nonEU,2026-03-25,pre,20260325043426,https://data.insideairbnb.com/australia/vic/mornington-peninsula/2026-03-25/data/listings.csv.gz
+Mornington Peninsula,Australia,Victoria,VIC,mornington-peninsula,city,nonEU,2026-06-22,post,20260622055656,https://data.insideairbnb.com/australia/vic/mornington-peninsula/2026-06-22/data/listings.csv.gz
+Mornington Peninsula,Australia,Victoria,VIC,mornington-peninsula,city,nonEU,2026-09-19,post,20260919032645,https://data.insideairbnb.com/australia/vic/mornington-peninsula/2026-09-19/data/listings.csv.gz
+Northern Rivers,Australia,New South Wales,NSW,northern-rivers,city,nonEU,2025-12-25,pre,20251225141620,https://data.insideairbnb.com/australia/nsw/northern-rivers/2025-12-25/data/listings.csv.gz
+Northern Rivers,Australia,New South Wales,NSW,northern-rivers,city,nonEU,2026-03-27,pre,20260327042537,https://data.insideairbnb.com/australia/nsw/northern-rivers/2026-03-27/data/listings.csv.gz
+Northern Rivers,Australia,New South Wales,NSW,northern-rivers,city,nonEU,2026-06-24,post,20260624160257,https://data.insideairbnb.com/australia/nsw/northern-rivers/2026-06-24/data/listings.csv.gz
+Northern Rivers,Australia,New South Wales,NSW,northern-rivers,city,nonEU,2026-09-19,post,20260919032824,https://data.insideairbnb.com/australia/nsw/northern-rivers/2026-09-19/data/listings.csv.gz
+Sunshine Coast,Australia,Queensland,QLD,sunshine-coast,city,nonEU,2025-12-31,pre,20251231033148,https://data.insideairbnb.com/australia/qld/sunshine-coast/2025-12-31/data/listings.csv.gz
+Sunshine Coast,Australia,Queensland,QLD,sunshine-coast,city,nonEU,2026-03-31,pre,20260331160252,https://data.insideairbnb.com/australia/qld/sunshine-coast/2026-03-31/data/listings.csv.gz
+Sunshine Coast,Australia,Queensland,QLD,sunshine-coast,city,nonEU,2026-06-30,post,20260630204039,https://data.insideairbnb.com/australia/qld/sunshine-coast/2026-06-30/data/listings.csv.gz
+Sunshine Coast,Australia,Queensland,QLD,sunshine-coast,city,nonEU,2026-09-28,post,20260928021000,https://data.insideairbnb.com/australia/qld/sunshine-coast/2026-09-28/data/listings.csv.gz
+Sydney,Australia,New South Wales,NSW,sydney,city,nonEU,2025-12-12,pre,20251212032826,https://data.insideairbnb.com/australia/nsw/sydney/2025-12-12/data/listings.csv.gz
+Sydney,Australia,New South Wales,NSW,sydney,city,nonEU,2026-03-21,pre,20260321053403,https://data.insideairbnb.com/australia/nsw/sydney/2026-03-21/data/listings.csv.gz
+Sydney,Australia,New South Wales,NSW,sydney,city,nonEU,2026-06-16,post,20260616211453,https://data.insideairbnb.com/australia/nsw/sydney/2026-06-16/data/listings.csv.gz
+Sydney,Australia,New South Wales,NSW,sydney,city,nonEU,2026-09-16,post,20260916052042,https://data.insideairbnb.com/australia/nsw/sydney/2026-09-16/data/listings.csv.gz
+Tasmania,Australia,Tasmania,TAS,tasmania,city,nonEU,2025-12-12,pre,20251212032723,https://data.insideairbnb.com/australia/tas/tasmania/2025-12-12/data/listings.csv.gz
+Tasmania,Australia,Tasmania,TAS,tasmania,city,nonEU,2026-03-19,pre,20260319140848,https://data.insideairbnb.com/australia/tas/tasmania/2026-03-19/data/listings.csv.gz
+Tasmania,Australia,Tasmania,TAS,tasmania,city,nonEU,2026-06-15,post,20260615212009,https://data.insideairbnb.com/australia/tas/tasmania/2026-06-15/data/listings.csv.gz
+Tasmania,Australia,Tasmania,TAS,tasmania,city,nonEU,2026-09-16,post,20260916052348,https://data.insideairbnb.com/australia/tas/tasmania/2026-09-16/data/listings.csv.gz
+Western Australia,Australia,Western Australia,WA,western-australia,city,nonEU,2025-12-28,pre,20251228220154,https://data.insideairbnb.com/australia/wa/western-australia/2025-12-28/data/listings.csv.gz
+Western Australia,Australia,Western Australia,WA,western-australia,city,nonEU,2026-03-29,pre,20260329195422,https://data.insideairbnb.com/australia/wa/western-australia/2026-03-29/data/listings.csv.gz
+Western Australia,Australia,Western Australia,WA,western-australia,city,nonEU,2026-06-28,post,20260628205917,https://data.insideairbnb.com/australia/wa/western-australia/2026-06-28/data/listings.csv.gz
+Western Australia,Australia,Western Australia,WA,western-australia,city,nonEU,2026-09-21,post,20260921223035,https://data.insideairbnb.com/australia/wa/western-australia/2026-09-21/data/listings.csv.gz
+Vienna,Austria,Vienna,Vienna,vienna,city,EU,2025-12-16,pre,20251216055021,https://data.insideairbnb.com/austria/vienna/vienna/2025-12-16/data/listings.csv.gz
+Vienna,Austria,Vienna,Vienna,vienna,city,EU,2026-03-24,pre,20260324054515,https://data.insideairbnb.com/austria/vienna/vienna/2026-03-24/data/listings.csv.gz
+Vienna,Austria,Vienna,Vienna,vienna,city,EU,2026-06-20,post,20260620165019,https://data.insideairbnb.com/austria/vienna/vienna/2026-06-20/data/listings.csv.gz
+Vienna,Austria,Vienna,Vienna,vienna,city,EU,2026-09-17,post,20260917204800,https://data.insideairbnb.com/austria/vienna/vienna/2026-09-17/data/listings.csv.gz
+Antwerp,Belgium,Flemish Region,VLG,antwerp,city,EU,2025-12-29,pre,20251229190005,https://data.insideairbnb.com/belgium/vlg/antwerp/2025-12-29/data/listings.csv.gz
+Antwerp,Belgium,Flemish Region,VLG,antwerp,city,EU,2026-03-30,pre,20260330145049,https://data.insideairbnb.com/belgium/vlg/antwerp/2026-03-30/data/listings.csv.gz
+Antwerp,Belgium,Flemish Region,VLG,antwerp,city,EU,2026-06-29,post,20260629161552,https://data.insideairbnb.com/belgium/vlg/antwerp/2026-06-29/data/listings.csv.gz
+Antwerp,Belgium,Flemish Region,VLG,antwerp,city,EU,2026-09-23,post,20260923225124,https://data.insideairbnb.com/belgium/vlg/antwerp/2026-09-23/data/listings.csv.gz
+Brussels,Belgium,Brussels,BRU,brussels,city,EU,2025-12-27,pre,20251227053944,https://data.insideairbnb.com/belgium/bru/brussels/2025-12-27/data/listings.csv.gz
+Brussels,Belgium,Brussels,BRU,brussels,city,EU,2026-03-29,pre,20260329053222,https://data.insideairbnb.com/belgium/bru/brussels/2026-03-29/data/listings.csv.gz
+Brussels,Belgium,Brussels,BRU,brussels,city,EU,2026-06-27,post,20260627230048,https://data.insideairbnb.com/belgium/bru/brussels/2026-06-27/data/listings.csv.gz
+Brussels,Belgium,Brussels,BRU,brussels,city,EU,2026-09-20,post,20260920135920,https://data.insideairbnb.com/belgium/bru/brussels/2026-09-20/data/listings.csv.gz
+Ghent,Belgium,Flemish Region,VLG,ghent,city,EU,2025-12-28,pre,20251228222155,https://data.insideairbnb.com/belgium/vlg/ghent/2025-12-28/data/listings.csv.gz
+Ghent,Belgium,Flemish Region,VLG,ghent,city,EU,2026-03-30,pre,20260330061615,https://data.insideairbnb.com/belgium/vlg/ghent/2026-03-30/data/listings.csv.gz
+Ghent,Belgium,Flemish Region,VLG,ghent,city,EU,2026-06-29,post,20260629030247,https://data.insideairbnb.com/belgium/vlg/ghent/2026-06-29/data/listings.csv.gz
+Ghent,Belgium,Flemish Region,VLG,ghent,city,EU,2026-09-22,post,20260922161711,https://data.insideairbnb.com/belgium/vlg/ghent/2026-09-22/data/listings.csv.gz
+Belize,Belize,Belize,BZ,belize,city,nonEU,2025-12-29,pre,20251229190211,https://data.insideairbnb.com/belize/bz/belize/2025-12-29/data/listings.csv.gz
+Belize,Belize,Belize,BZ,belize,city,nonEU,2026-03-30,pre,20260330145431,https://data.insideairbnb.com/belize/bz/belize/2026-03-30/data/listings.csv.gz
+Belize,Belize,Belize,BZ,belize,city,nonEU,2026-06-29,post,20260629161633,https://data.insideairbnb.com/belize/bz/belize/2026-06-29/data/listings.csv.gz
+Belize,Belize,Belize,BZ,belize,city,nonEU,2026-09-25,post,20260925011127,https://data.insideairbnb.com/belize/bz/belize/2026-09-25/data/listings.csv.gz
+Rio de Janeiro,Brazil,Rio de Janeiro,RJ,rio-de-janeiro,city,nonEU,2025-12-28,pre,20251228222302,https://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2025-12-28/data/listings.csv.gz
+Rio de Janeiro,Brazil,Rio de Janeiro,RJ,rio-de-janeiro,city,nonEU,2026-03-30,pre,20260330062336,https://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2026-03-30/data/listings.csv.gz
+Rio de Janeiro,Brazil,Rio de Janeiro,RJ,rio-de-janeiro,city,nonEU,2026-06-24,post,20260624212719,https://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2026-06-24/data/listings.csv.gz
+Rio de Janeiro,Brazil,Rio de Janeiro,RJ,rio-de-janeiro,city,nonEU,2026-09-22,post,20260922161726,https://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2026-09-22/data/listings.csv.gz
+São Paulo,Brazil,São Paulo,SP,são-paulo,city,nonEU,2026-06-14,post,20260614072545,https://data.insideairbnb.com/brazil/sp/são-paulo/2026-06-14/data/listings.csv.gz
+São Paulo,Brazil,São Paulo,SP,são-paulo,city,nonEU,2026-09-14,post,20260914164121,https://data.insideairbnb.com/brazil/sp/são-paulo/2026-09-14/data/listings.csv.gz
+Montreal,Canada,Quebec,QC,montreal,city,nonEU,2025-12-22,pre,20251222231116,https://data.insideairbnb.com/canada/qc/montreal/2025-12-22/data/listings.csv.gz
+Montreal,Canada,Quebec,QC,montreal,city,nonEU,2026-03-16,pre,20260316030635,https://data.insideairbnb.com/canada/qc/montreal/2026-03-16/data/listings.csv.gz
+Montreal,Canada,Quebec,QC,montreal,city,nonEU,2026-06-15,post,20260615054301,https://data.insideairbnb.com/canada/qc/montreal/2026-06-15/data/listings.csv.gz
+Montreal,Canada,Quebec,QC,montreal,city,nonEU,2026-09-14,post,20260914002359,https://data.insideairbnb.com/canada/qc/montreal/2026-09-14/data/listings.csv.gz
+New Brunswick,Canada,New Brunswick,NB,new-brunswick,city,nonEU,2025-12-29,pre,20251229190244,https://data.insideairbnb.com/canada/nb/new-brunswick/2025-12-29/data/listings.csv.gz
+New Brunswick,Canada,New Brunswick,NB,new-brunswick,city,nonEU,2026-03-30,pre,20260330145455,https://data.insideairbnb.com/canada/nb/new-brunswick/2026-03-30/data/listings.csv.gz
+New Brunswick,Canada,New Brunswick,NB,new-brunswick,city,nonEU,2026-06-30,post,20260630053136,https://data.insideairbnb.com/canada/nb/new-brunswick/2026-06-30/data/listings.csv.gz
+New Brunswick,Canada,New Brunswick,NB,new-brunswick,city,nonEU,2026-09-25,post,20260925011139,https://data.insideairbnb.com/canada/nb/new-brunswick/2026-09-25/data/listings.csv.gz
+Ottawa,Canada,Ontario,ON,ottawa,city,nonEU,2025-12-25,pre,20251225141702,https://data.insideairbnb.com/canada/on/ottawa/2025-12-25/data/listings.csv.gz
+Ottawa,Canada,Ontario,ON,ottawa,city,nonEU,2026-03-27,pre,20260327042802,https://data.insideairbnb.com/canada/on/ottawa/2026-03-27/data/listings.csv.gz
+Ottawa,Canada,Ontario,ON,ottawa,city,nonEU,2026-06-24,post,20260624160311,https://data.insideairbnb.com/canada/on/ottawa/2026-06-24/data/listings.csv.gz
+Ottawa,Canada,Ontario,ON,ottawa,city,nonEU,2026-09-19,post,20260919032833,https://data.insideairbnb.com/canada/on/ottawa/2026-09-19/data/listings.csv.gz
+Quebec City,Canada,Quebec,QC,quebec-city,city,nonEU,2025-12-13,pre,20251213062924,https://data.insideairbnb.com/canada/qc/quebec-city/2025-12-13/data/listings.csv.gz
+Quebec City,Canada,Quebec,QC,quebec-city,city,nonEU,2026-03-21,pre,20260321053452,https://data.insideairbnb.com/canada/qc/quebec-city/2026-03-21/data/listings.csv.gz
+Quebec City,Canada,Quebec,QC,quebec-city,city,nonEU,2026-06-19,post,20260619061218,https://data.insideairbnb.com/canada/qc/quebec-city/2026-06-19/data/listings.csv.gz
+Quebec City,Canada,Quebec,QC,quebec-city,city,nonEU,2026-09-17,post,20260917015439,https://data.insideairbnb.com/canada/qc/quebec-city/2026-09-17/data/listings.csv.gz
+Toronto,Canada,Ontario,ON,toronto,city,nonEU,2025-12-12,pre,20251212032750,https://data.insideairbnb.com/canada/on/toronto/2025-12-12/data/listings.csv.gz
+Toronto,Canada,Ontario,ON,toronto,city,nonEU,2026-03-19,pre,20260319140911,https://data.insideairbnb.com/canada/on/toronto/2026-03-19/data/listings.csv.gz
+Toronto,Canada,Ontario,ON,toronto,city,nonEU,2026-06-15,post,20260615212054,https://data.insideairbnb.com/canada/on/toronto/2026-06-15/data/listings.csv.gz
+Toronto,Canada,Ontario,ON,toronto,city,nonEU,2026-09-16,post,20260916052317,https://data.insideairbnb.com/canada/on/toronto/2026-09-16/data/listings.csv.gz
+Vancouver,Canada,British Columbia,BC,vancouver,city,nonEU,2025-12-14,pre,20251214012010,https://data.insideairbnb.com/canada/bc/vancouver/2025-12-14/data/listings.csv.gz
+Vancouver,Canada,British Columbia,BC,vancouver,city,nonEU,2026-03-21,pre,20260321160744,https://data.insideairbnb.com/canada/bc/vancouver/2026-03-21/data/listings.csv.gz
+Vancouver,Canada,British Columbia,BC,vancouver,city,nonEU,2026-06-15,post,20260615212117,https://data.insideairbnb.com/canada/bc/vancouver/2026-06-15/data/listings.csv.gz
+Vancouver,Canada,British Columbia,BC,vancouver,city,nonEU,2026-09-17,post,20260917041122,https://data.insideairbnb.com/canada/bc/vancouver/2026-09-17/data/listings.csv.gz
+Victoria,Canada,British Columbia,BC,victoria,city,nonEU,2025-12-29,pre,20251229190231,https://data.insideairbnb.com/canada/bc/victoria/2025-12-29/data/listings.csv.gz
+Victoria,Canada,British Columbia,BC,victoria,city,nonEU,2026-03-30,pre,20260330145443,https://data.insideairbnb.com/canada/bc/victoria/2026-03-30/data/listings.csv.gz
+Victoria,Canada,British Columbia,BC,victoria,city,nonEU,2026-06-29,post,20260629161647,https://data.insideairbnb.com/canada/bc/victoria/2026-06-29/data/listings.csv.gz
+Victoria,Canada,British Columbia,BC,victoria,city,nonEU,2026-09-25,post,20260925011133,https://data.insideairbnb.com/canada/bc/victoria/2026-09-25/data/listings.csv.gz
+Winnipeg,Canada,Manitoba,MB,winnipeg,city,nonEU,2025-12-22,pre,20251222231209,https://data.insideairbnb.com/canada/mb/winnipeg/2025-12-22/data/listings.csv.gz
+Winnipeg,Canada,Manitoba,MB,winnipeg,city,nonEU,2026-03-25,pre,20260325043458,https://data.insideairbnb.com/canada/mb/winnipeg/2026-03-25/data/listings.csv.gz
+Winnipeg,Canada,Manitoba,MB,winnipeg,city,nonEU,2026-06-22,post,20260622055708,https://data.insideairbnb.com/canada/mb/winnipeg/2026-06-22/data/listings.csv.gz
+Winnipeg,Canada,Manitoba,MB,winnipeg,city,nonEU,2026-09-19,post,20260919032655,https://data.insideairbnb.com/canada/mb/winnipeg/2026-09-19/data/listings.csv.gz
+Santiago,Chile,Región Metropolitana de Santiago,RM,santiago,city,nonEU,2025-12-29,pre,20251229020346,https://data.insideairbnb.com/chile/rm/santiago/2025-12-29/data/listings.csv.gz
+Santiago,Chile,Región Metropolitana de Santiago,RM,santiago,city,nonEU,2026-03-30,pre,20260330062440,https://data.insideairbnb.com/chile/rm/santiago/2026-03-30/data/listings.csv.gz
+Santiago,Chile,Región Metropolitana de Santiago,RM,santiago,city,nonEU,2026-06-29,post,20260629151853,https://data.insideairbnb.com/chile/rm/santiago/2026-06-29/data/listings.csv.gz
+Santiago,Chile,Región Metropolitana de Santiago,RM,santiago,city,nonEU,2026-09-23,post,20260923225049,https://data.insideairbnb.com/chile/rm/santiago/2026-09-23/data/listings.csv.gz
+Hong Kong,China,Hong Kong,HK,hong-kong,city,nonEU,2025-12-27,pre,20251227053903,https://data.insideairbnb.com/china/hk/hong-kong/2025-12-27/data/listings.csv.gz
+Hong Kong,China,Hong Kong,HK,hong-kong,city,nonEU,2026-03-29,pre,20260329053134,https://data.insideairbnb.com/china/hk/hong-kong/2026-03-29/data/listings.csv.gz
+Hong Kong,China,Hong Kong,HK,hong-kong,city,nonEU,2026-06-27,post,20260627225958,https://data.insideairbnb.com/china/hk/hong-kong/2026-06-27/data/listings.csv.gz
+Hong Kong,China,Hong Kong,HK,hong-kong,city,nonEU,2026-09-20,post,20260920135913,https://data.insideairbnb.com/china/hk/hong-kong/2026-09-20/data/listings.csv.gz
+Bogotá,Colombia,Distrito Capital,DC,bogotá,city,nonEU,2026-06-21,post,20260621155658,https://data.insideairbnb.com/colombia/dc/bogotá/2026-06-21/data/listings.csv.gz
+Bogotá,Colombia,Distrito Capital,DC,bogotá,city,nonEU,2026-09-14,post,20260914164224,https://data.insideairbnb.com/colombia/dc/bogotá/2026-09-14/data/listings.csv.gz
+Prague,Czech Republic,Prague,Prague,prague,city,EU,2025-12-27,pre,20251227053831,https://data.insideairbnb.com/czech-republic/prague/prague/2025-12-27/data/listings.csv.gz
+Prague,Czech Republic,Prague,Prague,prague,city,EU,2026-03-29,pre,20260329053047,https://data.insideairbnb.com/czech-republic/prague/prague/2026-03-29/data/listings.csv.gz
+Prague,Czech Republic,Prague,Prague,prague,city,EU,2026-06-27,post,20260627225928,https://data.insideairbnb.com/czech-republic/prague/prague/2026-06-27/data/listings.csv.gz
+Prague,Czech Republic,Prague,Prague,prague,city,EU,2026-09-20,post,20260920135900,https://data.insideairbnb.com/czech-republic/prague/prague/2026-09-20/data/listings.csv.gz
+Copenhagen,Denmark,Hovedstaden,Hovedstaden,copenhagen,city,EU,2025-12-30,pre,20251230211246,https://data.insideairbnb.com/denmark/hovedstaden/copenhagen/2025-12-30/data/listings.csv.gz
+Copenhagen,Denmark,Hovedstaden,Hovedstaden,copenhagen,city,EU,2026-03-30,pre,20260330145533,https://data.insideairbnb.com/denmark/hovedstaden/copenhagen/2026-03-30/data/listings.csv.gz
+Copenhagen,Denmark,Hovedstaden,Hovedstaden,copenhagen,city,EU,2026-06-30,post,20260630053230,https://data.insideairbnb.com/denmark/hovedstaden/copenhagen/2026-06-30/data/listings.csv.gz
+Copenhagen,Denmark,Hovedstaden,Hovedstaden,copenhagen,city,EU,2026-09-25,post,20260925011200,https://data.insideairbnb.com/denmark/hovedstaden/copenhagen/2026-09-25/data/listings.csv.gz
+Bordeaux,France,Nouvelle-Aquitaine,Nouvelle-Aquitaine,bordeaux,city,EU,2025-12-22,pre,20251222231140,https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2025-12-22/data/listings.csv.gz
+Bordeaux,France,Nouvelle-Aquitaine,Nouvelle-Aquitaine,bordeaux,city,EU,2026-03-25,pre,20260325043414,https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2026-03-25/data/listings.csv.gz
+Bordeaux,France,Nouvelle-Aquitaine,Nouvelle-Aquitaine,bordeaux,city,EU,2026-06-22,post,20260622055644,https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2026-06-22/data/listings.csv.gz
+Bordeaux,France,Nouvelle-Aquitaine,Nouvelle-Aquitaine,bordeaux,city,EU,2026-09-17,post,20260917204906,https://data.insideairbnb.com/france/nouvelle-aquitaine/bordeaux/2026-09-17/data/listings.csv.gz
+Lyon,France,Auvergne-Rhone-Alpes,Auvergne-Rhone-Alpes,lyon,city,EU,2025-12-22,pre,20251222231129,https://data.insideairbnb.com/france/auvergne-rhone-alpes/lyon/2025-12-22/data/listings.csv.gz
+Lyon,France,Auvergne-Rhone-Alpes,Auvergne-Rhone-Alpes,lyon,city,EU,2026-03-25,pre,20260325043359,https://data.insideairbnb.com/france/auvergne-rhone-alpes/lyon/2026-03-25/data/listings.csv.gz
+Lyon,France,Auvergne-Rhone-Alpes,Auvergne-Rhone-Alpes,lyon,city,EU,2026-06-22,post,20260622055631,https://data.insideairbnb.com/france/auvergne-rhone-alpes/lyon/2026-06-22/data/listings.csv.gz
+Lyon,France,Auvergne-Rhone-Alpes,Auvergne-Rhone-Alpes,lyon,city,EU,2026-09-17,post,20260917204853,https://data.insideairbnb.com/france/auvergne-rhone-alpes/lyon/2026-09-17/data/listings.csv.gz
+Paris,France,Île-de-France,Ile-de-France,paris,city,EU,2025-12-13,pre,20251213062844,https://data.insideairbnb.com/france/ile-de-france/paris/2025-12-13/data/listings.csv.gz
+Paris,France,Île-de-France,Ile-de-France,paris,city,EU,2026-03-21,pre,20260321053428,https://data.insideairbnb.com/france/ile-de-france/paris/2026-03-21/data/listings.csv.gz
+Paris,France,Île-de-France,Ile-de-France,paris,city,EU,2026-06-16,post,20260616211535,https://data.insideairbnb.com/france/ile-de-france/paris/2026-06-16/data/listings.csv.gz
+Paris,France,Île-de-France,Ile-de-France,paris,city,EU,2026-09-16,post,20260916052215,https://data.insideairbnb.com/france/ile-de-france/paris/2026-09-16/data/listings.csv.gz
+Pays Basque,France,Pyrénées-Atlantiques,Pyrénées-Atlantiques,pays-basque,city,EU,2025-12-25,pre,20251225141540,https://data.insideairbnb.com/france/pyrénées-atlantiques/pays-basque/2025-12-25/data/listings.csv.gz
+Pays Basque,France,Pyrénées-Atlantiques,Pyrénées-Atlantiques,pays-basque,city,EU,2026-03-26,pre,20260326033116,https://data.insideairbnb.com/france/pyrénées-atlantiques/pays-basque/2026-03-26/data/listings.csv.gz
+Pays Basque,France,Pyrénées-Atlantiques,Pyrénées-Atlantiques,pays-basque,city,EU,2026-06-23,post,20260623040825,https://data.insideairbnb.com/france/pyrénées-atlantiques/pays-basque/2026-06-23/data/listings.csv.gz
+Pays Basque,France,Pyrénées-Atlantiques,Pyrénées-Atlantiques,pays-basque,city,EU,2026-09-19,post,20260919032802,https://data.insideairbnb.com/france/pyrénées-atlantiques/pays-basque/2026-09-19/data/listings.csv.gz
+Berlin,Germany,Berlin,BE,berlin,city,EU,2025-12-27,pre,20251227053516,https://data.insideairbnb.com/germany/be/berlin/2025-12-27/data/listings.csv.gz
+Berlin,Germany,Berlin,BE,berlin,city,EU,2026-03-28,pre,20260328054538,https://data.insideairbnb.com/germany/be/berlin/2026-03-28/data/listings.csv.gz
+Berlin,Germany,Berlin,BE,berlin,city,EU,2026-06-26,post,20260626225638,https://data.insideairbnb.com/germany/be/berlin/2026-06-26/data/listings.csv.gz
+Berlin,Germany,Berlin,BE,berlin,city,EU,2026-09-19,post,20260919134159,https://data.insideairbnb.com/germany/be/berlin/2026-09-19/data/listings.csv.gz
+Munich,Germany,Bavaria,BV,munich,city,EU,2025-12-29,pre,20251229020252,https://data.insideairbnb.com/germany/bv/munich/2025-12-29/data/listings.csv.gz
+Munich,Germany,Bavaria,BV,munich,city,EU,2026-03-30,pre,20260330062404,https://data.insideairbnb.com/germany/bv/munich/2026-03-30/data/listings.csv.gz
+Munich,Germany,Bavaria,BV,munich,city,EU,2026-06-29,post,20260629030434,https://data.insideairbnb.com/germany/bv/munich/2026-06-29/data/listings.csv.gz
+Munich,Germany,Bavaria,BV,munich,city,EU,2026-09-23,post,20260923225026,https://data.insideairbnb.com/germany/bv/munich/2026-09-23/data/listings.csv.gz
+Athens,Greece,Attica,Attica,athens,city,EU,2025-12-28,pre,20251228220227,https://data.insideairbnb.com/greece/attica/athens/2025-12-28/data/listings.csv.gz
+Athens,Greece,Attica,Attica,athens,city,EU,2026-03-30,pre,20260330061503,https://data.insideairbnb.com/greece/attica/athens/2026-03-30/data/listings.csv.gz
+Athens,Greece,Attica,Attica,athens,city,EU,2026-06-28,post,20260628205948,https://data.insideairbnb.com/greece/attica/athens/2026-06-28/data/listings.csv.gz
+Athens,Greece,Attica,Attica,athens,city,EU,2026-09-22,post,20260922161635,https://data.insideairbnb.com/greece/attica/athens/2026-09-22/data/listings.csv.gz
+Crete,Greece,Crete,Crete,crete,city,EU,2025-12-29,pre,20251229190033,https://data.insideairbnb.com/greece/crete/crete/2025-12-29/data/listings.csv.gz
+Crete,Greece,Crete,Crete,crete,city,EU,2026-03-30,pre,20260330145116,https://data.insideairbnb.com/greece/crete/crete/2026-03-30/data/listings.csv.gz
+Crete,Greece,Crete,Crete,crete,city,EU,2026-06-29,post,20260629161621,https://data.insideairbnb.com/greece/crete/crete/2026-06-29/data/listings.csv.gz
+Crete,Greece,Crete,Crete,crete,city,EU,2026-09-25,post,20260925011120,https://data.insideairbnb.com/greece/crete/crete/2026-09-25/data/listings.csv.gz
+South Aegean,Greece,South Aegean,South Aegean,south-aegean,city,EU,2025-12-27,pre,20251227053812,https://data.insideairbnb.com/greece/south-aegean/south-aegean/2025-12-27/data/listings.csv.gz
+South Aegean,Greece,South Aegean,South Aegean,south-aegean,city,EU,2026-03-29,pre,20260329052934,https://data.insideairbnb.com/greece/south-aegean/south-aegean/2026-03-29/data/listings.csv.gz
+South Aegean,Greece,South Aegean,South Aegean,south-aegean,city,EU,2026-06-28,post,20260628195014,https://data.insideairbnb.com/greece/south-aegean/south-aegean/2026-06-28/data/listings.csv.gz
+South Aegean,Greece,South Aegean,South Aegean,south-aegean,city,EU,2026-09-20,post,20260920135850,https://data.insideairbnb.com/greece/south-aegean/south-aegean/2026-09-20/data/listings.csv.gz
+Thessaloniki,Greece,Central Macedonia,Central Macedonia,thessaloniki,city,EU,2025-12-28,pre,20251228220242,https://data.insideairbnb.com/greece/central-macedonia/thessaloniki/2025-12-28/data/listings.csv.gz
+Thessaloniki,Greece,Central Macedonia,Central Macedonia,thessaloniki,city,EU,2026-03-30,pre,20260330061515,https://data.insideairbnb.com/greece/central-macedonia/thessaloniki/2026-03-30/data/listings.csv.gz
+Thessaloniki,Greece,Central Macedonia,Central Macedonia,thessaloniki,city,EU,2026-06-29,post,20260629030038,https://data.insideairbnb.com/greece/central-macedonia/thessaloniki/2026-06-29/data/listings.csv.gz
+Thessaloniki,Greece,Central Macedonia,Central Macedonia,thessaloniki,city,EU,2026-09-22,post,20260922161643,https://data.insideairbnb.com/greece/central-macedonia/thessaloniki/2026-09-22/data/listings.csv.gz
+Budapest,Hungary,Közép-Magyarország,Közép-Magyarország,budapest,city,EU,2025-12-28,pre,20251228033144,https://data.insideairbnb.com/hungary/közép-magyarország/budapest/2025-12-28/data/listings.csv.gz
+Budapest,Hungary,Közép-Magyarország,Közép-Magyarország,budapest,city,EU,2026-03-29,pre,20260329180848,https://data.insideairbnb.com/hungary/közép-magyarország/budapest/2026-03-29/data/listings.csv.gz
+Budapest,Hungary,Közép-Magyarország,Közép-Magyarország,budapest,city,EU,2026-06-28,post,20260628205324,https://data.insideairbnb.com/hungary/közép-magyarország/budapest/2026-06-28/data/listings.csv.gz
+Budapest,Hungary,Közép-Magyarország,Közép-Magyarország,budapest,city,EU,2026-09-21,post,20260921222910,https://data.insideairbnb.com/hungary/közép-magyarország/budapest/2026-09-21/data/listings.csv.gz
+Dublin,Ireland,Leinster,Leinster,dublin,city,EU,2025-12-16,pre,20251216055059,https://data.insideairbnb.com/ireland/leinster/dublin/2025-12-16/data/listings.csv.gz
+Dublin,Ireland,Leinster,Leinster,dublin,city,EU,2026-03-25,pre,20260325043320,https://data.insideairbnb.com/ireland/leinster/dublin/2026-03-25/data/listings.csv.gz
+Dublin,Ireland,Leinster,Leinster,dublin,city,EU,2026-06-21,post,20260621054341,https://data.insideairbnb.com/ireland/leinster/dublin/2026-06-21/data/listings.csv.gz
+Dublin,Ireland,Leinster,Leinster,dublin,city,EU,2026-09-17,post,20260917204825,https://data.insideairbnb.com/ireland/leinster/dublin/2026-09-17/data/listings.csv.gz
+Ireland (nationwide),Ireland,,,ireland,country,EU,2025-12-14,pre,20251214012053,https://data.insideairbnb.com/ireland/2025-12-14/data/listings.csv.gz
+Ireland (nationwide),Ireland,,,ireland,country,EU,2026-03-21,pre,20260321160827,https://data.insideairbnb.com/ireland/2026-03-21/data/listings.csv.gz
+Ireland (nationwide),Ireland,,,ireland,country,EU,2026-06-21,post,20260621054225,https://data.insideairbnb.com/ireland/2026-06-21/data/listings.csv.gz
+Ireland (nationwide),Ireland,,,ireland,country,EU,2026-09-17,post,20260917041508,https://data.insideairbnb.com/ireland/2026-09-17/data/listings.csv.gz
+Bergamo,Italy,Lombardia,Lombardia,bergamo,city,EU,2025-12-31,pre,20251231032953,https://data.insideairbnb.com/italy/lombardia/bergamo/2025-12-31/data/listings.csv.gz
+Bergamo,Italy,Lombardia,Lombardia,bergamo,city,EU,2026-03-31,pre,20260331043921,https://data.insideairbnb.com/italy/lombardia/bergamo/2026-03-31/data/listings.csv.gz
+Bergamo,Italy,Lombardia,Lombardia,bergamo,city,EU,2026-06-30,post,20260630145058,https://data.insideairbnb.com/italy/lombardia/bergamo/2026-06-30/data/listings.csv.gz
+Bergamo,Italy,Lombardia,Lombardia,bergamo,city,EU,2026-09-25,post,20260925130238,https://data.insideairbnb.com/italy/lombardia/bergamo/2026-09-25/data/listings.csv.gz
+Bologna,Italy,Emilia-Romagna,Emilia-Romagna,bologna,city,EU,2026-03-27,pre,20260327043002,https://data.insideairbnb.com/italy/emilia-romagna/bologna/2026-03-27/data/listings.csv.gz
+Bologna,Italy,Emilia-Romagna,Emilia-Romagna,bologna,city,EU,2026-06-26,post,20260626225529,https://data.insideairbnb.com/italy/emilia-romagna/bologna/2026-06-26/data/listings.csv.gz
+Bologna,Italy,Emilia-Romagna,Emilia-Romagna,bologna,city,EU,2026-09-19,post,20260919134129,https://data.insideairbnb.com/italy/emilia-romagna/bologna/2026-09-19/data/listings.csv.gz
+Florence,Italy,Toscana,Toscana,florence,city,EU,2025-12-26,pre,20251226035221,https://data.insideairbnb.com/italy/toscana/florence/2025-12-26/data/listings.csv.gz
+Florence,Italy,Toscana,Toscana,florence,city,EU,2026-03-27,pre,20260327043016,https://data.insideairbnb.com/italy/toscana/florence/2026-03-27/data/listings.csv.gz
+Florence,Italy,Toscana,Toscana,florence,city,EU,2026-06-26,post,20260626225546,https://data.insideairbnb.com/italy/toscana/florence/2026-06-26/data/listings.csv.gz
+Florence,Italy,Toscana,Toscana,florence,city,EU,2026-09-19,post,20260919134137,https://data.insideairbnb.com/italy/toscana/florence/2026-09-19/data/listings.csv.gz
+Milan,Italy,Lombardy,Lombardy,milan,city,EU,2025-12-26,pre,20251226035126,https://data.insideairbnb.com/italy/lombardy/milan/2025-12-26/data/listings.csv.gz
+Milan,Italy,Lombardy,Lombardy,milan,city,EU,2026-03-27,pre,20260327042928,https://data.insideairbnb.com/italy/lombardy/milan/2026-03-27/data/listings.csv.gz
+Milan,Italy,Lombardy,Lombardy,milan,city,EU,2026-06-25,post,20260625152350,https://data.insideairbnb.com/italy/lombardy/milan/2026-06-25/data/listings.csv.gz
+Milan,Italy,Lombardy,Lombardy,milan,city,EU,2026-09-19,post,20260919134113,https://data.insideairbnb.com/italy/lombardy/milan/2026-09-19/data/listings.csv.gz
+Naples,Italy,Campania,Campania,naples,city,EU,2025-12-26,pre,20251226035141,https://data.insideairbnb.com/italy/campania/naples/2025-12-26/data/listings.csv.gz
+Naples,Italy,Campania,Campania,naples,city,EU,2026-03-27,pre,20260327042944,https://data.insideairbnb.com/italy/campania/naples/2026-03-27/data/listings.csv.gz
+Naples,Italy,Campania,Campania,naples,city,EU,2026-06-25,post,20260625152409,https://data.insideairbnb.com/italy/campania/naples/2026-06-25/data/listings.csv.gz
+Naples,Italy,Campania,Campania,naples,city,EU,2026-09-19,post,20260919134121,https://data.insideairbnb.com/italy/campania/naples/2026-09-19/data/listings.csv.gz
+Puglia,Italy,Puglia,Puglia,puglia,city,EU,2025-12-31,pre,20251231032931,https://data.insideairbnb.com/italy/puglia/puglia/2025-12-31/data/listings.csv.gz
+Puglia,Italy,Puglia,Puglia,puglia,city,EU,2026-03-31,pre,20260331043907,https://data.insideairbnb.com/italy/puglia/puglia/2026-03-31/data/listings.csv.gz
+Puglia,Italy,Puglia,Puglia,puglia,city,EU,2026-06-30,post,20260630150333,https://data.insideairbnb.com/italy/puglia/puglia/2026-06-30/data/listings.csv.gz
+Puglia,Italy,Puglia,Puglia,puglia,city,EU,2026-09-25,post,20260925130232,https://data.insideairbnb.com/italy/puglia/puglia/2026-09-25/data/listings.csv.gz
+Rome,Italy,Lazio,Lazio,rome,city,EU,2025-12-16,pre,20251216055009,https://data.insideairbnb.com/italy/lazio/rome/2025-12-16/data/listings.csv.gz
+Rome,Italy,Lazio,Lazio,rome,city,EU,2026-03-24,pre,20260324054502,https://data.insideairbnb.com/italy/lazio/rome/2026-03-24/data/listings.csv.gz
+Rome,Italy,Lazio,Lazio,rome,city,EU,2026-06-20,post,20260620165006,https://data.insideairbnb.com/italy/lazio/rome/2026-06-20/data/listings.csv.gz
+Rome,Italy,Lazio,Lazio,rome,city,EU,2026-09-17,post,20260917204750,https://data.insideairbnb.com/italy/lazio/rome/2026-09-17/data/listings.csv.gz
+Sicily,Italy,Sicilia,Sicilia,sicily,city,EU,2025-12-30,pre,20251230211319,https://data.insideairbnb.com/italy/sicilia/sicily/2025-12-30/data/listings.csv.gz
+Sicily,Italy,Sicilia,Sicilia,sicily,city,EU,2026-03-31,pre,20260331043708,https://data.insideairbnb.com/italy/sicilia/sicily/2026-03-31/data/listings.csv.gz
+Sicily,Italy,Sicilia,Sicilia,sicily,city,EU,2026-06-30,post,20260630203043,https://data.insideairbnb.com/italy/sicilia/sicily/2026-06-30/data/listings.csv.gz
+Sicily,Italy,Sicilia,Sicilia,sicily,city,EU,2026-09-25,post,20260925011213,https://data.insideairbnb.com/italy/sicilia/sicily/2026-09-25/data/listings.csv.gz
+Trentino,Italy,Trentino-Alto Adige/Südtirol,Trentino-Alto Adige/Südtirol,trentino,city,EU,2025-12-31,pre,20251231141850,https://data.insideairbnb.com/italy/trentino-alto-adige-südtirol/trentino/2025-12-31/data/listings.csv.gz
+Trentino,Italy,Trentino-Alto Adige/Südtirol,Trentino-Alto Adige/Südtirol,trentino,city,EU,2026-03-31,pre,20260331160359,https://data.insideairbnb.com/italy/trentino-alto-adige-südtirol/trentino/2026-03-31/data/listings.csv.gz
+Trentino,Italy,Trentino-Alto Adige/Südtirol,Trentino-Alto Adige/Südtirol,trentino,city,EU,2026-06-30,post,20260630204332,https://data.insideairbnb.com/italy/trentino-alto-adige-südtirol/trentino/2026-06-30/data/listings.csv.gz
+Trentino,Italy,Trentino-Alto Adige/Südtirol,Trentino-Alto Adige/Südtirol,trentino,city,EU,2026-09-28,post,20260928021039,https://data.insideairbnb.com/italy/trentino-alto-adige-südtirol/trentino/2026-09-28/data/listings.csv.gz
+Venice,Italy,Veneto,Veneto,venice,city,EU,2025-12-11,pre,20251211132236,https://data.insideairbnb.com/italy/veneto/venice/2025-12-11/data/listings.csv.gz
+Venice,Italy,Veneto,Veneto,venice,city,EU,2026-03-19,pre,20260319140824,https://data.insideairbnb.com/italy/veneto/venice/2026-03-19/data/listings.csv.gz
+Venice,Italy,Veneto,Veneto,venice,city,EU,2026-06-15,post,20260615211938,https://data.insideairbnb.com/italy/veneto/venice/2026-06-15/data/listings.csv.gz
+Venice,Italy,Veneto,Veneto,venice,city,EU,2026-09-16,post,20260916052420,https://data.insideairbnb.com/italy/veneto/venice/2026-09-16/data/listings.csv.gz
+Tokyo,Japan,Kantō,Kantō,tokyo,city,nonEU,2025-12-29,pre,20251229190257,https://data.insideairbnb.com/japan/kantō/tokyo/2025-12-29/data/listings.csv.gz
+Tokyo,Japan,Kantō,Kantō,tokyo,city,nonEU,2026-03-30,pre,20260330145509,https://data.insideairbnb.com/japan/kantō/tokyo/2026-03-30/data/listings.csv.gz
+Tokyo,Japan,Kantō,Kantō,tokyo,city,nonEU,2026-06-30,post,20260630053204,https://data.insideairbnb.com/japan/kantō/tokyo/2026-06-30/data/listings.csv.gz
+Tokyo,Japan,Kantō,Kantō,tokyo,city,nonEU,2026-09-25,post,20260925011146,https://data.insideairbnb.com/japan/kantō/tokyo/2026-09-25/data/listings.csv.gz
+Nairobi,Kenya,Nairobi,Nairobi,nairobi,city,nonEU,2026-06-15,post,20260615033237,https://data.insideairbnb.com/kenya/nairobi/nairobi/2026-06-15/data/listings.csv.gz
+Nairobi,Kenya,Nairobi,Nairobi,nairobi,city,nonEU,2026-09-14,post,20260914164153,https://data.insideairbnb.com/kenya/nairobi/nairobi/2026-09-14/data/listings.csv.gz
+Riga,Latvia,Riga,Riga,riga,city,EU,2025-12-30,pre,20251230211413,https://data.insideairbnb.com/latvia/riga/riga/2025-12-30/data/listings.csv.gz
+Riga,Latvia,Riga,Riga,riga,city,EU,2026-03-31,pre,20260331043746,https://data.insideairbnb.com/latvia/riga/riga/2026-03-31/data/listings.csv.gz
+Riga,Latvia,Riga,Riga,riga,city,EU,2026-06-30,post,20260630053536,https://data.insideairbnb.com/latvia/riga/riga/2026-06-30/data/listings.csv.gz
+Riga,Latvia,Riga,Riga,riga,city,EU,2026-09-25,post,20260925130049,https://data.insideairbnb.com/latvia/riga/riga/2026-09-25/data/listings.csv.gz
+Malta (nationwide),Malta,,,malta,country,EU,2025-12-28,pre,20251228034243,https://data.insideairbnb.com/malta/2025-12-28/data/listings.csv.gz
+Malta (nationwide),Malta,,,malta,country,EU,2026-03-30,pre,20260330144331,https://data.insideairbnb.com/malta/2026-03-30/data/listings.csv.gz
+Malta (nationwide),Malta,,,malta,country,EU,2026-06-28,post,20260628205459,https://data.insideairbnb.com/malta/2026-06-28/data/listings.csv.gz
+Malta (nationwide),Malta,,,malta,country,EU,2026-09-21,post,20260921223014,https://data.insideairbnb.com/malta/2026-09-21/data/listings.csv.gz
+Mexico City,Mexico,Distrito Federal,DF,mexico-city,city,nonEU,2025-12-29,pre,20251229020309,https://data.insideairbnb.com/mexico/df/mexico-city/2025-12-29/data/listings.csv.gz
+Mexico City,Mexico,Distrito Federal,DF,mexico-city,city,nonEU,2026-03-30,pre,20260330062416,https://data.insideairbnb.com/mexico/df/mexico-city/2026-03-30/data/listings.csv.gz
+Mexico City,Mexico,Distrito Federal,DF,mexico-city,city,nonEU,2026-06-15,post,20260615212254,https://data.insideairbnb.com/mexico/df/mexico-city/2026-06-15/data/listings.csv.gz
+Mexico City,Mexico,Distrito Federal,DF,mexico-city,city,nonEU,2026-09-23,post,20260923225035,https://data.insideairbnb.com/mexico/df/mexico-city/2026-09-23/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2025-11-07,pre,20251107024032,https://data.insideairbnb.com/new-zealand/2025-11-07/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2025-12-11,pre,20251211043544,https://data.insideairbnb.com/new-zealand/2025-12-11/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-01-16,pre,20260116025119,https://data.insideairbnb.com/new-zealand/2026-01-16/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-02-13,pre,20260213082401,https://data.insideairbnb.com/new-zealand/2026-02-13/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-03-17,pre,20260317022623,https://data.insideairbnb.com/new-zealand/2026-03-17/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-04-16,pre,20260416055825,https://data.insideairbnb.com/new-zealand/2026-04-16/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-05-23,post,20260523233653,https://data.insideairbnb.com/new-zealand/2026-05-23/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-06-19,post,20260619054827,https://data.insideairbnb.com/new-zealand/2026-06-19/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-07-12,post,20260712215645,https://data.insideairbnb.com/new-zealand/2026-07-12/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-08-13,post,20260813020733,https://data.insideairbnb.com/new-zealand/2026-08-13/data/listings.csv.gz
+New Zealand (nationwide),New Zealand,,,new-zealand,country,nonEU,2026-09-13,post,20260913153647,https://data.insideairbnb.com/new-zealand/2026-09-13/data/listings.csv.gz
+Oslo,Norway,Oslo,Oslo,oslo,city,EEA_nonEU,2025-12-30,pre,20251230211334,https://data.insideairbnb.com/norway/oslo/oslo/2025-12-30/data/listings.csv.gz
+Oslo,Norway,Oslo,Oslo,oslo,city,EEA_nonEU,2026-03-31,pre,20260331043720,https://data.insideairbnb.com/norway/oslo/oslo/2026-03-31/data/listings.csv.gz
+Oslo,Norway,Oslo,Oslo,oslo,city,EEA_nonEU,2026-06-30,post,20260630053456,https://data.insideairbnb.com/norway/oslo/oslo/2026-06-30/data/listings.csv.gz
+Oslo,Norway,Oslo,Oslo,oslo,city,EEA_nonEU,2026-09-25,post,20260925011220,https://data.insideairbnb.com/norway/oslo/oslo/2026-09-25/data/listings.csv.gz
+Lisbon,Portugal,Lisbon,Lisbon,lisbon,city,EU,2025-12-25,pre,20251225015035,https://data.insideairbnb.com/portugal/lisbon/lisbon/2025-12-25/data/listings.csv.gz
+Lisbon,Portugal,Lisbon,Lisbon,lisbon,city,EU,2026-03-26,pre,20260326033101,https://data.insideairbnb.com/portugal/lisbon/lisbon/2026-03-26/data/listings.csv.gz
+Lisbon,Portugal,Lisbon,Lisbon,lisbon,city,EU,2026-06-23,post,20260623040800,https://data.insideairbnb.com/portugal/lisbon/lisbon/2026-06-23/data/listings.csv.gz
+Lisbon,Portugal,Lisbon,Lisbon,lisbon,city,EU,2026-09-19,post,20260919032754,https://data.insideairbnb.com/portugal/lisbon/lisbon/2026-09-19/data/listings.csv.gz
+Porto,Portugal,Norte,Norte,porto,city,EU,2025-12-25,pre,20251225015017,https://data.insideairbnb.com/portugal/norte/porto/2025-12-25/data/listings.csv.gz
+Porto,Portugal,Norte,Norte,porto,city,EU,2026-03-26,pre,20260326033046,https://data.insideairbnb.com/portugal/norte/porto/2026-03-26/data/listings.csv.gz
+Porto,Portugal,Norte,Norte,porto,city,EU,2026-06-23,post,20260623040741,https://data.insideairbnb.com/portugal/norte/porto/2026-06-23/data/listings.csv.gz
+Porto,Portugal,Norte,Norte,porto,city,EU,2026-09-19,post,20260919032747,https://data.insideairbnb.com/portugal/norte/porto/2026-09-19/data/listings.csv.gz
+Singapore,Singapore,Singapore,SG,singapore,city,nonEU,2025-12-29,pre,20251229185951,https://data.insideairbnb.com/singapore/sg/singapore/2025-12-29/data/listings.csv.gz
+Singapore,Singapore,Singapore,SG,singapore,city,nonEU,2026-03-30,pre,20260330145034,https://data.insideairbnb.com/singapore/sg/singapore/2026-03-30/data/listings.csv.gz
+Singapore,Singapore,Singapore,SG,singapore,city,nonEU,2026-06-29,post,20260629151954,https://data.insideairbnb.com/singapore/sg/singapore/2026-06-29/data/listings.csv.gz
+Singapore,Singapore,Singapore,SG,singapore,city,nonEU,2026-09-23,post,20260923225116,https://data.insideairbnb.com/singapore/sg/singapore/2026-09-23/data/listings.csv.gz
+Cape Town,South Africa,Western Cape,WC,cape-town,city,nonEU,2025-12-29,pre,20251229020400,https://data.insideairbnb.com/south-africa/wc/cape-town/2025-12-29/data/listings.csv.gz
+Cape Town,South Africa,Western Cape,WC,cape-town,city,nonEU,2026-03-30,pre,20260330062452,https://data.insideairbnb.com/south-africa/wc/cape-town/2026-03-30/data/listings.csv.gz
+Cape Town,South Africa,Western Cape,WC,cape-town,city,nonEU,2026-06-29,post,20260629151913,https://data.insideairbnb.com/south-africa/wc/cape-town/2026-06-29/data/listings.csv.gz
+Cape Town,South Africa,Western Cape,WC,cape-town,city,nonEU,2026-09-23,post,20260923225056,https://data.insideairbnb.com/south-africa/wc/cape-town/2026-09-23/data/listings.csv.gz
+Barcelona,Spain,Catalonia,Catalonia,barcelona,city,EU,2025-12-14,pre,20251214012024,https://data.insideairbnb.com/spain/catalonia/barcelona/2025-12-14/data/listings.csv.gz
+Barcelona,Spain,Catalonia,Catalonia,barcelona,city,EU,2026-03-21,pre,20260321160757,https://data.insideairbnb.com/spain/catalonia/barcelona/2026-03-21/data/listings.csv.gz
+Barcelona,Spain,Catalonia,Catalonia,barcelona,city,EU,2026-06-24,post,20260624162917,https://data.insideairbnb.com/spain/catalonia/barcelona/2026-06-24/data/listings.csv.gz
+Barcelona,Spain,Catalonia,Catalonia,barcelona,city,EU,2026-09-17,post,20260917041147,https://data.insideairbnb.com/spain/catalonia/barcelona/2026-09-17/data/listings.csv.gz
+Euskadi,Spain,Euskadi,PV,euskadi,city,EU,2025-12-31,pre,20251231033018,https://data.insideairbnb.com/spain/pv/euskadi/2025-12-31/data/listings.csv.gz
+Euskadi,Spain,Euskadi,PV,euskadi,city,EU,2026-03-31,pre,20260331043942,https://data.insideairbnb.com/spain/pv/euskadi/2026-03-31/data/listings.csv.gz
+Euskadi,Spain,Euskadi,PV,euskadi,city,EU,2026-06-30,post,20260630202004,https://data.insideairbnb.com/spain/pv/euskadi/2026-06-30/data/listings.csv.gz
+Euskadi,Spain,Euskadi,PV,euskadi,city,EU,2026-09-25,post,20260925130246,https://data.insideairbnb.com/spain/pv/euskadi/2026-09-25/data/listings.csv.gz
+Girona,Spain,Catalonia,Catalonia,girona,city,EU,2025-12-31,pre,20251231033050,https://data.insideairbnb.com/spain/catalonia/girona/2025-12-31/data/listings.csv.gz
+Girona,Spain,Catalonia,Catalonia,girona,city,EU,2026-03-31,pre,20260331160216,https://data.insideairbnb.com/spain/catalonia/girona/2026-03-31/data/listings.csv.gz
+Girona,Spain,Catalonia,Catalonia,girona,city,EU,2026-06-30,post,20260630202025,https://data.insideairbnb.com/spain/catalonia/girona/2026-06-30/data/listings.csv.gz
+Girona,Spain,Catalonia,Catalonia,girona,city,EU,2026-09-25,post,20260925130253,https://data.insideairbnb.com/spain/catalonia/girona/2026-09-25/data/listings.csv.gz
+Madrid,Spain,Comunidad de Madrid,Comunidad de Madrid,madrid,city,EU,2025-12-14,pre,20251214012125,https://data.insideairbnb.com/spain/comunidad-de-madrid/madrid/2025-12-14/data/listings.csv.gz
+Madrid,Spain,Comunidad de Madrid,Comunidad de Madrid,madrid,city,EU,2026-03-24,pre,20260324054449,https://data.insideairbnb.com/spain/comunidad-de-madrid/madrid/2026-03-24/data/listings.csv.gz
+Madrid,Spain,Comunidad de Madrid,Comunidad de Madrid,madrid,city,EU,2026-06-20,post,20260620164952,https://data.insideairbnb.com/spain/comunidad-de-madrid/madrid/2026-06-20/data/listings.csv.gz
+Madrid,Spain,Comunidad de Madrid,Comunidad de Madrid,madrid,city,EU,2026-09-17,post,20260917204740,https://data.insideairbnb.com/spain/comunidad-de-madrid/madrid/2026-09-17/data/listings.csv.gz
+Malaga,Spain,Andalucía,Andalucía,malaga,city,EU,2025-12-31,pre,20251231141823,https://data.insideairbnb.com/spain/andalucía/malaga/2025-12-31/data/listings.csv.gz
+Malaga,Spain,Andalucía,Andalucía,malaga,city,EU,2026-03-31,pre,20260331160335,https://data.insideairbnb.com/spain/andalucía/malaga/2026-03-31/data/listings.csv.gz
+Malaga,Spain,Andalucía,Andalucía,malaga,city,EU,2026-06-30,post,20260630204216,https://data.insideairbnb.com/spain/andalucía/malaga/2026-06-30/data/listings.csv.gz
+Malaga,Spain,Andalucía,Andalucía,malaga,city,EU,2026-09-28,post,20260928021023,https://data.insideairbnb.com/spain/andalucía/malaga/2026-09-28/data/listings.csv.gz
+Mallorca,Spain,Islas Baleares,Islas Baleares,mallorca,city,EU,2025-12-25,pre,20251225014941,https://data.insideairbnb.com/spain/islas-baleares/mallorca/2025-12-25/data/listings.csv.gz
+Mallorca,Spain,Islas Baleares,Islas Baleares,mallorca,city,EU,2026-03-26,pre,20260326033022,https://data.insideairbnb.com/spain/islas-baleares/mallorca/2026-03-26/data/listings.csv.gz
+Mallorca,Spain,Islas Baleares,Islas Baleares,mallorca,city,EU,2026-06-23,post,20260623040707,https://data.insideairbnb.com/spain/islas-baleares/mallorca/2026-06-23/data/listings.csv.gz
+Mallorca,Spain,Islas Baleares,Islas Baleares,mallorca,city,EU,2026-09-19,post,20260919032708,https://data.insideairbnb.com/spain/islas-baleares/mallorca/2026-09-19/data/listings.csv.gz
+Menorca,Spain,Islas Baleares,Islas Baleares,menorca,city,EU,2025-12-31,pre,20251231141808,https://data.insideairbnb.com/spain/islas-baleares/menorca/2025-12-31/data/listings.csv.gz
+Menorca,Spain,Islas Baleares,Islas Baleares,menorca,city,EU,2026-03-31,pre,20260331160318,https://data.insideairbnb.com/spain/islas-baleares/menorca/2026-03-31/data/listings.csv.gz
+Menorca,Spain,Islas Baleares,Islas Baleares,menorca,city,EU,2026-06-30,post,20260630204201,https://data.insideairbnb.com/spain/islas-baleares/menorca/2026-06-30/data/listings.csv.gz
+Menorca,Spain,Islas Baleares,Islas Baleares,menorca,city,EU,2026-09-28,post,20260928021016,https://data.insideairbnb.com/spain/islas-baleares/menorca/2026-09-28/data/listings.csv.gz
+Sevilla,Spain,Andalucía,Andalucía,sevilla,city,EU,2025-12-30,pre,20251230211502,https://data.insideairbnb.com/spain/andalucía/sevilla/2025-12-30/data/listings.csv.gz
+Sevilla,Spain,Andalucía,Andalucía,sevilla,city,EU,2026-03-31,pre,20260331043840,https://data.insideairbnb.com/spain/andalucía/sevilla/2026-03-31/data/listings.csv.gz
+Sevilla,Spain,Andalucía,Andalucía,sevilla,city,EU,2026-06-30,post,20260630144934,https://data.insideairbnb.com/spain/andalucía/sevilla/2026-06-30/data/listings.csv.gz
+Sevilla,Spain,Andalucía,Andalucía,sevilla,city,EU,2026-09-25,post,20260925130107,https://data.insideairbnb.com/spain/andalucía/sevilla/2026-09-25/data/listings.csv.gz
+Valencia,Spain,Valencia,VC,valencia,city,EU,2025-12-27,pre,20251227053533,https://data.insideairbnb.com/spain/vc/valencia/2025-12-27/data/listings.csv.gz
+Valencia,Spain,Valencia,VC,valencia,city,EU,2026-03-28,pre,20260328054551,https://data.insideairbnb.com/spain/vc/valencia/2026-03-28/data/listings.csv.gz
+Valencia,Spain,Valencia,VC,valencia,city,EU,2026-06-26,post,20260626225654,https://data.insideairbnb.com/spain/vc/valencia/2026-06-26/data/listings.csv.gz
+Valencia,Spain,Valencia,VC,valencia,city,EU,2026-09-20,post,20260920135834,https://data.insideairbnb.com/spain/vc/valencia/2026-09-20/data/listings.csv.gz
+Stockholm,Sweden,Stockholms län,Stockholms län,stockholm,city,EU,2025-12-30,pre,20251230211303,https://data.insideairbnb.com/sweden/stockholms-län/stockholm/2025-12-30/data/listings.csv.gz
+Stockholm,Sweden,Stockholms län,Stockholms län,stockholm,city,EU,2026-03-31,pre,20260331043653,https://data.insideairbnb.com/sweden/stockholms-län/stockholm/2026-03-31/data/listings.csv.gz
+Stockholm,Sweden,Stockholms län,Stockholms län,stockholm,city,EU,2026-06-30,post,20260630053415,https://data.insideairbnb.com/sweden/stockholms-län/stockholm/2026-06-30/data/listings.csv.gz
+Stockholm,Sweden,Stockholms län,Stockholms län,stockholm,city,EU,2026-09-25,post,20260925011206,https://data.insideairbnb.com/sweden/stockholms-län/stockholm/2026-09-25/data/listings.csv.gz
+Geneva,Switzerland,Geneva,Geneva,geneva,city,EEA_nonEU,2025-12-29,pre,20251229190018,https://data.insideairbnb.com/switzerland/geneva/geneva/2025-12-29/data/listings.csv.gz
+Geneva,Switzerland,Geneva,Geneva,geneva,city,EEA_nonEU,2026-03-30,pre,20260330145103,https://data.insideairbnb.com/switzerland/geneva/geneva/2026-03-30/data/listings.csv.gz
+Geneva,Switzerland,Geneva,Geneva,geneva,city,EEA_nonEU,2026-06-29,post,20260629161606,https://data.insideairbnb.com/switzerland/geneva/geneva/2026-06-29/data/listings.csv.gz
+Geneva,Switzerland,Geneva,Geneva,geneva,city,EEA_nonEU,2026-09-23,post,20260923225144,https://data.insideairbnb.com/switzerland/geneva/geneva/2026-09-23/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-06-21,pre,20200621052003,https://data.insideairbnb.com/switzerland/vd/vaud/2020-06-21/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-07-22,pre,20200722205042,https://data.insideairbnb.com/switzerland/vd/vaud/2020-07-22/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-08-17,pre,20200817044037,https://data.insideairbnb.com/switzerland/vd/vaud/2020-08-17/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-09-07,pre,20200907203631,https://data.insideairbnb.com/switzerland/vd/vaud/2020-09-07/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-10-05,pre,20201005145924,https://data.insideairbnb.com/switzerland/vd/vaud/2020-10-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-11-02,pre,20201102191518,https://data.insideairbnb.com/switzerland/vd/vaud/2020-11-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2020-12-10,pre,20201210194835,https://data.insideairbnb.com/switzerland/vd/vaud/2020-12-10/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-01-08,pre,20210108081113,https://data.insideairbnb.com/switzerland/vd/vaud/2021-01-08/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-02-04,pre,20210204180357,https://data.insideairbnb.com/switzerland/vd/vaud/2021-02-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-03-03,pre,20210303170708,https://data.insideairbnb.com/switzerland/vd/vaud/2021-03-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-04-08,pre,20210408172440,https://data.insideairbnb.com/switzerland/vd/vaud/2021-04-08/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-05-08,pre,20210508175551,https://data.insideairbnb.com/switzerland/vd/vaud/2021-05-08/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-06-02,pre,20210602235609,https://data.insideairbnb.com/switzerland/vd/vaud/2021-06-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-07-03,pre,20210703181853,https://data.insideairbnb.com/switzerland/vd/vaud/2021-07-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-08-04,pre,20210804005845,https://data.insideairbnb.com/switzerland/vd/vaud/2021-08-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-09-02,pre,20210902151659,https://data.insideairbnb.com/switzerland/vd/vaud/2021-09-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-10-06,pre,20211006030823,https://data.insideairbnb.com/switzerland/vd/vaud/2021-10-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-11-04,pre,20211104024159,https://data.insideairbnb.com/switzerland/vd/vaud/2021-11-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2021-12-04,pre,20211204143048,https://data.insideairbnb.com/switzerland/vd/vaud/2021-12-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-01-06,pre,20220106025036,https://data.insideairbnb.com/switzerland/vd/vaud/2022-01-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-02-05,pre,20220205164859,https://data.insideairbnb.com/switzerland/vd/vaud/2022-02-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-03-08,pre,20220308023105,https://data.insideairbnb.com/switzerland/vd/vaud/2022-03-08/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-04-09,pre,20220409013334,https://data.insideairbnb.com/switzerland/vd/vaud/2022-04-09/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-05-17,pre,20220517170805,https://data.insideairbnb.com/switzerland/vd/vaud/2022-05-17/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-06-03,pre,20220603182717,https://data.insideairbnb.com/switzerland/vd/vaud/2022-06-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-07-07,pre,20220707030809,https://data.insideairbnb.com/switzerland/vd/vaud/2022-07-07/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-08-03,pre,20220803121152,https://data.insideairbnb.com/switzerland/vd/vaud/2022-08-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-09-07,pre,20220907064803,https://data.insideairbnb.com/switzerland/vd/vaud/2022-09-07/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-10-04,pre,20221004225904,https://data.insideairbnb.com/switzerland/vd/vaud/2022-10-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-11-02,pre,20221102181023,https://data.insideairbnb.com/switzerland/vd/vaud/2022-11-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2022-12-04,pre,20221204162443,https://data.insideairbnb.com/switzerland/vd/vaud/2022-12-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-01-04,pre,20230104171001,https://data.insideairbnb.com/switzerland/vd/vaud/2023-01-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-02-05,pre,20230205052425,https://data.insideairbnb.com/switzerland/vd/vaud/2023-02-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-03-07,pre,20230307175321,https://data.insideairbnb.com/switzerland/vd/vaud/2023-03-07/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-04-05,pre,20230405045525,https://data.insideairbnb.com/switzerland/vd/vaud/2023-04-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-05-03,pre,20230503161843,https://data.insideairbnb.com/switzerland/vd/vaud/2023-05-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-06-05,pre,20230605012724,https://data.insideairbnb.com/switzerland/vd/vaud/2023-06-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-07-03,pre,20230703001004,https://data.insideairbnb.com/switzerland/vd/vaud/2023-07-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-08-03,pre,20230803165301,https://data.insideairbnb.com/switzerland/vd/vaud/2023-08-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-09-02,pre,20230902023052,https://data.insideairbnb.com/switzerland/vd/vaud/2023-09-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-10-01,pre,20231001204826,https://data.insideairbnb.com/switzerland/vd/vaud/2023-10-01/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-11-01,pre,20231101184016,https://data.insideairbnb.com/switzerland/vd/vaud/2023-11-01/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2023-12-02,pre,20231202193358,https://data.insideairbnb.com/switzerland/vd/vaud/2023-12-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-01-05,pre,20240105143240,https://data.insideairbnb.com/switzerland/vd/vaud/2024-01-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-02-12,pre,20240212051625,https://data.insideairbnb.com/switzerland/vd/vaud/2024-02-12/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-03-10,pre,20240310003943,https://data.insideairbnb.com/switzerland/vd/vaud/2024-03-10/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-04-06,pre,20240406173653,https://data.insideairbnb.com/switzerland/vd/vaud/2024-04-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-05-03,pre,20240503175201,https://data.insideairbnb.com/switzerland/vd/vaud/2024-05-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-06-04,pre,20240604144008,https://data.insideairbnb.com/switzerland/vd/vaud/2024-06-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-07-14,pre,20240714033626,https://data.insideairbnb.com/switzerland/vd/vaud/2024-07-14/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-08-25,pre,20240825194210,https://data.insideairbnb.com/switzerland/vd/vaud/2024-08-25/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-09-17,pre,20240917041820,https://data.insideairbnb.com/switzerland/vd/vaud/2024-09-17/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-10-27,pre,20241027140706,https://data.insideairbnb.com/switzerland/vd/vaud/2024-10-27/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-11-20,pre,20241120155157,https://data.insideairbnb.com/switzerland/vd/vaud/2024-11-20/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2024-12-29,pre,20241229042440,https://data.insideairbnb.com/switzerland/vd/vaud/2024-12-29/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-01-26,pre,20250126200712,https://data.insideairbnb.com/switzerland/vd/vaud/2025-01-26/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-02-06,pre,20250206062035,https://data.insideairbnb.com/switzerland/vd/vaud/2025-02-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-03-01,pre,20250301213423,https://data.insideairbnb.com/switzerland/vd/vaud/2025-03-01/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-04-03,pre,20250403225600,https://data.insideairbnb.com/switzerland/vd/vaud/2025-04-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-05-02,pre,20250502031327,https://data.insideairbnb.com/switzerland/vd/vaud/2025-05-02/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-06-06,pre,20250606142124,https://data.insideairbnb.com/switzerland/vd/vaud/2025-06-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-07-04,pre,20250704005745,https://data.insideairbnb.com/switzerland/vd/vaud/2025-07-04/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-08-03,pre,20250803153340,https://data.insideairbnb.com/switzerland/vd/vaud/2025-08-03/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-09-06,pre,20250906174559,https://data.insideairbnb.com/switzerland/vd/vaud/2025-09-06/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-10-05,pre,20251005230046,https://data.insideairbnb.com/switzerland/vd/vaud/2025-10-05/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-11-01,pre,20251101202022,https://data.insideairbnb.com/switzerland/vd/vaud/2025-11-01/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2025-12-11,pre,20251211043448,https://data.insideairbnb.com/switzerland/vd/vaud/2025-12-11/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-01-15,pre,20260115062911,https://data.insideairbnb.com/switzerland/vd/vaud/2026-01-15/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-02-13,pre,20260213082319,https://data.insideairbnb.com/switzerland/vd/vaud/2026-02-13/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-03-16,pre,20260316030622,https://data.insideairbnb.com/switzerland/vd/vaud/2026-03-16/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-04-14,pre,20260414135946,https://data.insideairbnb.com/switzerland/vd/vaud/2026-04-14/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-05-23,post,20260523060653,https://data.insideairbnb.com/switzerland/vd/vaud/2026-05-23/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-06-15,post,20260615054226,https://data.insideairbnb.com/switzerland/vd/vaud/2026-06-15/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-07-12,post,20260712025202,https://data.insideairbnb.com/switzerland/vd/vaud/2026-07-12/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-08-10,post,20260810212509,https://data.insideairbnb.com/switzerland/vd/vaud/2026-08-10/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-09-14,post,20260914002335,https://data.insideairbnb.com/switzerland/vd/vaud/2026-09-14/data/listings.csv.gz
+Vaud,Switzerland,Vaud,VD,vaud,city,EEA_nonEU,2026-10-05,post,20261005125028,https://data.insideairbnb.com/switzerland/vd/vaud/2026-10-05/data/listings.csv.gz
+Zurich,Switzerland,Zürich,Zürich,zurich,city,EEA_nonEU,2025-12-29,pre,20251229190310,https://data.insideairbnb.com/switzerland/zürich/zurich/2025-12-29/data/listings.csv.gz
+Zurich,Switzerland,Zürich,Zürich,zurich,city,EEA_nonEU,2026-03-30,pre,20260330145521,https://data.insideairbnb.com/switzerland/zürich/zurich/2026-03-30/data/listings.csv.gz
+Zurich,Switzerland,Zürich,Zürich,zurich,city,EEA_nonEU,2026-06-30,post,20260630053217,https://data.insideairbnb.com/switzerland/zürich/zurich/2026-06-30/data/listings.csv.gz
+Zurich,Switzerland,Zürich,Zürich,zurich,city,EEA_nonEU,2026-09-25,post,20260925011153,https://data.insideairbnb.com/switzerland/zürich/zurich/2026-09-25/data/listings.csv.gz
+Taipei,Taiwan,Northern Taiwan,Northern Taiwan,taipei,city,nonEU,2025-12-31,pre,20251231141837,https://data.insideairbnb.com/taiwan/northern-taiwan/taipei/2025-12-31/data/listings.csv.gz
+Taipei,Taiwan,Northern Taiwan,Northern Taiwan,taipei,city,nonEU,2026-03-31,pre,20260331160347,https://data.insideairbnb.com/taiwan/northern-taiwan/taipei/2026-03-31/data/listings.csv.gz
+Taipei,Taiwan,Northern Taiwan,Northern Taiwan,taipei,city,nonEU,2026-06-30,post,20260630204233,https://data.insideairbnb.com/taiwan/northern-taiwan/taipei/2026-06-30/data/listings.csv.gz
+Taipei,Taiwan,Northern Taiwan,Northern Taiwan,taipei,city,nonEU,2026-09-28,post,20260928021031,https://data.insideairbnb.com/taiwan/northern-taiwan/taipei/2026-09-28/data/listings.csv.gz
+Bangkok,Thailand,Central Thailand,Central Thailand,bangkok,city,nonEU,2025-12-28,pre,20251228222230,https://data.insideairbnb.com/thailand/central-thailand/bangkok/2025-12-28/data/listings.csv.gz
+Bangkok,Thailand,Central Thailand,Central Thailand,bangkok,city,nonEU,2026-03-30,pre,20260330062321,https://data.insideairbnb.com/thailand/central-thailand/bangkok/2026-03-30/data/listings.csv.gz
+Bangkok,Thailand,Central Thailand,Central Thailand,bangkok,city,nonEU,2026-06-29,post,20260629030312,https://data.insideairbnb.com/thailand/central-thailand/bangkok/2026-06-29/data/listings.csv.gz
+Bangkok,Thailand,Central Thailand,Central Thailand,bangkok,city,nonEU,2026-09-22,post,20260922161718,https://data.insideairbnb.com/thailand/central-thailand/bangkok/2026-09-22/data/listings.csv.gz
+Amsterdam,The Netherlands,North Holland,North Holland,amsterdam,city,EU,2025-12-12,pre,20251212032737,https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-12-12/data/listings.csv.gz
+Amsterdam,The Netherlands,North Holland,North Holland,amsterdam,city,EU,2026-03-19,pre,20260319140900,https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2026-03-19/data/listings.csv.gz
+Amsterdam,The Netherlands,North Holland,North Holland,amsterdam,city,EU,2026-06-15,post,20260615212022,https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2026-06-15/data/listings.csv.gz
+Amsterdam,The Netherlands,North Holland,North Holland,amsterdam,city,EU,2026-09-16,post,20260916052246,https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2026-09-16/data/listings.csv.gz
+Rotterdam,The Netherlands,South Holland,South Holland,rotterdam,city,EU,2025-12-28,pre,20251228034217,https://data.insideairbnb.com/the-netherlands/south-holland/rotterdam/2025-12-28/data/listings.csv.gz
+Rotterdam,The Netherlands,South Holland,South Holland,rotterdam,city,EU,2026-03-29,pre,20260329195339,https://data.insideairbnb.com/the-netherlands/south-holland/rotterdam/2026-03-29/data/listings.csv.gz
+Rotterdam,The Netherlands,South Holland,South Holland,rotterdam,city,EU,2026-06-28,post,20260628205410,https://data.insideairbnb.com/the-netherlands/south-holland/rotterdam/2026-06-28/data/listings.csv.gz
+Rotterdam,The Netherlands,South Holland,South Holland,rotterdam,city,EU,2026-09-21,post,20260921222931,https://data.insideairbnb.com/the-netherlands/south-holland/rotterdam/2026-09-21/data/listings.csv.gz
+The Hague,The Netherlands,South Holland,South Holland,the-hague,city,EU,2025-12-28,pre,20251228034230,https://data.insideairbnb.com/the-netherlands/south-holland/the-hague/2025-12-28/data/listings.csv.gz
+The Hague,The Netherlands,South Holland,South Holland,the-hague,city,EU,2026-03-29,pre,20260329195351,https://data.insideairbnb.com/the-netherlands/south-holland/the-hague/2026-03-29/data/listings.csv.gz
+The Hague,The Netherlands,South Holland,South Holland,the-hague,city,EU,2026-06-28,post,20260628205429,https://data.insideairbnb.com/the-netherlands/south-holland/the-hague/2026-06-28/data/listings.csv.gz
+The Hague,The Netherlands,South Holland,South Holland,the-hague,city,EU,2026-09-21,post,20260921222938,https://data.insideairbnb.com/the-netherlands/south-holland/the-hague/2026-09-21/data/listings.csv.gz
+Istanbul,Turkey,Marmara,Marmara,istanbul,city,nonEU,2025-12-30,pre,20251230211430,https://data.insideairbnb.com/turkey/marmara/istanbul/2025-12-30/data/listings.csv.gz
+Istanbul,Turkey,Marmara,Marmara,istanbul,city,nonEU,2026-03-31,pre,20260331043758,https://data.insideairbnb.com/turkey/marmara/istanbul/2026-03-31/data/listings.csv.gz
+Istanbul,Turkey,Marmara,Marmara,istanbul,city,nonEU,2026-06-30,post,20260630053558,https://data.insideairbnb.com/turkey/marmara/istanbul/2026-06-30/data/listings.csv.gz
+Istanbul,Turkey,Marmara,Marmara,istanbul,city,nonEU,2026-09-25,post,20260925130056,https://data.insideairbnb.com/turkey/marmara/istanbul/2026-09-25/data/listings.csv.gz
+Bristol,United Kingdom,England,England,bristol,city,nonEU,2025-12-28,pre,20251228222136,https://data.insideairbnb.com/united-kingdom/england/bristol/2025-12-28/data/listings.csv.gz
+Bristol,United Kingdom,England,England,bristol,city,nonEU,2026-03-30,pre,20260330061557,https://data.insideairbnb.com/united-kingdom/england/bristol/2026-03-30/data/listings.csv.gz
+Bristol,United Kingdom,England,England,bristol,city,nonEU,2026-06-29,post,20260629030225,https://data.insideairbnb.com/united-kingdom/england/bristol/2026-06-29/data/listings.csv.gz
+Bristol,United Kingdom,England,England,bristol,city,nonEU,2026-09-22,post,20260922161704,https://data.insideairbnb.com/united-kingdom/england/bristol/2026-09-22/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2024-06-19,pre,20240619031603,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2024-06-19/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2024-09-13,pre,20240913130419,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2024-09-13/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2024-12-14,pre,20241214212404,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2024-12-14/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2025-03-08,pre,20250308054708,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2025-03-08/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2025-06-15,pre,20250615184608,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2025-06-15/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2025-09-21,pre,20250921034137,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2025-09-21/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2025-12-25,pre,20251225014959,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2025-12-25/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2026-03-26,pre,20260326033034,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2026-03-26/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2026-06-23,post,20260623040725,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2026-06-23/data/listings.csv.gz
+Edinburgh,United Kingdom,Scotland,Scotland,edinburgh,city,nonEU,2026-09-19,post,20260919032717,https://data.insideairbnb.com/united-kingdom/scotland/edinburgh/2026-09-19/data/listings.csv.gz
+Greater Manchester,United Kingdom,England,England,greater-manchester,city,nonEU,2025-12-28,pre,20251228220210,https://data.insideairbnb.com/united-kingdom/england/greater-manchester/2025-12-28/data/listings.csv.gz
+Greater Manchester,United Kingdom,England,England,greater-manchester,city,nonEU,2026-03-29,pre,20260329195437,https://data.insideairbnb.com/united-kingdom/england/greater-manchester/2026-03-29/data/listings.csv.gz
+Greater Manchester,United Kingdom,England,England,greater-manchester,city,nonEU,2026-06-28,post,20260628205933,https://data.insideairbnb.com/united-kingdom/england/greater-manchester/2026-06-28/data/listings.csv.gz
+Greater Manchester,United Kingdom,England,England,greater-manchester,city,nonEU,2026-09-22,post,20260922161627,https://data.insideairbnb.com/united-kingdom/england/greater-manchester/2026-09-22/data/listings.csv.gz
+London,United Kingdom,England,England,london,city,nonEU,2025-12-13,pre,20251213062951,https://data.insideairbnb.com/united-kingdom/england/london/2025-12-13/data/listings.csv.gz
+London,United Kingdom,England,England,london,city,nonEU,2026-03-21,pre,20260321160707,https://data.insideairbnb.com/united-kingdom/england/london/2026-03-21/data/listings.csv.gz
+London,United Kingdom,England,England,london,city,nonEU,2026-06-19,post,20260619061251,https://data.insideairbnb.com/united-kingdom/england/london/2026-06-19/data/listings.csv.gz
+London,United Kingdom,England,England,london,city,nonEU,2026-09-17,post,20260917015706,https://data.insideairbnb.com/united-kingdom/england/london/2026-09-17/data/listings.csv.gz
+Albany,United States,New York,NY,albany,city,nonEU,2025-12-11,pre,20251211043518,https://data.insideairbnb.com/united-states/ny/albany/2025-12-11/data/listings.csv.gz
+Albany,United States,New York,NY,albany,city,nonEU,2026-03-17,pre,20260317022556,https://data.insideairbnb.com/united-states/ny/albany/2026-03-17/data/listings.csv.gz
+Albany,United States,New York,NY,albany,city,nonEU,2026-06-16,post,20260616211424,https://data.insideairbnb.com/united-states/ny/albany/2026-06-16/data/listings.csv.gz
+Albany,United States,New York,NY,albany,city,nonEU,2026-09-14,post,20260914164327,https://data.insideairbnb.com/united-states/ny/albany/2026-09-14/data/listings.csv.gz
+Asheville,United States,North Carolina,NC,asheville,city,nonEU,2025-12-26,pre,20251226035110,https://data.insideairbnb.com/united-states/nc/asheville/2025-12-26/data/listings.csv.gz
+Asheville,United States,North Carolina,NC,asheville,city,nonEU,2026-03-27,pre,20260327042909,https://data.insideairbnb.com/united-states/nc/asheville/2026-03-27/data/listings.csv.gz
+Asheville,United States,North Carolina,NC,asheville,city,nonEU,2026-06-25,post,20260625152334,https://data.insideairbnb.com/united-states/nc/asheville/2026-06-25/data/listings.csv.gz
+Asheville,United States,North Carolina,NC,asheville,city,nonEU,2026-09-19,post,20260919134106,https://data.insideairbnb.com/united-states/nc/asheville/2026-09-19/data/listings.csv.gz
+Austin,United States,Texas,TX,austin,city,nonEU,2025-12-22,pre,20251222231043,https://data.insideairbnb.com/united-states/tx/austin/2025-12-22/data/listings.csv.gz
+Austin,United States,Texas,TX,austin,city,nonEU,2026-03-25,pre,20260325043346,https://data.insideairbnb.com/united-states/tx/austin/2026-03-25/data/listings.csv.gz
+Austin,United States,Texas,TX,austin,city,nonEU,2026-06-22,post,20260622055616,https://data.insideairbnb.com/united-states/tx/austin/2026-06-22/data/listings.csv.gz
+Austin,United States,Texas,TX,austin,city,nonEU,2026-09-17,post,20260917204843,https://data.insideairbnb.com/united-states/tx/austin/2026-09-17/data/listings.csv.gz
+Boston,United States,Massachusetts,MA,boston,city,nonEU,2025-12-27,pre,20251227053437,https://data.insideairbnb.com/united-states/ma/boston/2025-12-27/data/listings.csv.gz
+Boston,United States,Massachusetts,MA,boston,city,nonEU,2026-03-28,pre,20260328054455,https://data.insideairbnb.com/united-states/ma/boston/2026-03-28/data/listings.csv.gz
+Boston,United States,Massachusetts,MA,boston,city,nonEU,2026-06-15,post,20260615212204,https://data.insideairbnb.com/united-states/ma/boston/2026-06-15/data/listings.csv.gz
+Boston,United States,Massachusetts,MA,boston,city,nonEU,2026-09-19,post,20260919134146,https://data.insideairbnb.com/united-states/ma/boston/2026-09-19/data/listings.csv.gz
+Bozeman,United States,Montana,MT,bozeman,city,nonEU,2025-12-13,pre,20251213062910,https://data.insideairbnb.com/united-states/mt/bozeman/2025-12-13/data/listings.csv.gz
+Bozeman,United States,Montana,MT,bozeman,city,nonEU,2026-03-21,pre,20260321053440,https://data.insideairbnb.com/united-states/mt/bozeman/2026-03-21/data/listings.csv.gz
+Bozeman,United States,Montana,MT,bozeman,city,nonEU,2026-06-19,post,20260619061201,https://data.insideairbnb.com/united-states/mt/bozeman/2026-06-19/data/listings.csv.gz
+Bozeman,United States,Montana,MT,bozeman,city,nonEU,2026-09-16,post,20260916052522,https://data.insideairbnb.com/united-states/mt/bozeman/2026-09-16/data/listings.csv.gz
+Broward County,United States,Florida,FL,broward-county,city,nonEU,2025-12-28,pre,20251228220259,https://data.insideairbnb.com/united-states/fl/broward-county/2025-12-28/data/listings.csv.gz
+Broward County,United States,Florida,FL,broward-county,city,nonEU,2026-03-30,pre,20260330061526,https://data.insideairbnb.com/united-states/fl/broward-county/2026-03-30/data/listings.csv.gz
+Broward County,United States,Florida,FL,broward-county,city,nonEU,2026-06-29,post,20260629205812,https://data.insideairbnb.com/united-states/fl/broward-county/2026-06-29/data/listings.csv.gz
+Broward County,United States,Florida,FL,broward-county,city,nonEU,2026-09-22,post,20260922161650,https://data.insideairbnb.com/united-states/fl/broward-county/2026-09-22/data/listings.csv.gz
+Cambridge,United States,Massachusetts,MA,cambridge,city,nonEU,2025-12-29,pre,20251229020415,https://data.insideairbnb.com/united-states/ma/cambridge/2025-12-29/data/listings.csv.gz
+Cambridge,United States,Massachusetts,MA,cambridge,city,nonEU,2026-03-30,pre,20260330145001,https://data.insideairbnb.com/united-states/ma/cambridge/2026-03-30/data/listings.csv.gz
+Cambridge,United States,Massachusetts,MA,cambridge,city,nonEU,2026-06-29,post,20260629151925,https://data.insideairbnb.com/united-states/ma/cambridge/2026-06-29/data/listings.csv.gz
+Cambridge,United States,Massachusetts,MA,cambridge,city,nonEU,2026-09-23,post,20260923225102,https://data.insideairbnb.com/united-states/ma/cambridge/2026-09-23/data/listings.csv.gz
+Chicago,United States,Illinois,IL,chicago,city,nonEU,2025-12-25,pre,20251225141719,https://data.insideairbnb.com/united-states/il/chicago/2025-12-25/data/listings.csv.gz
+Chicago,United States,Illinois,IL,chicago,city,nonEU,2026-03-27,pre,20260327042833,https://data.insideairbnb.com/united-states/il/chicago/2026-03-27/data/listings.csv.gz
+Chicago,United States,Illinois,IL,chicago,city,nonEU,2026-06-24,post,20260624160325,https://data.insideairbnb.com/united-states/il/chicago/2026-06-24/data/listings.csv.gz
+Chicago,United States,Illinois,IL,chicago,city,nonEU,2026-09-19,post,20260919134040,https://data.insideairbnb.com/united-states/il/chicago/2026-09-19/data/listings.csv.gz
+"Clark County, NV",United States,Nevada,NV,clark-county-nv,city,nonEU,2025-12-27,pre,20251227053548,https://data.insideairbnb.com/united-states/nv/clark-county-nv/2025-12-27/data/listings.csv.gz
+"Clark County, NV",United States,Nevada,NV,clark-county-nv,city,nonEU,2026-03-28,pre,20260328054605,https://data.insideairbnb.com/united-states/nv/clark-county-nv/2026-03-28/data/listings.csv.gz
+"Clark County, NV",United States,Nevada,NV,clark-county-nv,city,nonEU,2026-06-27,post,20260627225840,https://data.insideairbnb.com/united-states/nv/clark-county-nv/2026-06-27/data/listings.csv.gz
+"Clark County, NV",United States,Nevada,NV,clark-county-nv,city,nonEU,2026-09-20,post,20260920135843,https://data.insideairbnb.com/united-states/nv/clark-county-nv/2026-09-20/data/listings.csv.gz
+Columbus,United States,Ohio,OH,columbus,city,nonEU,2025-12-28,pre,20251228220319,https://data.insideairbnb.com/united-states/oh/columbus/2025-12-28/data/listings.csv.gz
+Columbus,United States,Ohio,OH,columbus,city,nonEU,2026-03-30,pre,20260330061538,https://data.insideairbnb.com/united-states/oh/columbus/2026-03-30/data/listings.csv.gz
+Columbus,United States,Ohio,OH,columbus,city,nonEU,2026-06-29,post,20260629030127,https://data.insideairbnb.com/united-states/oh/columbus/2026-06-29/data/listings.csv.gz
+Columbus,United States,Ohio,OH,columbus,city,nonEU,2026-09-22,post,20260922161657,https://data.insideairbnb.com/united-states/oh/columbus/2026-09-22/data/listings.csv.gz
+Dallas,United States,Texas,TX,dallas,city,nonEU,2025-12-25,pre,20251225141603,https://data.insideairbnb.com/united-states/tx/dallas/2025-12-25/data/listings.csv.gz
+Dallas,United States,Texas,TX,dallas,city,nonEU,2026-03-26,pre,20260326033137,https://data.insideairbnb.com/united-states/tx/dallas/2026-03-26/data/listings.csv.gz
+Dallas,United States,Texas,TX,dallas,city,nonEU,2026-06-15,post,20260615212140,https://data.insideairbnb.com/united-states/tx/dallas/2026-06-15/data/listings.csv.gz
+Dallas,United States,Texas,TX,dallas,city,nonEU,2026-09-19,post,20260919032813,https://data.insideairbnb.com/united-states/tx/dallas/2026-09-19/data/listings.csv.gz
+Denver,United States,Colorado,CO,denver,city,nonEU,2025-12-30,pre,20251230211446,https://data.insideairbnb.com/united-states/co/denver/2025-12-30/data/listings.csv.gz
+Denver,United States,Colorado,CO,denver,city,nonEU,2026-03-31,pre,20260331043824,https://data.insideairbnb.com/united-states/co/denver/2026-03-31/data/listings.csv.gz
+Denver,United States,Colorado,CO,denver,city,nonEU,2026-06-30,post,20260630053644,https://data.insideairbnb.com/united-states/co/denver/2026-06-30/data/listings.csv.gz
+Denver,United States,Colorado,CO,denver,city,nonEU,2026-09-25,post,20260925130101,https://data.insideairbnb.com/united-states/co/denver/2026-09-25/data/listings.csv.gz
+Fort Worth,United States,Texas,TX,fort-worth,city,nonEU,2025-12-16,pre,20251216055047,https://data.insideairbnb.com/united-states/tx/fort-worth/2025-12-16/data/listings.csv.gz
+Fort Worth,United States,Texas,TX,fort-worth,city,nonEU,2026-03-24,pre,20260324055052,https://data.insideairbnb.com/united-states/tx/fort-worth/2026-03-24/data/listings.csv.gz
+Fort Worth,United States,Texas,TX,fort-worth,city,nonEU,2026-06-21,post,20260621054321,https://data.insideairbnb.com/united-states/tx/fort-worth/2026-06-21/data/listings.csv.gz
+Fort Worth,United States,Texas,TX,fort-worth,city,nonEU,2026-09-17,post,20260917204817,https://data.insideairbnb.com/united-states/tx/fort-worth/2026-09-17/data/listings.csv.gz
+Hawaii,United States,Hawaii,HI,hawaii,city,nonEU,2025-12-16,pre,20251216055113,https://data.insideairbnb.com/united-states/hi/hawaii/2025-12-16/data/listings.csv.gz
+Hawaii,United States,Hawaii,HI,hawaii,city,nonEU,2026-03-25,pre,20260325043334,https://data.insideairbnb.com/united-states/hi/hawaii/2026-03-25/data/listings.csv.gz
+Hawaii,United States,Hawaii,HI,hawaii,city,nonEU,2026-06-21,post,20260621155815,https://data.insideairbnb.com/united-states/hi/hawaii/2026-06-21/data/listings.csv.gz
+Hawaii,United States,Hawaii,HI,hawaii,city,nonEU,2026-09-17,post,20260917204833,https://data.insideairbnb.com/united-states/hi/hawaii/2026-09-17/data/listings.csv.gz
+Jersey City,United States,New Jersey,NJ,jersey-city,city,nonEU,2025-12-28,pre,20251228033112,https://data.insideairbnb.com/united-states/nj/jersey-city/2025-12-28/data/listings.csv.gz
+Jersey City,United States,New Jersey,NJ,jersey-city,city,nonEU,2026-03-29,pre,20260329180817,https://data.insideairbnb.com/united-states/nj/jersey-city/2026-03-29/data/listings.csv.gz
+Jersey City,United States,New Jersey,NJ,jersey-city,city,nonEU,2026-06-27,post,20260627230156,https://data.insideairbnb.com/united-states/nj/jersey-city/2026-06-27/data/listings.csv.gz
+Jersey City,United States,New Jersey,NJ,jersey-city,city,nonEU,2026-09-21,post,20260921222854,https://data.insideairbnb.com/united-states/nj/jersey-city/2026-09-21/data/listings.csv.gz
+Los Angeles,United States,California,CA,los-angeles,city,nonEU,2025-12-04,pre,20251204025459,https://data.insideairbnb.com/united-states/ca/los-angeles/2025-12-04/data/listings.csv.gz
+Los Angeles,United States,California,CA,los-angeles,city,nonEU,2026-03-16,pre,20260316030553,https://data.insideairbnb.com/united-states/ca/los-angeles/2026-03-16/data/listings.csv.gz
+Los Angeles,United States,California,CA,los-angeles,city,nonEU,2026-06-15,post,20260615054117,https://data.insideairbnb.com/united-states/ca/los-angeles/2026-06-15/data/listings.csv.gz
+Los Angeles,United States,California,CA,los-angeles,city,nonEU,2026-09-14,post,20260914002257,https://data.insideairbnb.com/united-states/ca/los-angeles/2026-09-14/data/listings.csv.gz
+Nashville,United States,Tennessee,TN,nashville,city,nonEU,2025-12-27,pre,20251227053456,https://data.insideairbnb.com/united-states/tn/nashville/2025-12-27/data/listings.csv.gz
+Nashville,United States,Tennessee,TN,nashville,city,nonEU,2026-03-28,pre,20260328054512,https://data.insideairbnb.com/united-states/tn/nashville/2026-03-28/data/listings.csv.gz
+Nashville,United States,Tennessee,TN,nashville,city,nonEU,2026-06-26,post,20260626225602,https://data.insideairbnb.com/united-states/tn/nashville/2026-06-26/data/listings.csv.gz
+Nashville,United States,Tennessee,TN,nashville,city,nonEU,2026-09-19,post,20260919134153,https://data.insideairbnb.com/united-states/tn/nashville/2026-09-19/data/listings.csv.gz
+New Orleans,United States,Louisiana,LA,new-orleans,city,nonEU,2025-12-12,pre,20251212032810,https://data.insideairbnb.com/united-states/la/new-orleans/2025-12-12/data/listings.csv.gz
+New Orleans,United States,Louisiana,LA,new-orleans,city,nonEU,2026-03-19,pre,20260319140925,https://data.insideairbnb.com/united-states/la/new-orleans/2026-03-19/data/listings.csv.gz
+New Orleans,United States,Louisiana,LA,new-orleans,city,nonEU,2026-06-16,post,20260616211507,https://data.insideairbnb.com/united-states/la/new-orleans/2026-06-16/data/listings.csv.gz
+New Orleans,United States,Louisiana,LA,new-orleans,city,nonEU,2026-09-16,post,20260916052451,https://data.insideairbnb.com/united-states/la/new-orleans/2026-09-16/data/listings.csv.gz
+New York City,United States,New York,NY,new-york-city,city,nonEU,2025-12-04,pre,20251204025441,https://data.insideairbnb.com/united-states/ny/new-york-city/2025-12-04/data/listings.csv.gz
+New York City,United States,New York,NY,new-york-city,city,nonEU,2026-03-16,pre,20260316030535,https://data.insideairbnb.com/united-states/ny/new-york-city/2026-03-16/data/listings.csv.gz
+New York City,United States,New York,NY,new-york-city,city,nonEU,2026-06-14,post,20260614073253,https://data.insideairbnb.com/united-states/ny/new-york-city/2026-06-14/data/listings.csv.gz
+New York City,United States,New York,NY,new-york-city,city,nonEU,2026-09-14,post,20260914002229,https://data.insideairbnb.com/united-states/ny/new-york-city/2026-09-14/data/listings.csv.gz
+Newark,United States,New Jersey,NJ,newark,city,nonEU,2025-12-31,pre,20251231033134,https://data.insideairbnb.com/united-states/nj/newark/2025-12-31/data/listings.csv.gz
+Newark,United States,New Jersey,NJ,newark,city,nonEU,2026-03-31,pre,20260331160240,https://data.insideairbnb.com/united-states/nj/newark/2026-03-31/data/listings.csv.gz
+Newark,United States,New Jersey,NJ,newark,city,nonEU,2026-06-30,post,20260630202156,https://data.insideairbnb.com/united-states/nj/newark/2026-06-30/data/listings.csv.gz
+Newark,United States,New Jersey,NJ,newark,city,nonEU,2026-09-28,post,20260928020953,https://data.insideairbnb.com/united-states/nj/newark/2026-09-28/data/listings.csv.gz
+Oakland,United States,California,CA,oakland,city,nonEU,2025-12-28,pre,20251228033016,https://data.insideairbnb.com/united-states/ca/oakland/2025-12-28/data/listings.csv.gz
+Oakland,United States,California,CA,oakland,city,nonEU,2026-03-29,pre,20260329053241,https://data.insideairbnb.com/united-states/ca/oakland/2026-03-29/data/listings.csv.gz
+Oakland,United States,California,CA,oakland,city,nonEU,2026-06-27,post,20260627230112,https://data.insideairbnb.com/united-states/ca/oakland/2026-06-27/data/listings.csv.gz
+Oakland,United States,California,CA,oakland,city,nonEU,2026-09-20,post,20260920135928,https://data.insideairbnb.com/united-states/ca/oakland/2026-09-20/data/listings.csv.gz
+Pacific Grove,United States,California,CA,pacific-grove,city,nonEU,2025-12-31,pre,20251231141904,https://data.insideairbnb.com/united-states/ca/pacific-grove/2025-12-31/data/listings.csv.gz
+Pacific Grove,United States,California,CA,pacific-grove,city,nonEU,2026-03-31,pre,20260331160411,https://data.insideairbnb.com/united-states/ca/pacific-grove/2026-03-31/data/listings.csv.gz
+Pacific Grove,United States,California,CA,pacific-grove,city,nonEU,2026-06-14,post,20260614044328,https://data.insideairbnb.com/united-states/ca/pacific-grove/2026-06-14/data/listings.csv.gz
+Pacific Grove,United States,California,CA,pacific-grove,city,nonEU,2026-09-30,post,20260930185744,https://data.insideairbnb.com/united-states/ca/pacific-grove/2026-09-30/data/listings.csv.gz
+Portland,United States,Oregon,OR,portland,city,nonEU,2025-12-04,pre,20251204025512,https://data.insideairbnb.com/united-states/or/portland/2025-12-04/data/listings.csv.gz
+Portland,United States,Oregon,OR,portland,city,nonEU,2026-03-16,pre,20260316030607,https://data.insideairbnb.com/united-states/or/portland/2026-03-16/data/listings.csv.gz
+Portland,United States,Oregon,OR,portland,city,nonEU,2026-06-15,post,20260615054150,https://data.insideairbnb.com/united-states/or/portland/2026-06-15/data/listings.csv.gz
+Portland,United States,Oregon,OR,portland,city,nonEU,2026-09-14,post,20260914001804,https://data.insideairbnb.com/united-states/or/portland/2026-09-14/data/listings.csv.gz
+Rhode Island,United States,Rhode Island,RI,rhode-island,city,nonEU,2025-12-31,pre,20251231033204,https://data.insideairbnb.com/united-states/ri/rhode-island/2025-12-31/data/listings.csv.gz
+Rhode Island,United States,Rhode Island,RI,rhode-island,city,nonEU,2026-03-31,pre,20260331160304,https://data.insideairbnb.com/united-states/ri/rhode-island/2026-03-31/data/listings.csv.gz
+Rhode Island,United States,Rhode Island,RI,rhode-island,city,nonEU,2026-06-30,post,20260630204144,https://data.insideairbnb.com/united-states/ri/rhode-island/2026-06-30/data/listings.csv.gz
+Rhode Island,United States,Rhode Island,RI,rhode-island,city,nonEU,2026-09-28,post,20260928021009,https://data.insideairbnb.com/united-states/ri/rhode-island/2026-09-28/data/listings.csv.gz
+Rochester,United States,New York,NY,rochester,city,nonEU,2025-12-28,pre,20251228033057,https://data.insideairbnb.com/united-states/ny/rochester/2025-12-28/data/listings.csv.gz
+Rochester,United States,New York,NY,rochester,city,nonEU,2026-03-29,pre,20260329174941,https://data.insideairbnb.com/united-states/ny/rochester/2026-03-29/data/listings.csv.gz
+Rochester,United States,New York,NY,rochester,city,nonEU,2026-06-27,post,20260627230143,https://data.insideairbnb.com/united-states/ny/rochester/2026-06-27/data/listings.csv.gz
+Rochester,United States,New York,NY,rochester,city,nonEU,2026-09-21,post,20260921222845,https://data.insideairbnb.com/united-states/ny/rochester/2026-09-21/data/listings.csv.gz
+"Salem, OR",United States,Oregon,OR,salem-or,city,nonEU,2025-12-28,pre,20251228034149,https://data.insideairbnb.com/united-states/or/salem-or/2025-12-28/data/listings.csv.gz
+"Salem, OR",United States,Oregon,OR,salem-or,city,nonEU,2026-03-29,pre,20260329180902,https://data.insideairbnb.com/united-states/or/salem-or/2026-03-29/data/listings.csv.gz
+"Salem, OR",United States,Oregon,OR,salem-or,city,nonEU,2026-06-28,post,20260628205347,https://data.insideairbnb.com/united-states/or/salem-or/2026-06-28/data/listings.csv.gz
+"Salem, OR",United States,Oregon,OR,salem-or,city,nonEU,2026-09-21,post,20260921222917,https://data.insideairbnb.com/united-states/or/salem-or/2026-09-21/data/listings.csv.gz
+San Diego,United States,California,CA,san-diego,city,nonEU,2025-12-11,pre,20251211153225,https://data.insideairbnb.com/united-states/ca/san-diego/2025-12-11/data/listings.csv.gz
+San Diego,United States,California,CA,san-diego,city,nonEU,2025-12-22,pre,20251222231239,https://data.insideairbnb.com/united-states/ca/san-diego/2025-12-22/data/listings.csv.gz
+San Diego,United States,California,CA,san-diego,city,nonEU,2026-03-29,pre,20260329053301,https://data.insideairbnb.com/united-states/ca/san-diego/2026-03-29/data/listings.csv.gz
+San Diego,United States,California,CA,san-diego,city,nonEU,2026-06-27,post,20260627230126,https://data.insideairbnb.com/united-states/ca/san-diego/2026-06-27/data/listings.csv.gz
+San Diego,United States,California,CA,san-diego,city,nonEU,2026-09-20,post,20260920135936,https://data.insideairbnb.com/united-states/ca/san-diego/2026-09-20/data/listings.csv.gz
+San Francisco,United States,California,CA,san-francisco,city,nonEU,2025-12-04,pre,20251204025409,https://data.insideairbnb.com/united-states/ca/san-francisco/2025-12-04/data/listings.csv.gz
+San Francisco,United States,California,CA,san-francisco,city,nonEU,2026-03-16,pre,20260316030519,https://data.insideairbnb.com/united-states/ca/san-francisco/2026-03-16/data/listings.csv.gz
+San Francisco,United States,California,CA,san-francisco,city,nonEU,2026-06-14,post,20260614073227,https://data.insideairbnb.com/united-states/ca/san-francisco/2026-06-14/data/listings.csv.gz
+San Francisco,United States,California,CA,san-francisco,city,nonEU,2026-09-14,post,20260914002145,https://data.insideairbnb.com/united-states/ca/san-francisco/2026-09-14/data/listings.csv.gz
+San Mateo County,United States,California,CA,san-mateo-county,city,nonEU,2025-12-28,pre,20251228033126,https://data.insideairbnb.com/united-states/ca/san-mateo-county/2025-12-28/data/listings.csv.gz
+San Mateo County,United States,California,CA,san-mateo-county,city,nonEU,2026-03-29,pre,20260329180834,https://data.insideairbnb.com/united-states/ca/san-mateo-county/2026-03-29/data/listings.csv.gz
+San Mateo County,United States,California,CA,san-mateo-county,city,nonEU,2026-06-27,post,20260627230215,https://data.insideairbnb.com/united-states/ca/san-mateo-county/2026-06-27/data/listings.csv.gz
+San Mateo County,United States,California,CA,san-mateo-county,city,nonEU,2026-09-21,post,20260921222902,https://data.insideairbnb.com/united-states/ca/san-mateo-county/2026-09-21/data/listings.csv.gz
+Santa Clara County,United States,California,CA,santa-clara-county,city,nonEU,2025-12-28,pre,20251228034203,https://data.insideairbnb.com/united-states/ca/santa-clara-county/2025-12-28/data/listings.csv.gz
+Santa Clara County,United States,California,CA,santa-clara-county,city,nonEU,2026-03-29,pre,20260329180916,https://data.insideairbnb.com/united-states/ca/santa-clara-county/2026-03-29/data/listings.csv.gz
+Santa Clara County,United States,California,CA,santa-clara-county,city,nonEU,2026-06-28,post,20260628205554,https://data.insideairbnb.com/united-states/ca/santa-clara-county/2026-06-28/data/listings.csv.gz
+Santa Clara County,United States,California,CA,santa-clara-county,city,nonEU,2026-09-21,post,20260921222924,https://data.insideairbnb.com/united-states/ca/santa-clara-county/2026-09-21/data/listings.csv.gz
+Santa Cruz County,United States,California,CA,santa-cruz-county,city,nonEU,2025-12-31,pre,20251231033120,https://data.insideairbnb.com/united-states/ca/santa-cruz-county/2025-12-31/data/listings.csv.gz
+Santa Cruz County,United States,California,CA,santa-cruz-county,city,nonEU,2026-03-31,pre,20260331160228,https://data.insideairbnb.com/united-states/ca/santa-cruz-county/2026-03-31/data/listings.csv.gz
+Santa Cruz County,United States,California,CA,santa-cruz-county,city,nonEU,2026-06-30,post,20260630202033,https://data.insideairbnb.com/united-states/ca/santa-cruz-county/2026-06-30/data/listings.csv.gz
+Santa Cruz County,United States,California,CA,santa-cruz-county,city,nonEU,2026-09-28,post,20260928020943,https://data.insideairbnb.com/united-states/ca/santa-cruz-county/2026-09-28/data/listings.csv.gz
+Seattle,United States,Washington,WA,seattle,city,nonEU,2025-12-28,pre,20251228033037,https://data.insideairbnb.com/united-states/wa/seattle/2025-12-28/data/listings.csv.gz
+Seattle,United States,Washington,WA,seattle,city,nonEU,2026-03-29,pre,20260329053322,https://data.insideairbnb.com/united-states/wa/seattle/2026-03-29/data/listings.csv.gz
+Seattle,United States,Washington,WA,seattle,city,nonEU,2026-06-15,post,20260615212226,https://data.insideairbnb.com/united-states/wa/seattle/2026-06-15/data/listings.csv.gz
+Seattle,United States,Washington,WA,seattle,city,nonEU,2026-09-20,post,20260920135946,https://data.insideairbnb.com/united-states/wa/seattle/2026-09-20/data/listings.csv.gz
+Twin Cities MSA,United States,Minnesota,MN,twin-cities-msa,city,nonEU,2025-12-27,pre,20251227053846,https://data.insideairbnb.com/united-states/mn/twin-cities-msa/2025-12-27/data/listings.csv.gz
+Twin Cities MSA,United States,Minnesota,MN,twin-cities-msa,city,nonEU,2026-03-29,pre,20260329053111,https://data.insideairbnb.com/united-states/mn/twin-cities-msa/2026-03-29/data/listings.csv.gz
+Twin Cities MSA,United States,Minnesota,MN,twin-cities-msa,city,nonEU,2026-06-27,post,20260627225942,https://data.insideairbnb.com/united-states/mn/twin-cities-msa/2026-06-27/data/listings.csv.gz
+Twin Cities MSA,United States,Minnesota,MN,twin-cities-msa,city,nonEU,2026-09-20,post,20260920135906,https://data.insideairbnb.com/united-states/mn/twin-cities-msa/2026-09-20/data/listings.csv.gz
+"Washington, D.C.",United States,District of Columbia,DC,washington-dc,city,nonEU,2025-12-25,pre,20251225141736,https://data.insideairbnb.com/united-states/dc/washington-dc/2025-12-25/data/listings.csv.gz
+"Washington, D.C.",United States,District of Columbia,DC,washington-dc,city,nonEU,2026-03-27,pre,20260327042852,https://data.insideairbnb.com/united-states/dc/washington-dc/2026-03-27/data/listings.csv.gz
+"Washington, D.C.",United States,District of Columbia,DC,washington-dc,city,nonEU,2026-06-24,post,20260624160338,https://data.insideairbnb.com/united-states/dc/washington-dc/2026-06-24/data/listings.csv.gz
+"Washington, D.C.",United States,District of Columbia,DC,washington-dc,city,nonEU,2026-09-19,post,20260919134059,https://data.insideairbnb.com/united-states/dc/washington-dc/2026-09-19/data/listings.csv.gz

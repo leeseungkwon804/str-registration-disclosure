@@ -1,0 +1,296 @@
+{
+ "weights_file": "tabpfn-v3.5-20260909.safetensors",
+ "offline_env": {
+  "HF_HUB_OFFLINE": "1",
+  "TRANSFORMERS_OFFLINE": "1",
+  "TABPFN_ALLOW_CLI_INTERACTION": "False"
+ },
+ "torch": "2.4.1+cu124",
+ "cuda": true,
+ "gpu": "NVIDIA RTX 4000 Ada Generation",
+ "sample": {
+  "n_total": 61799,
+  "n_units": 64,
+  "by_grp": {
+   "nonEU": 16749,
+   "EU_pretreated": 15612,
+   "EU_unconfirmed": 9094,
+   "EU_reversal": 7144,
+   "EU_aligned": 4800,
+   "EEA_nonEU": 4800,
+   "EU_noscheme": 3600
+  },
+  "y3_share": {
+   "0": 0.777,
+   "2": 0.1951,
+   "1": 0.0279
+  }
+ },
+ "tabpfn_version": "9.2.0",
+ "smoke_fit_secs": 2.83,
+ "model": "TabPFN",
+ "cv_eu": {
+  "auc_ovr_macro": 0.6955,
+  "auc_sd": 0.029,
+  "bal_acc": 0.3492,
+  "accuracy": 0.7552,
+  "folds": 4,
+  "fit_secs_mean": 1.08,
+  "n": 8000,
+  "class_share": {
+   "0": 0.7641,
+   "1": 0.0356,
+   "2": 0.2003
+  }
+ },
+ "perm_eu": {
+  "baseline_bal_acc": 0.3516,
+  "importances": [
+   {
+    "feature": "avail365",
+    "drop_bal_acc": 0.01981,
+    "sd": 0.00515
+   },
+   {
+    "feature": "n_reviews",
+    "drop_bal_acc": 0.01228,
+    "sd": 0.00243
+   },
+   {
+    "feature": "reviews_per_month",
+    "drop_bal_acc": 0.01071,
+    "sd": 0.0015
+   },
+   {
+    "feature": "min_nights",
+    "drop_bal_acc": 0.00911,
+    "sd": 0.00486
+   },
+   {
+    "feature": "host_listings",
+    "drop_bal_acc": 0.00611,
+    "sd": 0.0012
+   },
+   {
+    "feature": "multi",
+    "drop_bal_acc": 0.00599,
+    "sd": 0.00187
+   },
+   {
+    "feature": "lon",
+    "drop_bal_acc": 0.00463,
+    "sd": 0.00678
+   },
+   {
+    "feature": "superhost",
+    "drop_bal_acc": 0.00413,
+    "sd": 0.00266
+   },
+   {
+    "feature": "host_tenure_yrs",
+    "drop_bal_acc": 0.00176,
+    "sd": 0.00111
+   },
+   {
+    "feature": "private_room",
+    "drop_bal_acc": 0.00127,
+    "sd": 0.00286
+   },
+   {
+    "feature": "entire",
+    "drop_bal_acc": 0.00014,
+    "sd": 0.0006
+   },
+   {
+    "feature": "n_tokens",
+    "drop_bal_acc": 0.0,
+    "sd": 0.0
+   },
+   {
+    "feature": "has_br",
+    "drop_bal_acc": 0.0,
+    "sd": 0.0
+   },
+   {
+    "feature": "price",
+    "drop_bal_acc": 0.0,
+    "sd": 0.0
+   },
+   {
+    "feature": "accommodates",
+    "drop_bal_acc": -0.00024,
+    "sd": 0.00105
+   },
+   {
+    "feature": "n_reviews_ltm",
+    "drop_bal_acc": -0.00068,
+    "sd": 0.00204
+   },
+   {
+    "feature": "lat",
+    "drop_bal_acc": -0.00313,
+    "sd": 0.00297
+   }
+  ]
+ },
+ "cv_noneu": {
+  "auc_ovr_macro": 0.6401,
+  "auc_sd": 0.0811,
+  "bal_acc": 0.3485,
+  "accuracy": 0.7911,
+  "folds": 4,
+  "fit_secs_mean": 0.96,
+  "n": 8000,
+  "class_share": {
+   "0": 0.786,
+   "1": 0.0097,
+   "2": 0.2042
+  }
+ },
+ "perm_noneu": {
+  "baseline_bal_acc": 0.3573,
+  "importances": [
+   {
+    "feature": "avail365",
+    "drop_bal_acc": 0.01855,
+    "sd": 0.00116
+   },
+   {
+    "feature": "n_reviews",
+    "drop_bal_acc": 0.01704,
+    "sd": 0.00203
+   },
+   {
+    "feature": "lat",
+    "drop_bal_acc": 0.01577,
+    "sd": 0.00093
+   },
+   {
+    "feature": "multi",
+    "drop_bal_acc": 0.01485,
+    "sd": 0.00219
+   },
+   {
+    "feature": "host_listings",
+    "drop_bal_acc": 0.01381,
+    "sd": 0.00096
+   },
+   {
+    "feature": "reviews_per_month",
+    "drop_bal_acc": 0.01259,
+    "sd": 0.00283
+   },
+   {
+    "feature": "n_reviews_ltm",
+    "drop_bal_acc": 0.00943,
+    "sd": 0.00056
+   },
+   {
+    "feature": "price",
+    "drop_bal_acc": 0.00853,
+    "sd": 0.0012
+   },
+   {
+    "feature": "entire",
+    "drop_bal_acc": 0.00801,
+    "sd": 0.00368
+   },
+   {
+    "feature": "lon",
+    "drop_bal_acc": 0.00771,
+    "sd": 0.00243
+   },
+   {
+    "feature": "superhost",
+    "drop_bal_acc": 0.00657,
+    "sd": 0.00129
+   },
+   {
+    "feature": "accommodates",
+    "drop_bal_acc": 0.00649,
+    "sd": 0.00029
+   },
+   {
+    "feature": "host_tenure_yrs",
+    "drop_bal_acc": 0.00635,
+    "sd": 0.00111
+   },
+   {
+    "feature": "n_tokens",
+    "drop_bal_acc": 0.0,
+    "sd": 0.0
+   },
+   {
+    "feature": "has_br",
+    "drop_bal_acc": 0.0,
+    "sd": 0.0
+   },
+   {
+    "feature": "min_nights",
+    "drop_bal_acc": -0.00148,
+    "sd": 0.00071
+   },
+   {
+    "feature": "private_room",
+    "drop_bal_acc": -0.00417,
+    "sd": 0.00112
+   }
+  ]
+ },
+ "cv_es": {
+  "auc_ovr_macro": 0.69,
+  "auc_sd": 0.0478,
+  "bal_acc": 0.4297,
+  "accuracy": 0.5549,
+  "folds": 4,
+  "fit_secs_mean": 0.88,
+  "n": 7144,
+  "class_share": {
+   "0": 0.5655,
+   "1": 0.151,
+   "2": 0.2835
+  }
+ },
+ "cv_steady": {
+  "auc_ovr_macro": 0.7221,
+  "auc_sd": 0.0684,
+  "bal_acc": 0.3974,
+  "accuracy": 0.8103,
+  "folds": 4,
+  "fit_secs_mean": 0.92,
+  "n": 8000,
+  "class_share": {
+   "0": 0.8031,
+   "1": 0.023,
+   "2": 0.1739
+  }
+ },
+ "sample_cap_probe": [
+  {
+   "n": 1000,
+   "secs": 0.84,
+   "status": "ok"
+  },
+  {
+   "n": 2000,
+   "secs": 0.71,
+   "status": "ok"
+  },
+  {
+   "n": 4000,
+   "secs": 1.03,
+   "status": "ok"
+  },
+  {
+   "n": 8000,
+   "secs": 1.24,
+   "status": "ok"
+  },
+  {
+   "n": 16000,
+   "secs": 1.71,
+   "status": "ok"
+  }
+ ],
+ "credential_file_touched": false
+}
